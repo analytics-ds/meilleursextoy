@@ -1,0 +1,176 @@
+{{ define "main" }}
+
+<section class="hero">
+    <div class="hero-marquee" aria-hidden="true">
+        <div class="hero-marquee-track">
+            <span class="hero-marquee-text">Libérez le désir qui sommeille en vous&nbsp;·&nbsp;</span>
+            <span class="hero-marquee-text">Libérez le désir qui sommeille en vous&nbsp;·&nbsp;</span>
+        </div>
+    </div>
+    <div class="hero-container">
+        <div class="hero-content">
+            <span class="hero-badge">Avis, comparatifs et guides</span>
+            <h1>Entrez dans un univers <span class="accent">de plaisirs</span> sans tabou</h1>
+            <p class="hero-description">Une sélection rigoureuse de sextoys testés, classés et expliqués. Pour explorer votre intimité avec confiance, en solo ou à deux.</p>
+            <div class="hero-ctas">
+                <a href="{{ "/blog/" | relURL }}" class="btn-primary">Voir notre top 10</a>
+                <a href="{{ "/categories/guides/" | relURL }}" class="btn-secondary">Lire les guides</a>
+            </div>
+            <dl class="hero-stats">
+                <div>
+                    <dt class="hero-stat-label">Produits testés</dt>
+                    <dd class="hero-stat-value">120+</dd>
+                </div>
+                <div>
+                    <dt class="hero-stat-label">Guides experts</dt>
+                    <dd class="hero-stat-value">35</dd>
+                </div>
+                <div>
+                    <dt class="hero-stat-label">Lectrices</dt>
+                    <dd class="hero-stat-value">28k</dd>
+                </div>
+            </dl>
+        </div>
+        <div class="hero-image-wrapper">
+            <div class="hero-image">
+                <img src="https://picsum.photos/seed/passion-hero/740/868" alt="Visuel sensuel" loading="eager">
+            </div>
+            <div class="hero-image-badge">
+                <p class="hero-image-badge-label">Coup de coeur</p>
+                <p class="hero-image-badge-title">Womanizer OG</p>
+                <p class="hero-image-badge-note">Note 9.4/10</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="section-header">
+            <div>
+                <span class="section-eyebrow">Nouveautés</span>
+                <h2 class="section-title">Les nouveautés qui réveillent les sens</h2>
+            </div>
+            <a href="{{ "/categories/stimulateurs/" | relURL }}" class="section-link">Voir toutes les nouveautés →</a>
+        </div>
+        <div class="grid-products">
+            {{ $products := slice
+                (dict "name" "Womanizer OG" "cat" "Stimulateur clitoridien" "price" "199 €" "note" "9.4" "seed" "wm-og" "slug" "womanizer-og")
+                (dict "name" "Satisfyer Pro 4 Couples" "cat" "Couples" "price" "49 €" "note" "8.7" "seed" "sat-pro4" "slug" "satisfyer-pro-4")
+                (dict "name" "Lelo Sona 2 Cruise" "cat" "Onde sonique" "price" "139 €" "note" "9.1" "seed" "lelo-sona" "slug" "lelo-sona-2")
+                (dict "name" "We-Vibe Chorus" "cat" "Connecté" "price" "199 €" "note" "9.0" "seed" "we-vibe" "slug" "we-vibe-chorus")
+            }}
+            {{ range $products }}
+            <a href="{{ "/blog/" | relURL }}" class="product-card">
+                <div class="product-card-image">
+                    <img src="https://picsum.photos/seed/{{ .seed }}/648/734" alt="{{ .name }}" loading="lazy">
+                    <span class="product-card-badge">Top {{ .note }}</span>
+                </div>
+                <div class="product-card-body">
+                    <div>
+                        <span class="product-card-category">{{ .cat }}</span>
+                        <p class="product-card-name">{{ .name }}</p>
+                    </div>
+                    <span class="product-card-price">{{ .price }}</span>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<section class="section section-alt">
+    <div class="container">
+        <div class="section-header">
+            <div>
+                <span class="section-eyebrow">Notre approche</span>
+                <h2 class="section-title">Redéfinir l'intimité avec attention</h2>
+            </div>
+        </div>
+        <div class="values-grid">
+            <div class="value-card">
+                <span class="value-number">01</span>
+                <h3 class="value-title">Tests sans filtre</h3>
+                <p class="value-text">Chaque produit est testé dans la durée, avec un protocole précis et une note motivée.</p>
+            </div>
+            <div class="value-card">
+                <span class="value-number">02</span>
+                <h3 class="value-title">Discrétion totale</h3>
+                <p class="value-text">Conseils sur les marques qui livrent en colis neutre et facturent sous nom anonyme.</p>
+            </div>
+            <div class="value-card">
+                <span class="value-number">03</span>
+                <h3 class="value-title">Plaisir éclairé</h3>
+                <p class="value-text">Guides pédagogiques pour choisir selon vos envies, votre anatomie et votre budget.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section section-dark">
+    <div class="container">
+        <div class="testimonial-grid">
+            <div class="testimonial-image">
+                <img src="https://picsum.photos/seed/portrait-temoignage/640/800" alt="Portrait Camille" loading="lazy">
+            </div>
+            <div>
+                <span class="section-eyebrow">Ils en parlent</span>
+                <blockquote>
+                    <p class="testimonial-quote">«&nbsp;Avant je n'osais pas. Leurs comparatifs m'ont aidée à choisir un premier sextoy sans stress. C'est devenu un vrai rendez-vous pour moi et mon copain.&nbsp;»</p>
+                </blockquote>
+                <div class="testimonial-author">
+                    <div class="testimonial-avatar">
+                        <img src="https://picsum.photos/seed/avatar-camille/96/96" alt="Avatar">
+                    </div>
+                    <div>
+                        <p class="testimonial-author-name">Camille, 31 ans</p>
+                        <p class="testimonial-author-role">Lectrice depuis 2024</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="section">
+    <div class="container">
+        <div class="section-header">
+            <div>
+                <span class="section-eyebrow">Magazine</span>
+                <h2 class="section-title">Plongez dans le désir avec nos guides</h2>
+            </div>
+            <a href="{{ "/blog/" | relURL }}" class="section-link">Tous les articles →</a>
+        </div>
+        <div class="grid-articles">
+            {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+            <a href="{{ .RelPermalink }}" class="article-card">
+                <div class="article-card-image">
+                    <img src="https://picsum.photos/seed/{{ .File.BaseFileName }}/800/600" alt="{{ .Title }}" loading="lazy">
+                </div>
+                <div class="article-card-body">
+                    {{ with .Params.categories }}
+                    <span class="article-card-category">{{ index . 0 }}</span>
+                    {{ end }}
+                    <h3 class="article-card-title">{{ .Title }}</h3>
+                    <p class="article-card-excerpt">{{ .Description }}</p>
+                </div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<section class="section section-dark newsletter">
+    <div class="container">
+        <span class="section-eyebrow">Newsletter</span>
+        <h2 class="section-title">Inscrivez-vous pour les nouveautés et nos tests en avant-première</h2>
+        <p class="newsletter-description">Un mail par semaine, jamais de spam, désinscription en un clic.</p>
+        <form class="newsletter-form" action="#" method="post">
+            <label class="sr-only" for="newsletter-email">Email</label>
+            <input id="newsletter-email" class="newsletter-input" type="email" placeholder="votre@email.fr" required>
+            <button class="newsletter-submit" type="submit">S'inscrire</button>
+        </form>
+    </div>
+</section>
+
+{{ end }}

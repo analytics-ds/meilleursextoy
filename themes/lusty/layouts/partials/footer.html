@@ -1,0 +1,39 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <div class="footer-brand-name">meilleursextoy<span class="dot">.</span></div>
+                <p>Guides et comparatifs indépendants pour explorer votre intimité en toute confiance. Site réservé à un public adulte.</p>
+            </div>
+            <div class="footer-col">
+                <h4>Catalogue</h4>
+                <ul>
+                    {{ range .Site.Taxonomies.categories }}
+                    <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Navigation</h4>
+                <ul>
+                    {{ range .Site.Menus.main }}
+                    <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+            <div class="footer-col">
+                <h4>Le site</h4>
+                <ul>
+                    <li><a href="{{ "/a-propos/" | relURL }}">À propos</a></li>
+                    <li><a href="{{ "/contact/" | relURL }}">Contact</a></li>
+                    <li><a href="{{ "/mentions-legales/" | relURL }}">Mentions légales</a></li>
+                    <li><a href="{{ "/plan-du-site/" | relURL }}">Plan du site</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <p>© {{ now.Year }} {{ .Site.Title }}. Réservé aux 18 ans et plus.</p>
+            <p>Site indépendant, sans lien avec les marques citées.</p>
+        </div>
+    </div>
+</footer>
