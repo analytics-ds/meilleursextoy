@@ -81,9 +81,9 @@ articles:
     volume: 390
     kd: null
     scheduled_date: "2026-06-16"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/sextoy-connecte/"
     published_url_en: null
     error: null
 
@@ -92,9 +92,9 @@ articles:
     volume: 260
     kd: null
     scheduled_date: "2026-06-19"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/comment-trouver-son-point-g/"
     published_url_en: null
     error: null
 
@@ -103,9 +103,9 @@ articles:
     volume: 170
     kd: null
     scheduled_date: "2026-06-23"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/sextoy-discret/"
     published_url_en: null
     error: null
 
