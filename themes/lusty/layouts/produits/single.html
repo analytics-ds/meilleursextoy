@@ -1,0 +1,110 @@
+{{ define "main" }}
+
+<article class="product-page">
+    <div class="product-hero">
+        <div class="container">
+            <nav class="breadcrumb" aria-label="Fil d'Ariane">
+                <a href="{{ "/" | relURL }}">Accueil</a>
+                <span class="breadcrumb-sep">/</span>
+                <a href="{{ "/produits/" | relURL }}">Produits</a>
+                <span class="breadcrumb-sep">/</span>
+                <span>{{ .Title }}</span>
+            </nav>
+
+            <div class="product-hero-grid">
+                <div class="product-hero-image">
+                    {{ with .Params.image }}
+                    <img src="{{ . | relLangURL }}" alt="{{ $.Title }}" loading="eager">
+                    {{ end }}
+                </div>
+
+                <div class="product-hero-info">
+                    {{ with .Params.brand }}
+                    <span class="product-brand">{{ . }}</span>
+                    {{ end }}
+                    <h1>{{ .Title }}</h1>
+                    {{ with .Params.tagline }}
+                    <p class="product-tagline">{{ . }}</p>
+                    {{ end }}
+
+                    <div class="product-meta">
+                        {{ with .Params.note }}
+                        <div class="product-note">
+                            <span class="product-note-value">{{ . }}</span>
+                            <span class="product-note-label">/10 sur notre échelle</span>
+                        </div>
+                        {{ end }}
+                        {{ with .Params.price }}
+                        <div class="product-price">
+                            <span class="product-price-label">Prix indicatif</span>
+                            <span class="product-price-value">{{ . }}</span>
+                        </div>
+                        {{ end }}
+                    </div>
+
+                    {{ with .Params.highlights }}
+                    <ul class="product-highlights">
+                        {{ range . }}<li>{{ . }}</li>{{ end }}
+                    </ul>
+                    {{ end }}
+
+                    <p class="product-disclaimer">Fiche descriptive, sans lien d'achat. Pour les avis détaillés, voir nos comparatifs.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="product-content">
+        <div class="container container-narrow">
+            <div class="product-content-body">
+                {{ .Content }}
+            </div>
+
+            {{ with .Params.specs }}
+            <section class="product-specs">
+                <h2>Caractéristiques techniques</h2>
+                <table>
+                    <tbody>
+                        {{ range $key, $value := . }}
+                        <tr><th>{{ $key }}</th><td>{{ $value }}</td></tr>
+                        {{ end }}
+                    </tbody>
+                </table>
+            </section>
+            {{ end }}
+
+            {{ if or .Params.pros .Params.cons }}
+            <section class="product-prosncons">
+                <h2>En résumé</h2>
+                <div class="prosncons-grid">
+                    {{ with .Params.pros }}
+                    <div class="prosncons-block prosncons-pros">
+                        <h3>Ce qui plaît</h3>
+                        <ul>
+                            {{ range . }}<li>{{ . }}</li>{{ end }}
+                        </ul>
+                    </div>
+                    {{ end }}
+                    {{ with .Params.cons }}
+                    <div class="prosncons-block prosncons-cons">
+                        <h3>Ce qui peut gêner</h3>
+                        <ul>
+                            {{ range . }}<li>{{ . }}</li>{{ end }}
+                        </ul>
+                    </div>
+                    {{ end }}
+                </div>
+            </section>
+            {{ end }}
+
+            {{ with .Params.verdict }}
+            <section class="product-verdict">
+                <h2>Notre verdict</h2>
+                <p>{{ . }}</p>
+            </section>
+            {{ end }}
+        </div>
+    </div>
+</article>
+
+{{ end }}

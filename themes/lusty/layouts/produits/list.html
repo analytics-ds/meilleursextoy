@@ -1,0 +1,41 @@
+{{ define "main" }}
+
+<section class="list-header">
+    <div class="container">
+        <h1>Nos fiches produits</h1>
+        <p class="list-description">Sélection de sextoys présentés en détail. Pas de panier, pas de vente, juste l'info pour faire le bon choix.</p>
+        <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}fiches{{ else }}fiche{{ end }}</span>
+    </div>
+</section>
+
+<section class="list-content">
+    <div class="container">
+        <div class="grid-products">
+            {{ range .Pages.ByDate.Reverse }}
+            <a href="{{ .RelPermalink }}" class="product-card">
+                <div class="product-card-image">
+                    {{ with .Params.image }}
+                    <img src="{{ . | relLangURL }}" alt="{{ $.Title }}" loading="lazy">
+                    {{ end }}
+                    {{ with .Params.note }}
+                    <span class="product-card-badge">Top {{ . }}</span>
+                    {{ end }}
+                </div>
+                <div class="product-card-body">
+                    <div>
+                        {{ with .Params.category }}
+                        <span class="product-card-category">{{ . }}</span>
+                        {{ end }}
+                        <p class="product-card-name">{{ .Title }}</p>
+                    </div>
+                    {{ with .Params.price }}
+                    <span class="product-card-price">{{ . }}</span>
+                    {{ end }}
+                </div>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}

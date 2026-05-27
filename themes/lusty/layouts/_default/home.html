@@ -38,17 +38,17 @@
                 <span class="section-eyebrow">Nouveautés</span>
                 <h2 class="section-title">Les nouveautés qui réveillent les sens</h2>
             </div>
-            <a href="{{ "/categories/stimulateurs/" | relURL }}" class="section-link">Voir toutes les nouveautés →</a>
+            <a href="{{ "/produits/" | relLangURL }}" class="section-link">Voir toutes les fiches produits →</a>
         </div>
         <div class="grid-products">
             {{ $products := slice
-                (dict "name" "Womanizer OG" "cat" "Stimulateur clitoridien" "price" "199 €" "note" "9.4" "img" "womanizer-og.jpg" "slug" "womanizer-og")
-                (dict "name" "Satisfyer Pro 4 Couples" "cat" "Couples" "price" "49 €" "note" "8.7" "img" "satisfyer-pro-4.jpg" "slug" "satisfyer-pro-4")
-                (dict "name" "Lelo Sona 2 Cruise" "cat" "Onde sonique" "price" "139 €" "note" "9.1" "img" "lelo-sona-2.jpg" "slug" "lelo-sona-2")
-                (dict "name" "We-Vibe Chorus" "cat" "Connecté" "price" "199 €" "note" "9.0" "img" "we-vibe-chorus.jpg" "slug" "we-vibe-chorus")
+                (dict "name" "Womanizer OG" "cat" "Stimulateur G-spot" "price" "199 €" "note" "9.4" "img" "womanizer-og.jpg" "slug" "womanizer-og")
+                (dict "name" "Satisfyer Pro 4 Couples" "cat" "Toy couples" "price" "49 €" "note" "8.7" "img" "satisfyer-pro-4.jpg" "slug" "satisfyer-pro-4-couples")
+                (dict "name" "Lelo Sona 2 Cruise" "cat" "Onde sonique" "price" "139 €" "note" "9.1" "img" "lelo-sona-2.jpg" "slug" "lelo-sona-2-cruise")
+                (dict "name" "We-Vibe Chorus" "cat" "Couples connecté" "price" "199 €" "note" "9.0" "img" "we-vibe-chorus.jpg" "slug" "we-vibe-chorus")
             }}
             {{ range $products }}
-            <a href="{{ "/blog/" | relURL }}" class="product-card">
+            <a href="{{ printf "/produits/%s/" .slug | relLangURL }}" class="product-card">
                 <div class="product-card-image">
                     <img src="{{ "images/products/" | relLangURL }}{{ .img }}" alt="{{ .name }}" loading="lazy">
                     <span class="product-card-badge">Top {{ .note }}</span>
