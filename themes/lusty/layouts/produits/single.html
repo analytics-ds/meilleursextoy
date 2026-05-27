@@ -6,7 +6,7 @@
             <nav class="breadcrumb" aria-label="Fil d'Ariane">
                 <a href="{{ "/" | relURL }}">Accueil</a>
                 <span class="breadcrumb-sep">/</span>
-                <a href="{{ "/produits/" | relURL }}">Produits</a>
+                <a href="{{ "produits/" | relURL }}">Produits</a>
                 <span class="breadcrumb-sep">/</span>
                 <span>{{ .Title }}</span>
             </nav>
@@ -14,7 +14,7 @@
             <div class="product-hero-grid">
                 <div class="product-hero-image">
                     {{ with .Params.image }}
-                    <img src="{{ . | relLangURL }}" alt="{{ $.Title }}" loading="eager">
+                    <img src="{{ . | strings.TrimPrefix "/" | relLangURL }}" alt="{{ $.Title }}" loading="eager">
                     {{ end }}
                 </div>
 

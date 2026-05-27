@@ -15,7 +15,7 @@
             <a href="{{ .RelPermalink }}" class="product-card">
                 <div class="product-card-image">
                     {{ with .Params.image }}
-                    <img src="{{ . | relLangURL }}" alt="{{ $.Title }}" loading="lazy">
+                    <img src="{{ . | strings.TrimPrefix "/" | relLangURL }}" alt="{{ $.Title }}" loading="lazy">
                     {{ end }}
                     {{ with .Params.note }}
                     <span class="product-card-badge">Top {{ . }}</span>

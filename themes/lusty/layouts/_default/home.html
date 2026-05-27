@@ -10,8 +10,8 @@
             <h1>Entrez dans un univers <span class="accent">de plaisirs</span> interdits</h1>
             <p class="hero-description">Sélection rigoureuse de sextoys testés, classés et expliqués. Pour explorer votre intimité avec confiance, sans tabou.</p>
             <div class="hero-ctas">
-                <a href="{{ "/blog/" | relURL }}" class="btn-primary">Voir notre top 10</a>
-                <a href="{{ "/categories/guides/" | relURL }}" class="btn-secondary">Lire les guides</a>
+                <a href="{{ "blog/" | relURL }}" class="btn-primary">Voir notre top 10</a>
+                <a href="{{ "categories/guides/" | relURL }}" class="btn-secondary">Lire les guides</a>
             </div>
             <dl class="hero-stats">
                 <div>
@@ -38,7 +38,7 @@
                 <span class="section-eyebrow">Nouveautés</span>
                 <h2 class="section-title">Les nouveautés qui réveillent les sens</h2>
             </div>
-            <a href="{{ "/produits/" | relLangURL }}" class="section-link">Voir toutes les fiches produits →</a>
+            <a href="{{ "produits/" | relLangURL }}" class="section-link">Voir toutes les fiches produits →</a>
         </div>
         <div class="grid-products">
             {{ $products := slice
@@ -48,7 +48,7 @@
                 (dict "name" "We-Vibe Chorus" "cat" "Couples connecté" "price" "199 €" "note" "9.0" "img" "we-vibe-chorus.jpg" "slug" "we-vibe-chorus")
             }}
             {{ range $products }}
-            <a href="{{ printf "/produits/%s/" .slug | relLangURL }}" class="product-card">
+            <a href="{{ printf "produits/%s/" .slug | relLangURL }}" class="product-card">
                 <div class="product-card-image">
                     <img src="{{ "images/products/" | relLangURL }}{{ .img }}" alt="{{ .name }}" loading="lazy">
                     <span class="product-card-badge">Top {{ .note }}</span>
@@ -126,7 +126,7 @@
                 <span class="section-eyebrow">Magazine</span>
                 <h2 class="section-title">Plongez dans le désir avec nos guides</h2>
             </div>
-            <a href="{{ "/blog/" | relURL }}" class="section-link">Tous les articles →</a>
+            <a href="{{ "blog/" | relURL }}" class="section-link">Tous les articles →</a>
         </div>
         <div class="grid-articles">
             {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
