@@ -1,0 +1,59 @@
+{{ define "main" }}
+
+<article class="single-article">
+    <header class="article-header">
+        <div class="container">
+            <div class="article-meta">
+                {{ with .Params.categories }}
+                <a href="{{ "/categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-category">{{ index . 0 }}</a>
+                {{ end }}
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
+                {{ if .Params.readingTime }}
+                <span class="reading-time">{{ .ReadingTime }} min de lecture</span>
+                {{ end }}
+            </div>
+            <h1>{{ .Title }}</h1>
+            {{ with .Description }}
+            <p class="article-description">{{ . }}</p>
+            {{ end }}
+            {{ with .Params.author }}
+            <div class="article-author">
+                <span class="author-label">Par</span>
+                <span class="author-name">{{ . }}</span>
+            </div>
+            {{ end }}
+            <div class="article-tags">
+                {{ range .Params.tags }}
+                <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
+                {{ end }}
+            </div>
+        </div>
+    </header>
+
+    <div class="article-content">
+        <div class="container container-narrow">
+            {{ .Content }}
+        </div>
+    </div>
+
+    <footer class="article-footer">
+        <div class="container container-narrow">
+            <nav class="article-nav">
+                {{ with .PrevInSection }}
+                <a href="{{ .RelPermalink }}" class="nav-prev">
+                    <span class="nav-label">Article precedent</span>
+                    <span class="nav-title">{{ .Title }}</span>
+                </a>
+                {{ end }}
+                {{ with .NextInSection }}
+                <a href="{{ .RelPermalink }}" class="nav-next">
+                    <span class="nav-label">Article suivant</span>
+                    <span class="nav-title">{{ .Title }}</span>
+                </a>
+                {{ end }}
+            </nav>
+        </div>
+    </footer>
+</article>
+
+{{ end }}
