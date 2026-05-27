@@ -9,11 +9,11 @@ draft: false
 image: "/images/products/womanizer-og.jpg"
 ---
 
-Le **squirting**, parfois appelé phénomène de la **femme fontaine**, fascine et intrigue. Entre mythes, fantasmes et réalité physiologique, peu de personnes savent vraiment de quoi il s'agit. Cet article fait le point sur ce qu'est le squirting, d'où vient le **fluide** libéré, comment ce **phénomène** se produit et s'il est **normal** chez toutes les **femme**s.
+Le **squirting**, autre nom du phénomène de la **femme fontaine**, fascine et dérange à parts égales. Entre mythes, fantasmes et réalité physiologique, peu de personnes savent vraiment ce que recouvre ce mot. Cet article fait le point sur ce qu'est le squirting, d'où vient le **fluide** libéré, comment ce **phénomène** se produit et s'il est **normal** chez toutes les **femme**s.
 
 ![Schema anatomique du clitoris et du point G impliques dans le squirting](/images/products/womanizer-og.jpg "Anatomie impliquée dans le squirting")
 
-## En résumé
+## À retenir
 
 - **Définition** : émission de **fluide** par la **vulve** lors d'une forte **stimulation sexuelle** ou d'un **orgasme**, par **deux** mécanismes possibles (squirting et **éjaculation féminine**)
 - **Origine** : majoritairement la **vessie**, avec **urine** très diluée et sécrétions des glandes de Skene
@@ -24,20 +24,20 @@ Le **squirting**, parfois appelé phénomène de la **femme fontaine**, fascine 
 
 ## Qu'est-ce que le squirting
 
-Le squirting désigne **l'émission fontaine** d'un **écoulement** plus ou moins abondant par la **vulve** lors d'une forte **excitation sexuelle** ou pendant un **orgasme**. Le terme anglais **squirting female** est devenu courant pour décrire ce **phénomène**, traduit par "femme fontaine" en français.
+Le squirting nomme **l'émission fontaine** d'un **écoulement** plus ou moins abondant par la **vulve** lors d'une forte **excitation sexuelle** ou pendant un **orgasme**. Le terme anglais **squirting female** est devenu courant pour décrire ce **phénomène**, traduit par "femme fontaine" en français.
 
-Plusieurs **différentes** définitions existent dans la littérature scientifique. Les chercheurs distinguent aujourd'hui **deux** phénomènes proches mais **différentes** :
+Plusieurs **différentes** définitions cohabitent dans la littérature scientifique. Les chercheurs distinguent aujourd'hui **deux** phénomènes proches mais **différentes** :
 
 - Le squirting au sens strict : libération soudaine d'un volume de **fluide** transparent
 - **L'éjaculation féminine** : émission d'un liquide blanchâtre, plus concentré, en plus faible quantité
 
-Ces **différences** restent encore sujettes à débat dans la communauté médicale. Certaines études considèrent que les **deux** **émissions** coexistent chez les mêmes **personnes**, d'autres qu'**il s'agit** de mécanismes séparés.
+Ces **différences** restent sujettes à débat dans la communauté médicale. Certaines études considèrent que les **deux** **émissions** coexistent chez les mêmes **personnes**, d'autres décrivent des mécanismes séparés.
 
 ## D'où vient le fluide
 
-Pendant longtemps, l'origine du **fluide** émis a été un **tabou** scientifique. Plusieurs études récentes ont permis de répondre clairement à la question **qu est-ce** qui sort réellement du corps.
+Pendant longtemps, l'origine du **fluide** émis a été un **tabou** scientifique. Plusieurs études récentes répondent maintenant clairement à la question **qu est-ce** qui sort réellement du corps.
 
-Le **fluide** du squirting provient principalement de la **vessie**. Des analyses biochimiques ont confirmé qu'il contient de **l'urine** diluée, additionnée de sécrétions des glandes de Skene situées autour de l'urètre. Ces glandes sont parfois appelées **point** G prostate, par analogie à la prostate masculine.
+Le **fluide** du squirting vient principalement de la **vessie**. Des analyses biochimiques ont confirmé qu'il contient de **l'urine** diluée, mélangée à des sécrétions des glandes de Skene (situées autour de l'urètre). Ces glandes sont parfois appelées **point** G prostate, par analogie à la prostate masculine.
 
 | Élément | Squirting | **Éjaculation** féminine |
 |---|---|---|
@@ -52,13 +52,13 @@ Le **fluide** du squirting provient principalement de la **vessie**. Des analyse
 
 Beaucoup de **personnes** craignent que le squirting soit une forme **d'incontinence** urinaire involontaire. La **réalité** est nuancée.
 
-L'**incontinence** désigne une perte d'**urine** non contrôlée, généralement liée à un effort (toux, éternuement) ou à une urgence mictionnelle. Le squirting, lui, survient dans un **rapport** d'**excitation sexuelle** intense et accompagne souvent **l'orgasme**. Ce n'est **donc** pas la même **chose**, **plusieurs** études le confirment.
+L'**incontinence** désigne une perte d'**urine** non contrôlée, liée à un effort (toux, éternuement) ou à une urgence mictionnelle. Le squirting, lui, survient dans un **rapport** d'**excitation sexuelle** intense et accompagne souvent **l'orgasme**. Pas la même **chose**, **plusieurs** études le confirment.
 
-Cela dit, certaines **femme**s décrivent une **sensation** de besoin d'uriner juste avant le squirting. Cette **sensation** est **normal**e : elle est due à la pression exercée sur la **vessie** par les contractions internes. Vider la **vessie** avant un **rapport** sexuel peut atténuer cette gêne sans empêcher le **phénomène**.
+Cela dit, certaines **femme**s décrivent une **sensation** de besoin d'uriner juste avant le squirting. C'est **normal** : la pression exercée par les contractions internes sur la **vessie** mime exactement la sensation d'envie d'uriner. Vider la **vessie** avant un **rapport** sexuel atténue cette gêne sans empêcher le **phénomène**.
 
 ## Comment se produit le squirting
 
-L'apparition du squirting suit généralement plusieurs étapes. Le **savoir** permet de mieux comprendre ce qui se passe dans le corps.
+L'apparition du squirting suit plusieurs étapes. Le **savoir** aide à mieux comprendre ce qui se passe dans le corps.
 
 1. **Excitation sexuelle** prolongée : l'irrigation sanguine des organes génitaux augmente, la **vessie** se remplit de **fluide**
 2. **Stimulation** du **point** G ou de la zone érogène interne : la pression sur les glandes de Skene déclenche leur sécrétion
@@ -90,7 +90,7 @@ Ces chiffres montrent que le **phénomène** est loin d'être universel mais res
 
 ## Le squirting est-il normal et sans risque
 
-**Est-il** dangereux de squirter ? La réponse courte est non. **Il s'agit** d'une réponse physiologique **normal**e du corps féminin face à une **stimulation** intense.
+**Est-il** dangereux de squirter ? Non. C'est une réponse physiologique **normal**e du corps féminin face à une **stimulation** intense.
 
 Quelques précautions restent utiles :
 
@@ -112,7 +112,7 @@ Pour celles qui souhaitent **découvrir** ce que provoque la **stimulation** pro
 
 Un toy spécifiquement conçu pour le **point** G, comme ceux présentés dans notre [comparatif des meilleurs stimulateurs clitoridiens et G-spot](/blog/stimulateur-clitoridien-comparatif/), peut aider à atteindre la zone interne plus facilement qu'avec les doigts.
 
-L'essentiel reste **quoi** ? Le **plaisir**, pas la performance. Le squirting est une **émission** parmi d'autres expressions du **plaisir** féminin. Son absence ne traduit aucun problème, sa présence n'est pas non plus un objectif obligatoire.
+L'important reste **quoi** ? Le **plaisir**, pas la performance. Le squirting est une **émission** parmi d'autres expressions du **plaisir** féminin. Son absence ne traduit aucun problème, sa présence n'est pas non plus un objectif obligatoire.
 
 ### Mythes et réalité
 
@@ -131,7 +131,7 @@ Les analyses biochimiques montrent que le **fluide** émis vient de la **vessie*
 <details>
 <summary>Peut-on apprendre à squirter</summary>
 
-Certaines techniques de **stimulation** du **point** G favorisent le squirting, mais aucune méthode ne garantit le résultat. La capacité à squirter dépend de l'anatomie et du contexte. Le **point** essentiel est de viser le **plaisir**, pas la performance.
+Certaines techniques de **stimulation** du **point** G favorisent le squirting, mais aucune méthode ne garantit le résultat. La capacité à squirter dépend de l'anatomie et du contexte. Le **point** clé : viser le **plaisir**, pas la performance.
 </details>
 
 <details>
@@ -146,4 +146,4 @@ Une grosse libération de **fluide** peut entraîner une sensation de soif et de
 Non. Les chercheurs distinguent **deux** **phénomènes** : le squirting (volume important, **fluide** transparent venant de la **vessie**) et l'**éjaculation féminine** (volume faible, **fluide** blanchâtre venant des glandes de Skene). Les **deux** peuvent coexister chez une même personne.
 </details>
 
-Pour approfondir la connaissance de votre anatomie et de vos zones érogènes, voir aussi notre guide sur l'[anatomie du clitoris](/blog/anatomie-du-clitoris/) (à venir) et notre [comparatif des stimulateurs clitoridiens et G-spot](/blog/stimulateur-clitoridien-comparatif/).
+Pour creuser le sujet de l'anatomie féminine et des zones érogènes, voir aussi notre guide sur l'[anatomie du clitoris](/blog/anatomie-du-clitoris/) (à venir) et notre [comparatif des stimulateurs clitoridiens et G-spot](/blog/stimulateur-clitoridien-comparatif/).
