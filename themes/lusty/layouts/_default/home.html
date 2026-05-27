@@ -31,7 +31,7 @@
     </div>
 </section>
 
-<section class="section">
+<section class="section" id="produits">
     <div class="container">
         <div class="section-header">
             <div>
@@ -42,15 +42,15 @@
         </div>
         <div class="grid-products">
             {{ $products := slice
-                (dict "name" "Womanizer OG" "cat" "Stimulateur clitoridien" "price" "199 €" "note" "9.4" "seed" "wm-og" "slug" "womanizer-og")
-                (dict "name" "Satisfyer Pro 4 Couples" "cat" "Couples" "price" "49 €" "note" "8.7" "seed" "sat-pro4" "slug" "satisfyer-pro-4")
-                (dict "name" "Lelo Sona 2 Cruise" "cat" "Onde sonique" "price" "139 €" "note" "9.1" "seed" "lelo-sona" "slug" "lelo-sona-2")
-                (dict "name" "We-Vibe Chorus" "cat" "Connecté" "price" "199 €" "note" "9.0" "seed" "we-vibe" "slug" "we-vibe-chorus")
+                (dict "name" "Womanizer OG" "cat" "Stimulateur clitoridien" "price" "199 €" "note" "9.4" "img" "womanizer-og.jpg" "slug" "womanizer-og")
+                (dict "name" "Satisfyer Pro 4 Couples" "cat" "Couples" "price" "49 €" "note" "8.7" "img" "satisfyer-pro-4.jpg" "slug" "satisfyer-pro-4")
+                (dict "name" "Lelo Sona 2 Cruise" "cat" "Onde sonique" "price" "139 €" "note" "9.1" "img" "lelo-sona-2.jpg" "slug" "lelo-sona-2")
+                (dict "name" "We-Vibe Chorus" "cat" "Connecté" "price" "199 €" "note" "9.0" "img" "we-vibe-chorus.jpg" "slug" "we-vibe-chorus")
             }}
             {{ range $products }}
             <a href="{{ "/blog/" | relURL }}" class="product-card">
                 <div class="product-card-image">
-                    <img src="https://picsum.photos/seed/{{ .seed }}/648/734" alt="{{ .name }}" loading="lazy">
+                    <img src="{{ "images/products/" | relLangURL }}{{ .img }}" alt="{{ .name }}" loading="lazy">
                     <span class="product-card-badge">Top {{ .note }}</span>
                 </div>
                 <div class="product-card-body">

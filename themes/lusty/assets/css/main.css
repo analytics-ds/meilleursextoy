@@ -418,13 +418,15 @@ img {
     aspect-ratio: 648 / 734;
     overflow: hidden;
     border-radius: 10px;
-    background-color: var(--background-alt);
+    background-color: var(--white);
+    border: 1px solid var(--border);
 }
 
 .product-card-image img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    object-fit: contain;
+    padding: 1.5rem;
     transition: transform 0.5s;
 }
 
