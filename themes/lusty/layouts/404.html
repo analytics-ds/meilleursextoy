@@ -1,0 +1,24 @@
+{{ define "main" }}
+
+<section class="not-found">
+    <div class="container container-narrow">
+        <span class="not-found-code">404</span>
+        <h1>Page introuvable</h1>
+        <p>Cette URL ne correspond à aucun contenu sur le site, ou la page a peut-être été déplacée.</p>
+        <div class="not-found-actions">
+            <a href="{{ "" | relLangURL }}" class="btn-primary">Retour à l'accueil</a>
+            <a href="{{ "produits/" | relLangURL }}" class="btn-secondary">Voir les fiches produits</a>
+        </div>
+        <div class="not-found-links">
+            <p class="not-found-suggestion">Ou explorez les pages principales :</p>
+            <ul>
+                <li><a href="{{ "produits/" | relLangURL }}">Fiches produits</a></li>
+                <li><a href="{{ "blog/" | relLangURL }}">Le blog</a></li>
+                <li><a href="{{ "a-propos/" | relLangURL }}">À propos</a></li>
+                <li><a href="{{ "plan-du-site/" | relLangURL }}">Plan du site</a></li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+{{ end }}

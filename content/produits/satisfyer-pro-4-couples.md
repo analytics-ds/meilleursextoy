@@ -58,6 +58,6 @@ Le format en U demande quelques essais avant de trouver le placement idéal selo
 
 ## Pour qui c'est fait
 
-C'est le toy idéal pour un couple qui veut découvrir la stimulation partagée sans engager 200 €. Il fonctionne aussi très bien en solo, en stimulation externe simple, mais il prend tout son sens en duo. Pour un premier toy individuel à pression d'air, voir plutôt le [Satisfyer Pro 2](#) ou monter en gamme avec le [Womanizer OG](/produits/womanizer-og/).
+C'est le toy idéal pour un couple qui veut découvrir la stimulation partagée sans engager 200 €. Il fonctionne aussi très bien en solo, en stimulation externe simple, mais il prend tout son sens en duo. Pour un premier toy individuel à pression d'air, voir plutôt un Satisfyer Pro 2 (modèle externe simple) ou monter en gamme avec le [Womanizer OG](/produits/womanizer-og/).
 
 Pour mieux comprendre le segment, lire notre [comparatif des 8 meilleurs stimulateurs clitoridiens](/blog/stimulateur-clitoridien-comparatif/).

@@ -1217,6 +1217,75 @@ img {
 
 .reading-time { font-family: var(--font-ui); font-size: 0.85rem; color: var(--text-light); }
 
+/* --- 404 --- */
+.not-found {
+    text-align: center;
+    padding: 8rem 0;
+    min-height: 60vh;
+}
+
+.not-found-code {
+    display: block;
+    font-family: var(--font-heading);
+    font-size: clamp(80px, 12vw, 160px);
+    font-weight: 500;
+    color: var(--cta);
+    line-height: 1;
+    margin-bottom: 1rem;
+    text-shadow: 0 0 40px rgba(253, 40, 121, 0.3);
+}
+
+.not-found h1 {
+    font-family: var(--font-heading);
+    font-size: clamp(28px, 4vw, 48px);
+    font-weight: 500;
+    color: var(--primary);
+    margin-bottom: 1rem;
+}
+
+.not-found p {
+    color: var(--text);
+    max-width: 32rem;
+    margin: 0 auto 2.5rem;
+    font-size: 1.1rem;
+}
+
+.not-found-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+    margin-bottom: 3rem;
+}
+
+.not-found-actions .btn-secondary { color: var(--primary); border-color: var(--primary); }
+.not-found-actions .btn-secondary:hover { background-color: var(--primary); color: var(--white); }
+
+.not-found-suggestion {
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.18em;
+    color: var(--text-light);
+    margin-bottom: 1rem;
+}
+
+.not-found-links ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.not-found-links a {
+    color: var(--primary);
+    font-family: var(--font-ui);
+}
+
+.not-found-links a:hover { color: var(--cta); }
+
 /* --- Sitemap --- */
 .sitemap-page .list-header { background-color: var(--background); }
 .sitemap-content { padding: var(--space-lg) 0; }

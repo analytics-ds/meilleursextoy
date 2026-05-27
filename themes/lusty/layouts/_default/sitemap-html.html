@@ -1,0 +1,74 @@
+{{ define "main" }}
+
+<section class="sitemap-page">
+    <header class="list-header">
+        <div class="container">
+            <h1>{{ .Title }}</h1>
+            <p class="list-description">{{ .Description }}</p>
+        </div>
+    </header>
+
+    <div class="sitemap-content">
+        <div class="container container-narrow">
+
+            <div class="sitemap-section">
+                <h2>Pages principales</h2>
+                <ul class="sitemap-list">
+                    <li><a href="{{ "" | relLangURL }}">Accueil</a></li>
+                    {{ range .Site.Menus.main }}
+                    {{ $url := .URL | strings.TrimPrefix "/" | relLangURL }}
+                    <li><a href="{{ $url }}">{{ .Name }}</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            <div class="sitemap-section">
+                <h2>Fiches produits</h2>
+                <ul class="sitemap-list">
+                    {{ range (where .Site.RegularPages "Section" "produits").ByDate.Reverse }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        <span class="sitemap-date">{{ .Lastmod.Format "02/01/2006" }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            <div class="sitemap-section">
+                <h2>Articles du blog</h2>
+                <ul class="sitemap-list">
+                    {{ range (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        <span class="sitemap-date">{{ .Lastmod.Format "02/01/2006" }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            <div class="sitemap-section">
+                <h2>Catégories</h2>
+                <ul class="sitemap-list">
+                    {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
+                    <li>
+                        <a href="{{ $taxonomy.Page.RelPermalink }}">{{ $taxonomy.Page.Title }}</a>
+                        <span class="sitemap-date">{{ len $taxonomy.Pages }} {{ if gt (len $taxonomy.Pages) 1 }}articles{{ else }}article{{ end }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+
+            <div class="sitemap-section">
+                <h2>Informations</h2>
+                <ul class="sitemap-list">
+                    <li><a href="{{ "a-propos/" | relLangURL }}">À propos</a></li>
+                    <li><a href="{{ "contact/" | relLangURL }}">Contact</a></li>
+                    <li><a href="{{ "mentions-legales/" | relLangURL }}">Mentions légales</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+{{ end }}
