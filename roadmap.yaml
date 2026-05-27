@@ -147,9 +147,9 @@ articles:
     volume: 40
     kd: null
     scheduled_date: "2026-07-07"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/sextoy-longue-distance/"
     published_url_en: null
     error: null
 
@@ -158,9 +158,9 @@ articles:
     volume: 20
     kd: null
     scheduled_date: "2026-07-10"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/comment-nettoyer-son-sextoy/"
     published_url_en: null
     error: null
 
