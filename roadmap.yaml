@@ -466,9 +466,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-10-16"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/sextoy-pendant-la-grossesse/"
     published_url_en: null
     error: null
 
@@ -477,9 +477,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-10-20"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/sextoy-menopause/"
     published_url_en: null
     error: null
 
@@ -488,9 +488,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-10-23"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/sextoy-apres-accouchement/"
     published_url_en: null
     error: null
 
