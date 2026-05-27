@@ -1,0 +1,10 @@
+# Site en preprod : noindex global
+User-agent: *
+Disallow: /
+
+# Empecher l'indexation des tags meme si actives plus tard
+User-agent: *
+Disallow: /tags/
+Disallow: /tag/
+
+# Pas de sitemap publie en preprod

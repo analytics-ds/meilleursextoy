@@ -5,7 +5,6 @@ date: 2026-05-15
 lastmod: 2026-05-15
 author: "Camille Reverdy"
 categories: ["Comparatifs"]
-tags: ["stimulateur", "clitoris", "comparatif", "womanizer", "satisfyer", "lelo"]
 draft: false
 ---
 

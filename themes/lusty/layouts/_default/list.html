@@ -24,11 +24,6 @@
                 </div>
                 <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
                 <p>{{ .Description }}</p>
-                <div class="article-tags">
-                    {{ range .Params.tags }}
-                    <a href="{{ "/tags/" | relURL }}{{ . | urlize }}/" class="tag">#{{ . }}</a>
-                    {{ end }}
-                </div>
             </article>
             {{ end }}
         </div>

@@ -26,4 +26,17 @@ document.querySelector('.menu-toggle').addEventListener('click', function() {
     this.setAttribute('aria-expanded', !expanded);
     nav.classList.toggle('nav-open');
 });
+
+(function() {
+    const header = document.querySelector('.site-header');
+    const onScroll = () => {
+        if (window.scrollY > 60) {
+            header.classList.add('scrolled');
+        } else {
+            header.classList.remove('scrolled');
+        }
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+})();
 </script>

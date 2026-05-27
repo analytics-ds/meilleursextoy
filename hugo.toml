@@ -5,7 +5,6 @@ theme = 'lusty'
 
 [taxonomies]
   category = 'categories'
-  tag = 'tags'
 
 [params]
   description = "Guides, avis et comparatifs de sextoys pour explorer votre intimité sans tabou."

@@ -5,7 +5,6 @@ date: 2026-05-20
 lastmod: 2026-05-20
 author: "Camille Reverdy"
 categories: ["Guides"]
-tags: ["debutant", "achat", "guide"]
 draft: false
 ---
 

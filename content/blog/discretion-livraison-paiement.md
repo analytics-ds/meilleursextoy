@@ -5,7 +5,6 @@ date: 2026-05-10
 lastmod: 2026-05-10
 author: "Camille Reverdy"
 categories: ["Enquête"]
-tags: ["discretion", "livraison", "achat", "anonymat"]
 draft: false
 ---
 
