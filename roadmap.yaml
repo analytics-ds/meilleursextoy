@@ -202,9 +202,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-07-24"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/quel-sextoy-pour-debuter/"
     published_url_en: null
     error: null
 
@@ -213,9 +213,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-07-28"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/difference-vibromasseur-stimulateur/"
     published_url_en: null
     error: null
 
@@ -224,9 +224,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-07-31"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/pression-d-air-sextoy/"
     published_url_en: null
     error: null
 
