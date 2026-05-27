@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/lelo-sona-2.jpg"
 ---
 
-L'indice **IPX7** est devenu un standard pour les sextoys modernes. Il garantit une résistance à l'immersion dans l'eau pendant 30 minutes à 1 mètre de profondeur. Comprendre cet indice évite les déconvenues à l'achat et aide à choisir un modèle adapté à l'usage sous la douche, dans le bain, ou pour un nettoyage immédiat.
+Un petit logo **IPX7** sur la boîte d'un sextoy promet 30 minutes d'immersion sous 1 mètre d'eau sans dommage. Concrètement, ça change quoi pour l'usage sous la douche, dans le bain, ou simplement au moment du nettoyage ? Décryptage de cet indice trop souvent ignoré à l'achat, et comparaison avec les autres certifications du marché.
 
 ![Indice IPX7 sextoy](/images/products/lelo-sona-2.jpg "IPX7 sextoy")
 

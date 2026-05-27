@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/womanizer-og.jpg"
 ---
 
-La **différence** entre orgasme clitoridien et **vaginal** alimente les débats depuis Freud. La science moderne a tranché : la distinction est anatomiquement artificielle. Pourtant, beaucoup de **femmes** distinguent bien deux types de **plaisir** **féminin**. Cet article fait le point sur ce que dit vraiment l'anatomie et comment ressentir ces deux modalités d'orgasme.
+Freud distinguait l'orgasme clitoridien (immature, à dépasser) du **vaginal** (mature, "vrai"). La science moderne a démonté cette opposition de manière sans appel : tout orgasme **féminin** part du clitoris, point. Pourtant beaucoup de **femmes** témoignent de deux ressentis bien différents au quotidien. Comment expliquer ce paradoxe entre **différence** anatomique réelle et **plaisir** vécu ?
 
 ![Orgasme clitoridien vs vaginal](/images/products/womanizer-og.jpg "Difference orgasme clitoridien vaginal")
 

@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/womanizer-og.jpg"
 ---
 
-Le **squirting**, autre nom du phénomène de la **femme fontaine**, fascine et dérange à parts égales. Entre mythes, fantasmes et réalité physiologique, peu de personnes savent vraiment ce que recouvre ce mot. Cet article fait le point sur ce qu'est le squirting, d'où vient le **fluide** libéré, comment ce **phénomène** se produit et s'il est **normal** chez toutes les **femme**s.
+Mythe pour certains, fantasme pour d'autres, expérience bien réelle pour beaucoup de **femme**s : le **squirting**, autre nom du phénomène de la **femme fontaine**, continue de fasciner et de diviser. D'où vient le **fluide** libéré, comment ce **phénomène** se produit-il physiologiquement, est-il **normal** ou réservé à quelques-unes ? Plusieurs études récentes ont tranché des questions qui semblaient sans réponse il y a dix ans.
 
 ![Schema anatomique du clitoris et du point G impliques dans le squirting](/images/products/womanizer-og.jpg "Anatomie impliquée dans le squirting")
 

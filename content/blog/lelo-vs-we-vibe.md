@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/we-vibe-chorus.jpg"
 ---
 
-**Lelo** et **We-Vibe** dominent le segment premium des sextoys depuis 15 ans. Les **deux** marques scandinaves (suédoise pour Lelo, canadienne pour We-Vibe) proposent des modèles haut de gamme entre 90 et 300 €. Leurs technologies et leurs positionnements diffèrent. Ce **time** comparatif détaille leurs différences pour vous aider à choisir entre les **deux** acteurs majeurs du marché.
+Stockholm d'un côté, Ottawa de l'autre : **Lelo** (suédois) et **We-Vibe** (canadien) se disputent depuis quinze ans le haut du segment premium des sextoys, avec des modèles entre 90 et 300 €. Mais les **deux** maisons n'ont presque rien en commun, ni dans les technologies, ni dans le positionnement. Le **time** est venu d'un comparatif détaillé pour départager les **deux** acteurs.
 
 ![Comparatif Lelo vs We-Vibe](/images/products/we-vibe-chorus.jpg "Lelo vs We-Vibe")
 

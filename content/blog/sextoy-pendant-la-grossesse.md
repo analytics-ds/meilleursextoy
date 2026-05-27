@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/lelo-sona-2.jpg"
 ---
 
-L'utilisation d'un **sextoy pendant la grossesse** est un sujet souvent tabou mais médicalement bénin dans la majorité des cas. Plusieurs femmes ressentent une libido accrue ou diminuée selon les trimestres, et le sextoy peut accompagner ces évolutions. Ce guide fait le point sur ce que dit la médecine, les modèles à privilégier, et les contre-indications spécifiques.
+Médicalement, rien n'interdit l'usage d'un **sextoy pendant la grossesse** dans la majorité des cas. Le sujet reste pourtant tabou en consultation, alors que la libido évolue souvent par à-coups selon les trimestres. État des recommandations médicales actuelles, modèles à privilégier sans risque pour le bébé, et contre-indications spécifiques à surveiller au cas par cas.
 
 ![Utilisation d'un sextoy pendant la grossesse](/images/products/lelo-sona-2.jpg "Sextoy pendant la grossesse")
 

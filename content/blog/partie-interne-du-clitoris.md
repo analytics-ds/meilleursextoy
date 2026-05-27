@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/womanizer-og.jpg"
 ---
 
-La **partie interne du clitoris** représente 90 % de **l'anatomie du clitoris**. Pourtant, **cet organe** complexe est resté invisible dans les manuels médicaux jusqu'en 1998. Sa **taille** réelle, sa structure, son rôle **sexuel** restent largement méconnus aujourd'hui. Cet article détaille ce **corps** étendu qui irrigue la zone érogène féminine et son interaction avec le vagin via les bulbes **vaginaux**.
+90 % de **l'anatomie du clitoris** échappe à l'œil nu : c'est la **partie interne du clitoris**, longtemps absente des manuels médicaux et cartographiée seulement en 1998 par l'urologue australienne Helen O'Connell. Sa **taille** réelle, sa structure ramifiée, son rôle **sexuel** : décryptage de cet **organe** **corps** étendu qui irrigue toute la zone érogène féminine via les bulbes **vaginaux**.
 
 ![Schema de la partie interne du clitoris](/images/products/womanizer-og.jpg "Anatomie interne du clitoris")
 

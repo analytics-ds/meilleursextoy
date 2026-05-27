@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/womanizer-og.jpg"
 ---
 
-Le clitoris est sans doute l'organe le plus mal connu du **corps humain**. Pendant des décennies, **cet organe** a été réduit dans les manuels de **médecine** à sa simple **partie visible**, un bouton de chair sous le capuchon clitoridien. La réalité est tout autre. Le clitoris est une **structure** étendue, comparable en **taille** au **pénis** masculin, dont la majeure partie reste invisible à l'œil nu.
+Pendant des décennies, les manuels de **médecine** ont réduit le **clitoris** à un bouton de chair sous le capuchon clitoridien. La cartographie complète de l'**organe** n'a été publiée qu'en 1998 par l'urologue australienne Helen O'Connell. Verdict : une **structure** étendue de 9 à 11 centimètres, comparable en **taille** au **pénis** masculin, dont la majeure partie reste cachée à l'œil nu.
 
 ![Schema anatomique complet du clitoris](/images/products/womanizer-og.jpg "Anatomie complete du clitoris")
 

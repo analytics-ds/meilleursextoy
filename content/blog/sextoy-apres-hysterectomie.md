@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/lelo-sona-2.jpg"
 ---
 
-Reprendre l'usage d'un sextoy après une **hystérectomie** demande de respecter le délai de cicatrisation et d'adapter selon le type d'intervention (totale ou partielle, par voie haute ou basse). Beaucoup de femmes redécouvrent une sexualité libérée après l'opération (plus de règles, plus de risque de fibromes), à condition d'accompagner la transition. Ce guide détaille ce qu'il faut savoir.
+Six semaines de cicatrisation incompressibles avant la reprise de toute pénétration, sextoy inclus : c'est la règle médicale commune après une **hystérectomie**, qu'elle soit totale, partielle, par voie haute ou basse. Beaucoup de femmes redécouvrent ensuite une sexualité libérée (plus de règles, plus de risque de fibromes), à condition d'accompagner la transition avec les bons gestes.
 
 ![Sextoy après hystérectomie](/images/products/lelo-sona-2.jpg "Sextoy hysterectomie")
 

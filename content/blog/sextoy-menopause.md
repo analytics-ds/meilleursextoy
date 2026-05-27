@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/satisfyer-pro-4.jpg"
 ---
 
-La **ménopause** modifie la sexualité féminine de multiples façons. Sécheresse vaginale, baisse de libido, modifications hormonales, parfois douleurs : autant de transformations qui peuvent éloigner du plaisir. Le sextoy bien choisi accompagne au contraire cette nouvelle phase de vie en douceur. Ce guide détaille les modèles adaptés, les lubrifiants spécifiques, et les conseils pratiques pour une sexualité épanouie après 50 ans.
+Sécheresse vaginale, baisse de libido, modifications hormonales, parfois douleurs : la **ménopause** redessine la sexualité féminine, parfois brutalement, et peut éloigner du plaisir. Bien choisi, un sextoy accompagne au contraire cette nouvelle phase de vie en douceur plutôt que de la subir. Modèles vraiment adaptés, lubrifiants spécifiques à la sécheresse vaginale, conseils pratiques pour une sexualité épanouie après 50 ans.
 
 ![Sextoy pour la ménopause](/images/products/satisfyer-pro-4.jpg "Sextoy menopause")
 

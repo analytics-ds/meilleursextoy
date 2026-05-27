@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/lelo-sona-2.jpg"
 ---
 
-Choisir un **lubrifiant compatible silicone** est central pour préserver son **sextoy** en **silicone medical**. Les lubrifiants base silicone détériorent le matériau, les base huile dégradent les préservatifs. Seul le **lubrifiant** base eau est universellement compatible. Ce guide détaille les types, les marques, et les bonnes pratiques pour l'usage avec un toy intime.
+Mauvaise pioche fréquente : un **lubrifiant** base silicone va détruire à petit feu votre **sextoy** en **silicone medical**. Les versions base huile, elles, dégradent les préservatifs. Seul le **lubrifiant compatible silicone** par excellence, à base d'eau, coche toutes les cases. Voici comment s'y retrouver dans la jungle des références et choisir le bon produit selon le toy.
 
 ![Lubrifiant compatible silicone sextoy](/images/products/lelo-sona-2.jpg "Lubrifiant compatible silicone")
 

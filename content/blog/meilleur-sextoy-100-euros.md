@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/lelo-sona-2.jpg"
 ---
 
-Le segment **prix** des sextoys autour de 100 euros propose les meilleurs rapports qualité-**prix** du marché. À ce niveau, on accède au **vibromasseur** **stimulateur** premium des grandes marques sans payer 200 €. Ce comparatif présente les 6 meilleurs modèles à 100 € pour atteindre l'orgasme **sexuel** avec un **clitoris** ou point G stimulé par les meilleures technologies.
+100 euros : c'est le **prix** seuil à partir duquel on quitte vraiment l'entrée de gamme pour accéder aux **vibromasseur**s et **stimulateur**s premium des grandes marques, sans débourser 200 €. **Womanizer Liberty**, **Lelo Sona 2**, **We-Vibe Touch X** : voici les 6 meilleurs modèles dans cette tranche, classés selon que vous cherchez à atteindre l'orgasme **sexuel** via le **clitoris** ou le point G.
 
 ![Top sextoys autour de 100 euros](/images/products/lelo-sona-2.jpg "Meilleur sextoy 100 euros")
 

@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/womanizer-og.jpg"
 ---
 
-**Désinfecter** un **sextoy** en **silicone** demande de connaître les bonnes méthodes selon le modèle. **Comment** procéder pour assurer **après** chaque utilisation une **hygiène** parfaite, sans abîmer le matériau ? Ce guide détaille les techniques de désinfection douce (quotidienne) et profonde (occasionnelle), avec les **conseils** spécifiques au **silicone medical** grade.
+Pour un **sextoy** en **silicone medical**, eau tiède et savon doux suffisent au quotidien : c'est la base de toute **hygiène** intime sereine. Pour passer à la **désinfection** profonde, on monte d'un cran : ébullition, lave-vaisselle, nettoyants dédiés. **Comment** combiner les deux niveaux **après** chaque usage et lesquels choisir selon le modèle ?
 
 ![Methodes pour desinfecter un sextoy en silicone](/images/products/womanizer-og.jpg "Desinfecter sextoy silicone")
 

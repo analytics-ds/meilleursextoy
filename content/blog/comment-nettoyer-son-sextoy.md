@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/lelo-sona-2.jpg"
 ---
 
-Bien **savoir comment nettoyer** son sextoy est indispensable pour préserver son matériau, sa longévité, et surtout votre **hygiène**. Pourtant, beaucoup de **utilisation**s négligent ce **soin** ou utilisent les mauvais produits. Ce guide détaille la **routine** **après chaque utilisation**, les **conseils** par matériau, et **pourquoi** certains gestes sont à éviter absolument.
+Un sextoy mal nettoyé peut provoquer mycoses, vaginoses et irritations dans la semaine qui suit. Pourtant beaucoup d'**utilisation**s se contentent d'un coup d'eau ou attrapent le mauvais produit dans la salle de bain. Voici la **routine** à appliquer **après chaque utilisation** selon le matériau, et **pourquoi** certains gestes anodins sont à bannir absolument.
 
 ![Routine de nettoyage des sextoys](/images/products/lelo-sona-2.jpg "Comment nettoyer un sextoy")
 

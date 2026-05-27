@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/lelo-sona-2.jpg"
 ---
 
-Reprendre l'utilisation d'un sextoy **après accouchement** demande de respecter le délai de cicatrisation et d'adapter les modèles aux modifications du corps. Cette période post-partum, souvent silencieuse côté sexualité, mérite pourtant attention car le sextoy peut accompagner la reprise progressive du plaisir et la rééducation périnéale.
+Six à huit semaines : c'est le délai moyen que recommandent les sages-femmes avant de reprendre toute pénétration **après accouchement**, sextoy compris. Cette période post-partum, souvent passée sous silence côté sexualité, peut pourtant bénéficier d'un retour progressif et adapté du toy, à condition d'écouter son corps. Délais médicaux, modèles à privilégier et conseils pratiques pour une reprise sereine.
 
 ![Sextoy après accouchement](/images/products/lelo-sona-2.jpg "Sextoy apres accouchement")
 

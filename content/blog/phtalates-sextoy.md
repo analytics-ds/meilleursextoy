@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/lelo-sona-2.jpg"
 ---
 
-Les **phtalates** dans les **jouets sexuels** ont fait scandale dans les années 2010 quand plusieurs **test**s ont révélé leur présence à des doses préoccupantes dans les sextoys bas de gamme. Ces **perturbateurs** endocriniens persistent encore dans certains **plastique**s d'entrée de gamme. Ce guide explique ce que sont les phtalates, leurs risques, et comment les éviter à l'achat.
+Scandale sanitaire des années 2010 : plusieurs **test**s ont révélé la présence de **phtalates** à doses préoccupantes dans les **jouets sexuels** bas de gamme. Quinze ans plus tard, ces **perturbateurs** endocriniens persistent dans certains **plastique**s d'entrée de gamme. Que sont vraiment les phtalates, quels risques santé exactement, et comment les écarter à l'achat sans se ruiner ?
 
 ![Phtalates dans les sextoys risques](/images/products/lelo-sona-2.jpg "Phtalates sextoy")
 

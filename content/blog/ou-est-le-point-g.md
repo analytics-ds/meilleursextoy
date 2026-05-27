@@ -9,7 +9,7 @@ draft: false
 image: "/images/products/womanizer-og.jpg"
 ---
 
-Le point G fait couler de l'encre depuis sa première mention en 1950 par le gynécologue Ernst Gräfenberg. Cinquante ans plus tard, sa **localisation** exacte et même son existence restent débattues dans la communauté médicale. Cet article fait le point sur ce qu'on sait vraiment de cette **zone érogène**, comment la situer dans le **corps**, et comment **atteindre** son **excitation** maximale.
+Le gynécologue Ernst Gräfenberg lui a donné son nom en 1950. Soixante-quinze ans plus tard, médecins et sexologues débattent encore de son existence et de sa **localisation** exacte. Tour d'horizon de ce qu'on sait vraiment de cette **zone érogène**, où la situer précisément dans le **corps** féminin, et quelles techniques permettent d'**atteindre** son **excitation** maximale.
 
 ![Schema anatomique de la zone du point G](/images/products/womanizer-og.jpg "Localisation du point G")
 
