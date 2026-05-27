@@ -433,9 +433,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-10-06"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/facture-anonyme-sextoy/"
     published_url_en: null
     error: null
 
@@ -444,9 +444,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-10-09"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/marque-francaise-sextoy/"
     published_url_en: null
     error: null
 
@@ -455,9 +455,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-10-13"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/acheter-sextoy-en-pharmacie/"
     published_url_en: null
     error: null
 
