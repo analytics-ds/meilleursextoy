@@ -1,5 +1,5 @@
 ---
-title: "Sextoy pendant le rapport : guide d'utilisation et top des modèles"
+title: "Comment utiliser un sextoy pendant le rapport sans tout gâcher ?"
 description: "Comment utiliser un sextoy pendant le rapport sans gêner la pénétration : formats, modèles, positions, conseils."
 date: 2026-08-28
 lastmod: 2026-08-28

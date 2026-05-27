@@ -1,5 +1,5 @@
 ---
-title: "Différence entre vibromasseur et stimulateur : tout comprendre"
+title: "Vibromasseur ou stimulateur clitoridien, quelle est vraiment la différence ?"
 description: "Vibromasseur vs stimulateur clitoridien : différences technologiques, sensations, prix, comment choisir entre les deux."
 date: 2026-07-28
 lastmod: 2026-07-28

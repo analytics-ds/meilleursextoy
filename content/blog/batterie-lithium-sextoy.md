@@ -1,5 +1,5 @@
 ---
-title: "Batterie lithium sextoy : durée de vie, sécurité, recyclage"
+title: "La batterie lithium d'un sextoy, faut-il s'en inquiéter ?"
 description: "Comprendre la batterie lithium dans les sextoys : durée de vie, sécurité, charge, recyclage et bonnes pratiques."
 date: 2026-11-17
 lastmod: 2026-11-17

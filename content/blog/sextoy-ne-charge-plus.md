@@ -1,5 +1,5 @@
 ---
-title: "Sextoy ne charge plus : causes, solutions, quand le remplacer"
+title: "Mon sextoy ne charge plus, que faire avant de le jeter ?"
 description: "Sextoy qui ne charge plus : diagnostic des causes, solutions de réparation, quand remplacer le toy."
 date: 2026-11-10
 lastmod: 2026-11-10

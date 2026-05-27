@@ -1,5 +1,5 @@
 ---
-title: "Lelo vs We-Vibe : comparatif complet des deux marques premium"
+title: "Lelo ou We-Vibe, laquelle est vraiment la meilleure marque ?"
 description: "Lelo ou We-Vibe : technologie, modèles, prix, durabilité. Notre comparatif complet pour choisir entre les deux."
 date: 2026-09-01
 lastmod: 2026-09-01

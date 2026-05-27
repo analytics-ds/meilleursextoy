@@ -1,5 +1,5 @@
 ---
-title: "Sextoy pendant la grossesse : risques, modèles adaptés, conseils"
+title: "Peut-on utiliser un sextoy enceinte sans risque pour le bébé ?"
 description: "Utiliser un sextoy pendant la grossesse : ce que dit la science, modèles à privilégier, précautions médicales."
 date: 2026-10-16
 lastmod: 2026-10-16

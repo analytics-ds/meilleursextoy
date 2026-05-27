@@ -1,5 +1,5 @@
 ---
-title: "Meilleur sextoy à 100 euros : top 6 dans cette gamme de prix"
+title: "Quel sextoy acheter pour 100 euros maximum ?"
 description: "Notre sélection des meilleurs sextoys autour de 100 euros : Womanizer Liberty, We-Vibe Touch X, Lelo Sona 2."
 date: 2026-09-08
 lastmod: 2026-09-08

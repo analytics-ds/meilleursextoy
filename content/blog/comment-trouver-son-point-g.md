@@ -1,6 +1,6 @@
 ---
-title: "Comment trouver son point G : guide pratique étape par étape"
-description: "Localiser et stimuler le point G : techniques solo et à deux, positions, conseils pratiques pour explorer cette zone érogène."
+title: "Comment trouver son point G et le stimuler vraiment ?"
+description: "Comment trouver le point G chez une femme : techniques solo et en couple, positions favorables, conseils pour le stimuler efficacement."
 date: 2026-06-19
 lastmod: 2026-06-19
 author: "Camille Reverdy"

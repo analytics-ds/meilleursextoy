@@ -1,6 +1,6 @@
 ---
-title: "Sextoy silencieux : top 8 des modèles inaudibles en 2026"
-description: "Notre sélection des sextoys les plus silencieux : vibromasseurs, stimulateurs clitoridiens, mini bullets. Tests décibels et avis."
+title: "Quel vibromasseur fait vraiment le moins de bruit ?"
+description: "Vibromasseurs silencieux 2026 : notre sélection des modèles les plus discrets sonorement. Tests décibels, top stimulateurs et bullets compacts."
 date: 2026-06-30
 lastmod: 2026-06-30
 author: "Camille Reverdy"

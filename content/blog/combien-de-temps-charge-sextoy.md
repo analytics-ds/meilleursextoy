@@ -1,5 +1,5 @@
 ---
-title: "Combien de temps pour charger un sextoy : durées par modèle"
+title: "Combien de temps faut-il vraiment pour charger un sextoy ?"
 description: "Combien de temps charger son sextoy : durées par marque, autonomie comparée, conseils charge."
 date: 2026-11-06
 lastmod: 2026-11-06

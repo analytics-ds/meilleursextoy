@@ -1,5 +1,5 @@
 ---
-title: "Sextoy sous la douche : quels modèles, IPX7, conseils"
+title: "Quel sextoy peut vraiment passer la douche sans risque ?"
 description: "Utiliser un sextoy sous la douche : modèles étanches, IPX7, sécurité, conseils pratiques."
 date: 2026-11-03
 lastmod: 2026-11-03

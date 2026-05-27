@@ -1,5 +1,5 @@
 ---
-title: "Sextoy après accouchement : quand reprendre, modèles adaptés"
+title: "Quand peut-on reprendre un sextoy après l'accouchement ?"
 description: "Reprise du sextoy après accouchement : délai conseillé, modèles adaptés, rééducation, conseils sage-femme."
 date: 2026-10-23
 lastmod: 2026-10-23

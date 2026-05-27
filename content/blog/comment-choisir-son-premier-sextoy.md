@@ -1,5 +1,5 @@
 ---
-title: "Comment choisir son premier sextoy : guide complet débutant 2026"
+title: "Comment choisir son premier sextoy sans se planter ?"
 description: "Choisir son premier sextoy sans se tromper : critères, technologies, top modèles à moins de 100 €, conseils pratiques."
 date: 2026-07-17
 lastmod: 2026-07-17

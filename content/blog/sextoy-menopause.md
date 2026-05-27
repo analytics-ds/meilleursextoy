@@ -1,5 +1,5 @@
 ---
-title: "Sextoy à la ménopause : modèles adaptés et conseils sécheresse vaginale"
+title: "Quel sextoy choisir à la ménopause quand le corps change ?"
 description: "Sextoy pour la ménopause : sécheresse vaginale, modèles adaptés, lubrifiants, conseils sexologue."
 date: 2026-10-20
 lastmod: 2026-10-20

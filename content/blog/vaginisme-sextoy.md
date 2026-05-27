@@ -1,5 +1,5 @@
 ---
-title: "Vaginisme et sextoy : peut-on s'aider, comment progresser"
+title: "Le sextoy peut-il vraiment aider à surmonter le vaginisme ?"
 description: "Le sextoy peut-il aider en cas de vaginisme : modèles adaptés, progression, accompagnement médical, conseils sexologue."
 date: 2026-10-27
 lastmod: 2026-10-27

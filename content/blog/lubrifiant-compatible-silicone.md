@@ -1,5 +1,5 @@
 ---
-title: "Lubrifiant compatible silicone : guide complet et top des produits"
+title: "Quel lubrifiant utiliser avec un sextoy en silicone ?"
 description: "Quel lubrifiant utiliser avec un sextoy en silicone : base eau, base hybride, à éviter, top des marques."
 date: 2026-09-25
 lastmod: 2026-09-25

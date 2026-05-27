@@ -1,6 +1,6 @@
 ---
-title: "Sextoy discret : top 7 des modèles silencieux et compacts en 2026"
-description: "Sélection des meilleurs sextoys discrets : petits, silencieux, design innocent. Vibromasseurs, mini stimulateurs, masturbateurs."
+title: "Quel sextoy discret choisir quand on partage ses murs ?"
+description: "Sextoys discrets et silencieux 2026 : notre sélection des modèles compacts qui se confondent dans votre intérieur. Vibromasseurs, mini stimulateurs."
 date: 2026-06-23
 lastmod: 2026-06-23
 author: "Camille Reverdy"

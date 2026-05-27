@@ -1,5 +1,5 @@
 ---
-title: "Désinfecter un sextoy en silicone : guide complet et méthodes"
+title: "Comment désinfecter correctement un sextoy en silicone ?"
 description: "Comment désinfecter un sextoy en silicone : méthodes douces et profondes, ébullition, nettoyants dédiés, entretien."
 date: 2026-09-11
 lastmod: 2026-09-11

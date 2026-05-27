@@ -1,5 +1,5 @@
 ---
-title: "Phtalates dans les sextoys : risques, comment les éviter"
+title: "Quels sont les vrais risques des phtalates dans les sextoys ?"
 description: "Tout sur les phtalates dans les sextoys : qu'est-ce que c'est, risques santé, comment identifier un produit sans phtalates."
 date: 2026-09-15
 lastmod: 2026-09-15

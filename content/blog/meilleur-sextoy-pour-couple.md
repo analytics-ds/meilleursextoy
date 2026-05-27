@@ -1,6 +1,6 @@
 ---
-title: "Meilleur sextoy pour couple : notre top 6 testé en duo"
-description: "Sélection des meilleurs sextoys pour couple en 2026 : stimulateurs partagés, télécommandes, longue distance, parfaits à deux."
+title: "Quel est le meilleur sextoy pour couple en 2026 ?"
+description: "Quel sextoy de couple choisir en 2026 ? Notre top 6 testé : We-Vibe Chorus, Satisfyer Pro 4, Lovense Lush. Télécommande, longue distance, format C."
 date: 2026-06-26
 lastmod: 2026-06-26
 author: "Camille Reverdy"

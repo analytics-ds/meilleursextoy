@@ -1,5 +1,5 @@
 ---
-title: "Ranger un sextoy discrètement : 10 idées de cachettes intelligentes"
+title: "Où ranger son sextoy pour qu'il reste vraiment caché ?"
 description: "Idées pour ranger son sextoy en toute discrétion à la maison ou en voyage : pochettes, coffrets, cachettes."
 date: 2026-09-22
 lastmod: 2026-09-22

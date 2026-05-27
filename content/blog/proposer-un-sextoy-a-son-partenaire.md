@@ -1,5 +1,5 @@
 ---
-title: "Comment proposer un sextoy à son partenaire sans malaise"
+title: "Comment proposer un sextoy à son partenaire sans malaise ?"
 description: "Comment aborder le sujet du sextoy dans le couple : moment, mots, idées et erreurs à éviter pour proposer sans gêner."
 date: 2026-08-18
 lastmod: 2026-08-18

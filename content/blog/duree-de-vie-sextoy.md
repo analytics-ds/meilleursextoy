@@ -1,5 +1,5 @@
 ---
-title: "Durée de vie d'un sextoy : combien de temps, signes d'usure, recyclage"
+title: "Combien de temps dure réellement un sextoy ?"
 description: "Combien de temps dure un sextoy : durée par matériau, signes d'usure, comment recycler, et prolonger la vie de son toy."
 date: 2026-09-18
 lastmod: 2026-09-18

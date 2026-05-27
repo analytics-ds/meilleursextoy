@@ -1,5 +1,5 @@
 ---
-title: "Pression d'air sextoy : comment ça fonctionne et top des modèles"
+title: "Comment fonctionne vraiment un sextoy à pression d'air ?"
 description: "La technologie pression d'air expliquée : fonctionnement, Womanizer vs Satisfyer, pulsations, aspiration, top des modèles."
 date: 2026-07-31
 lastmod: 2026-07-31

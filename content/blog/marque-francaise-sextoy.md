@@ -1,5 +1,5 @@
 ---
-title: "Marque française sextoy : top des fabricants made in France 2026"
+title: "Quelles marques françaises de sextoys méritent vraiment l'achat ?"
 description: "Sélection des meilleures marques françaises de sextoys : design hexagonal, qualité, made in France. Plumeria, Mystim, Womaginarium."
 date: 2026-10-09
 lastmod: 2026-10-09

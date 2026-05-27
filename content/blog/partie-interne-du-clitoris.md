@@ -1,5 +1,5 @@
 ---
-title: "Partie interne du clitoris : structure cachée et rôle dans le plaisir"
+title: "Que sait-on vraiment de la partie interne du clitoris ?"
 description: "La partie interne du clitoris décryptée : corps, racines, bulbes vestibulaires, taille réelle de cet organe largement invisible."
 date: 2026-07-14
 lastmod: 2026-07-14

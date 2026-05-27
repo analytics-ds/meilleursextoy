@@ -1,5 +1,5 @@
 ---
-title: "IPX7 sextoy : que signifie cet indice, modèles concernés"
+title: "Que signifie vraiment la mention IPX7 sur un sextoy ?"
 description: "L'indice IPX7 expliqué pour les sextoys : protection eau, immersion, modèles certifiés."
 date: 2026-11-13
 lastmod: 2026-11-13

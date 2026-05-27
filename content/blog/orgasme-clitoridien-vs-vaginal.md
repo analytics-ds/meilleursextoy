@@ -1,5 +1,5 @@
 ---
-title: "Orgasme clitoridien vs vaginal : la différence vraiment expliquée"
+title: "Orgasme clitoridien ou vaginal, y a-t-il vraiment une différence ?"
 description: "Orgasme clitoridien et vaginal : ce que dit l'anatomie moderne, la science, et comment les ressentir."
 date: 2026-08-14
 lastmod: 2026-08-14

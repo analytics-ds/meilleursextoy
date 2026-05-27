@@ -1,5 +1,5 @@
 ---
-title: "Sextoy après hystérectomie : reprise de la sexualité"
+title: "Quel sextoy reprendre après une hystérectomie ?"
 description: "Reprendre l'usage d'un sextoy après une hystérectomie : délai, modèles, sécheresse, conseils gynéco."
 date: 2026-10-30
 lastmod: 2026-10-30

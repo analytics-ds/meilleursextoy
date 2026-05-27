@@ -1,5 +1,5 @@
 ---
-title: "Facture anonyme sextoy : ce que les marques font vraiment"
+title: "Que voit-on sur le relevé bancaire après un achat de sextoy ?"
 description: "Facture anonyme sur le relevé bancaire pour un achat de sextoy : marques sérieuses, ce qui apparaît, comment vérifier."
 date: 2026-10-06
 lastmod: 2026-10-06

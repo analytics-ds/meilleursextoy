@@ -1,6 +1,6 @@
 ---
-title: "Anatomie du clitoris : structure complète, rôle et fonctionnement"
-description: "Tout ce que la médecine moderne sait du clitoris : structure interne et externe, taille réelle, rôle, innervation, pathologies."
+title: "À quoi ressemble vraiment l'anatomie du clitoris ?"
+description: "Tout savoir sur le clitoris : structure interne et externe, taille réelle, rôle dans le plaisir féminin, schéma anatomique complet."
 date: 2026-05-27
 lastmod: 2026-05-27
 author: "Camille Reverdy"

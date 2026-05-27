@@ -1,5 +1,5 @@
 ---
-title: "Acheter un sextoy en pharmacie : ce qu'on trouve vraiment"
+title: "Trouve-t-on vraiment des sextoys en pharmacie ?"
 description: "Acheter un sextoy en pharmacie en 2026 : modèles disponibles, prix, discrétion, comparaison avec l'achat en ligne."
 date: 2026-10-13
 lastmod: 2026-10-13

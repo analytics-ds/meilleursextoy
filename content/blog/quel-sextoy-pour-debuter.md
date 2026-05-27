@@ -1,5 +1,5 @@
 ---
-title: "Quel sextoy pour débuter : 6 modèles incontournables pour commencer"
+title: "Quel sextoy pour débuter quand on n'y connaît rien ?"
 description: "Quel sextoy choisir pour débuter sans se tromper : critères, technologies, top modèles à moins de 80 €."
 date: 2026-07-24
 lastmod: 2026-07-24

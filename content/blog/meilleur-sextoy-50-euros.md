@@ -1,5 +1,5 @@
 ---
-title: "Meilleur sextoy à 50 euros : top 6 des modèles à ce prix"
+title: "Quel sextoy choisir avec un budget de 50 euros ?"
 description: "Notre sélection des meilleurs sextoys autour de 50 euros : Satisfyer Pro 2, Tenga, We-Vibe Touch. Comparatif des modèles abordables."
 date: 2026-09-04
 lastmod: 2026-09-04

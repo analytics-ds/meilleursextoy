@@ -1,6 +1,6 @@
 ---
-title: "Où est le point G : localisation, anatomie et comment l'atteindre"
-description: "Le point G expliqué sans tabou : où il se trouve vraiment, ce que disent les études, et comment l'atteindre seul ou à deux."
+title: "Où se trouve réellement le point G chez la femme ?"
+description: "Tout savoir sur le point G : localisation exacte, anatomie, comment le trouver et le stimuler seul ou en couple."
 date: 2026-05-27
 lastmod: 2026-05-27
 author: "Camille Reverdy"

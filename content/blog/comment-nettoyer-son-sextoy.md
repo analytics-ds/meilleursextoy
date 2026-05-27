@@ -1,5 +1,5 @@
 ---
-title: "Comment nettoyer son sextoy : guide complet par matériau"
+title: "Comment bien nettoyer son sextoy après chaque utilisation ?"
 description: "Tout savoir comment nettoyer son sextoy en silicone, ABS, métal. Routine après chaque utilisation, désinfection, conseils hygiène."
 date: 2026-07-10
 lastmod: 2026-07-10

@@ -1,5 +1,5 @@
 ---
-title: "Acheter un sextoy discrètement : guide complet en 2026"
+title: "Comment acheter un sextoy en toute discrétion en 2026 ?"
 description: "Comment acheter un sextoy en toute discrétion : sites sérieux, livraison neutre, facturation anonyme, paiement."
 date: 2026-09-29
 lastmod: 2026-09-29

@@ -1,5 +1,5 @@
 ---
-title: "Introduire un sextoy en couple : guide pratique étape par étape"
+title: "Comment introduire un sextoy dans son couple en douceur ?"
 description: "Comment introduire un sextoy en couple sans gêner : choix du modèle, première utilisation pendant le rapport, conseils."
 date: 2026-08-21
 lastmod: 2026-08-21
