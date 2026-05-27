@@ -1,8 +1,8 @@
 ---
 title: "Meilleur stimulateur clitoridien : notre top 8 testé et comparé"
 description: "Comparatif des meilleurs stimulateurs clitoridiens 2026 : Womanizer, Satisfyer, Lelo, We-Vibe. Aspiration, air pulsé, sonique."
-date: 2026-06-12
-lastmod: 2026-06-12
+date: 2026-05-27
+lastmod: 2026-05-27
 author: "Camille Reverdy"
 categories: ["Comparatifs"]
 draft: false

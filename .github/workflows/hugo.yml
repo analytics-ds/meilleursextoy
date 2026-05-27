@@ -4,6 +4,10 @@ on:
   push:
     branches: ["main"]
   workflow_dispatch:
+  # Cron mardi + vendredi 2h UTC (3h Paris) pour rebuild automatique
+  # des articles dont la date arrive (cf. publishDate, buildFuture: false).
+  schedule:
+    - cron: "0 2 * * 2,5"
 
 permissions:
   contents: read

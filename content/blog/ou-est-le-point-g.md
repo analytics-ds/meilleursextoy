@@ -1,8 +1,8 @@
 ---
 title: "Où est le point G : localisation, anatomie et comment l'atteindre"
 description: "Le point G expliqué sans tabou : où il se trouve vraiment, ce que disent les études, et comment l'atteindre seul ou à deux."
-date: 2026-06-09
-lastmod: 2026-06-09
+date: 2026-05-27
+lastmod: 2026-05-27
 author: "Camille Reverdy"
 categories: ["Anatomie"]
 draft: false

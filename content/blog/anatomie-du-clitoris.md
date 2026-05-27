@@ -1,8 +1,8 @@
 ---
 title: "Anatomie du clitoris : structure complète, rôle et fonctionnement"
 description: "Tout ce que la médecine moderne sait du clitoris : structure interne et externe, taille réelle, rôle, innervation, pathologies."
-date: 2026-06-05
-lastmod: 2026-06-05
+date: 2026-05-27
+lastmod: 2026-05-27
 author: "Camille Reverdy"
 categories: ["Anatomie"]
 draft: false

@@ -1,8 +1,8 @@
 ---
 title: "Squirting : qu'est-ce que c'est, comment ça se produit, est-il normal"
 description: "Le squirting expliqué sans tabou : différence avec l'éjaculation féminine, origine du fluide, conditions pour le déclencher."
-date: 2026-06-02
-lastmod: 2026-06-02
+date: 2026-05-27
+lastmod: 2026-05-27
 author: "Camille Reverdy"
 categories: ["Anatomie"]
 draft: false

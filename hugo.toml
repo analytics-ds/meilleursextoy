@@ -3,6 +3,11 @@ languageCode = 'fr-fr'
 title = 'Meilleur Sextoy'
 theme = 'lusty'
 
+# buildFuture = false : Hugo cache les articles avec une date dans le futur.
+# Combine au cron GitHub Actions (mardi/vendredi 3h Paris) pour publier
+# progressivement les articles deja rediges, etalant le profil de publication.
+buildFuture = false
+
 [taxonomies]
   category = 'categories'
 
