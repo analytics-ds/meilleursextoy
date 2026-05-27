@@ -367,9 +367,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-15"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/phtalates-sextoy/"
     published_url_en: null
     error: null
 
@@ -378,9 +378,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-18"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/duree-de-vie-sextoy/"
     published_url_en: null
     error: null
 
@@ -389,9 +389,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-22"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/ranger-sextoy-discretement/"
     published_url_en: null
     error: null
 
