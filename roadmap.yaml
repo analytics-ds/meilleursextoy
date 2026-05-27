@@ -532,9 +532,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-11-06"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/combien-de-temps-charge-sextoy/"
     published_url_en: null
     error: null
 
@@ -543,9 +543,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-11-10"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/sextoy-ne-charge-plus/"
     published_url_en: null
     error: null
 
@@ -554,9 +554,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-11-13"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/ipx7-sextoy/"
     published_url_en: null
     error: null
 
@@ -565,8 +565,8 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-11-17"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/batterie-lithium-sextoy/"
     published_url_en: null
     error: null
