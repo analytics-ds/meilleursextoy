@@ -1,0 +1,572 @@
+# Roadmap editoriale meilleursextoy.com
+#
+# 49 mots-cles longue traine planifies sur ~5,5 mois (2 articles/semaine, mardi + vendredi).
+# Source volume : Semrush Bulk Analysis db=fr (extrait 2026-05-27).
+#
+# Format aligne sur les autres PBN de Pierre (cf. /Users/pierregaudard/meilleur-transport/roadmap.yaml).
+# Alimente les skills /create-article-seo (local, mode A roadmap) ou /create-article-auto (cloud).
+#
+# NOTE LANGUE
+# -----------
+# meilleursextoy est mono-langue FR (pas de version EN comme meilleur-transport).
+# Le champ published_url_en restera null. La skill devra etre adaptee si elle force la traduction.
+#
+# COMMENT REPRENDRE LA MAIN
+# ------------------------
+# - status: done -> ne pas re-publier
+# - status: todo -> publication eligible si scheduled_date <= today
+# - status: failed -> repasser a todo apres correction manuelle de l'erreur
+#
+# CATEGORIES UTILISEES
+# --------------------
+# - Anatomie  : KW educatifs sur le corps (squirting, point G, clitoris)
+# - Guides    : KW pratiques (choix, achat, discretion)
+# - Comparatifs : KW commerciaux "meilleur X" ou "X vs Y"
+# - Couples   : KW autour de l'usage a deux
+# - Entretien : KW sur le nettoyage, materiau, charge, durabilite
+# - Sante     : KW YMYL (grossesse, menopause, post-accouchement, etc.)
+#
+# PLANIFICATION
+# -------------
+# Mardi + vendredi a partir du 2026-06-02.
+# Premiers articles priorises par volume Semrush + intent commerciale.
+
+articles:
+  - kw: "squirting"
+    category: "Anatomie"
+    volume: 9900
+    kd: null
+    scheduled_date: "2026-06-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "anatomie du clitoris"
+    category: "Anatomie"
+    volume: 720
+    kd: null
+    scheduled_date: "2026-06-05"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "ou est le point g"
+    category: "Anatomie"
+    volume: 720
+    kd: null
+    scheduled_date: "2026-06-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur stimulateur clitoridien"
+    category: "Comparatifs"
+    volume: 480
+    kd: null
+    scheduled_date: "2026-06-12"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy connecte"
+    category: "Comparatifs"
+    volume: 390
+    kd: null
+    scheduled_date: "2026-06-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment trouver son point g"
+    category: "Anatomie"
+    volume: 260
+    kd: null
+    scheduled_date: "2026-06-19"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy discret"
+    category: "Guides"
+    volume: 170
+    kd: null
+    scheduled_date: "2026-06-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur sextoy pour couple"
+    category: "Comparatifs"
+    volume: 90
+    kd: null
+    scheduled_date: "2026-06-26"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy silencieux"
+    category: "Guides"
+    volume: 70
+    kd: null
+    scheduled_date: "2026-06-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "womanizer vs satisfyer"
+    category: "Comparatifs"
+    volume: 50
+    kd: null
+    scheduled_date: "2026-07-03"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy longue distance"
+    category: "Couples"
+    volume: 40
+    kd: null
+    scheduled_date: "2026-07-07"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment nettoyer son sextoy"
+    category: "Entretien"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-07-10"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "partie interne du clitoris"
+    category: "Anatomie"
+    volume: 20
+    kd: null
+    scheduled_date: "2026-07-14"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "comment choisir son premier sextoy"
+    category: "Guides"
+    volume: 10
+    kd: null
+    scheduled_date: "2026-07-17"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur sextoy connecte"
+    category: "Comparatifs"
+    volume: 10
+    kd: null
+    scheduled_date: "2026-07-21"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "quel sextoy pour debuter"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-07-24"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "difference vibromasseur stimulateur"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-07-28"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "pression d air sextoy"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-07-31"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "onde sonique vs pression d air"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-04"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "silicone medical sextoy"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-07"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "toy point g"
+    category: "Anatomie"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-11"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "orgasme clitoridien vs vaginal"
+    category: "Anatomie"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-14"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "proposer un sextoy a son partenaire"
+    category: "Couples"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-18"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "introduire un sextoy en couple"
+    category: "Couples"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-21"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur sextoy a deux"
+    category: "Comparatifs"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-25"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy pendant le rapport"
+    category: "Couples"
+    volume: null
+    kd: null
+    scheduled_date: "2026-08-28"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "lelo vs we vibe"
+    category: "Comparatifs"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-01"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur sextoy 50 euros"
+    category: "Comparatifs"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-04"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "meilleur sextoy 100 euros"
+    category: "Comparatifs"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-08"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "desinfecter sextoy silicone"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-11"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "phtalates sextoy"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-15"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "duree de vie sextoy"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-18"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "ranger sextoy discretement"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-22"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "lubrifiant compatible silicone"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-25"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "acheter sextoy discretement"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-09-29"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy livraison colis neutre"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-02"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "facture anonyme sextoy"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "marque francaise sextoy"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-09"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "acheter sextoy en pharmacie"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy pendant la grossesse"
+    category: "Sante"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-16"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy menopause"
+    category: "Sante"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-20"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy apres accouchement"
+    category: "Sante"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-23"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "vaginisme sextoy"
+    category: "Sante"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-27"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy apres hysterectomie"
+    category: "Sante"
+    volume: null
+    kd: null
+    scheduled_date: "2026-10-30"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy sous la douche"
+    category: "Guides"
+    volume: null
+    kd: null
+    scheduled_date: "2026-11-03"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "combien de temps charge sextoy"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-11-06"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "sextoy ne charge plus"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-11-10"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "ipx7 sextoy"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-11-13"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
+
+  - kw: "batterie lithium sextoy"
+    category: "Entretien"
+    volume: null
+    kd: null
+    scheduled_date: "2026-11-17"
+    status: todo
+    published_date: null
+    published_url_fr: null
+    published_url_en: null
+    error: null
