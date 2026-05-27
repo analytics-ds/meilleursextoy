@@ -235,20 +235,20 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-08-04"
-    status: todo
+    status: failed
     published_date: null
     published_url_fr: null
     published_url_en: null
-    error: null
+    error: "SERP not found - relance ulterieure"
 
   - kw: "silicone medical sextoy"
     category: "Entretien"
     volume: null
     kd: null
     scheduled_date: "2026-08-07"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/silicone-medical-sextoy/"
     published_url_en: null
     error: null
 
@@ -257,9 +257,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-08-11"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/toy-point-g/"
     published_url_en: null
     error: null
 
