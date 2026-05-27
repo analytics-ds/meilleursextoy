@@ -334,9 +334,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-04"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/meilleur-sextoy-50-euros/"
     published_url_en: null
     error: null
 
@@ -345,9 +345,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-08"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/meilleur-sextoy-100-euros/"
     published_url_en: null
     error: null
 
@@ -356,9 +356,9 @@ articles:
     volume: null
     kd: null
     scheduled_date: "2026-09-11"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/desinfecter-sextoy-silicone/"
     published_url_en: null
     error: null
 
