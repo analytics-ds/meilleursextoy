@@ -141,18 +141,17 @@ img {
 }
 
 .site-logo-icon {
-    height: 40px;
+    height: 64px;
     width: auto;
     display: block;
-    filter: drop-shadow(0 2px 8px rgba(253, 40, 121, 0.25));
+    filter: drop-shadow(0 4px 14px rgba(253, 40, 121, 0.35));
+    transition: filter 0.25s, transform 0.25s;
 }
 
-.site-logo-text { line-height: 1; }
-
-.site-logo .dot { color: var(--cta); }
-
-.site-logo:hover { color: var(--cta); }
-.site-logo:hover .site-logo-icon { filter: drop-shadow(0 2px 14px rgba(253, 40, 121, 0.55)); }
+.site-logo:hover .site-logo-icon {
+    filter: drop-shadow(0 4px 22px rgba(253, 40, 121, 0.65));
+    transform: scale(1.05);
+}
 
 .site-nav {
     display: flex;
@@ -1303,26 +1302,15 @@ img {
 }
 
 .footer-brand {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
     margin-bottom: 1rem;
 }
 
 .footer-brand-icon {
-    height: 48px;
+    height: 88px;
     width: auto;
     display: block;
+    filter: drop-shadow(0 4px 14px rgba(253, 40, 121, 0.2));
 }
-
-.footer-brand-name {
-    font-family: var(--font-heading);
-    font-size: 1.4rem;
-    color: var(--primary);
-    line-height: 1;
-}
-
-.footer-brand-name .dot { color: var(--cta); }
 
 .footer-col p {
     font-size: 0.95rem;
