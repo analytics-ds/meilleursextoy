@@ -37,9 +37,9 @@ articles:
     volume: 9900
     kd: null
     scheduled_date: "2026-06-02"
-    status: todo
-    published_date: null
-    published_url_fr: null
+    status: done
+    published_date: "2026-05-27"
+    published_url_fr: "https://analytics-ds.github.io/meilleursextoy/blog/squirting/"
     published_url_en: null
     error: null
 
