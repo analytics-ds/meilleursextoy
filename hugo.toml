@@ -1,4 +1,4 @@
-baseURL = 'https://analytics-ds.github.io/meilleursextoy/'
+baseURL = 'https://meilleursextoy.com/'
 languageCode = 'fr-fr'
 title = 'Meilleur Sextoy'
 theme = 'lusty'
