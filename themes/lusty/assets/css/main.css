@@ -82,16 +82,23 @@ img {
 
 /* --- Header --- */
 .site-header {
-    background-color: transparent;
-    position: absolute;
+    background-color: rgba(15, 5, 12, 0.96);
+    position: relative;
     top: 0;
     left: 0;
     right: 0;
     z-index: 100;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+body.has-hero .site-header {
+    background-color: transparent;
+    position: absolute;
+    border-bottom: none;
 }
 
 .site-header.scrolled {
-    background-color: rgba(15, 5, 12, 0.92);
+    background-color: rgba(15, 5, 12, 0.96);
     backdrop-filter: blur(12px);
     position: fixed;
     border-bottom: 1px solid rgba(255, 255, 255, 0.08);
@@ -673,6 +680,26 @@ img {
 .article-card-excerpt {
     color: var(--text);
     margin-top: 0.75rem;
+}
+
+.article-card-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    color: var(--text-light);
+    margin-bottom: 0.5rem;
+}
+
+.article-card-meta time { color: var(--text-light); }
+
+.article-card-author {
+    display: inline-block;
+    margin-top: 1rem;
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    color: var(--text-light);
 }
 
 /* --- Newsletter --- */

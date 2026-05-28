@@ -25,7 +25,7 @@
         <link rel="stylesheet" href="{{ $css.RelPermalink }}">
     {{ end }}
 </head>
-<body>
+<body class="{{ if .IsHome }}has-hero{{ else }}no-hero{{ end }}">
     {{ partial "header.html" . }}
 
     <main>

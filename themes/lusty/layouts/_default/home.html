@@ -130,9 +130,11 @@
         </div>
         <div class="grid-articles">
             {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
+            {{ $img := .Params.image }}
+            {{ if not $img }}{{ $img = printf "/images/blog/%s.jpg" .File.BaseFileName }}{{ end }}
             <a href="{{ .RelPermalink }}" class="article-card">
                 <div class="article-card-image">
-                    <img src="https://picsum.photos/seed/{{ .File.BaseFileName }}/800/600" alt="{{ .Title }}" loading="lazy">
+                    <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" onerror="this.onerror=null;this.src='/images/blog/_fallback.jpg';">
                 </div>
                 <div class="article-card-body">
                     {{ with .Params.categories }}
