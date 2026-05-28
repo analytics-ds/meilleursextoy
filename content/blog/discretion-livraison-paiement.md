@@ -6,6 +6,7 @@ lastmod: 2026-05-10
 author: "Camille Reverdy"
 categories: ["Enquête"]
 draft: false
+image: "/images/blog/discretion-livraison-paiement.jpg"
 ---
 
 Acheter un sextoy en ligne suppose souvent un compromis entre vitesse de livraison et discrétion. Nous avons testé quinze enseignes françaises pour vérifier la réalité de leurs promesses en matière de colis neutre, de facturation anonyme et de retours discrets.

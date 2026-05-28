@@ -6,7 +6,7 @@ lastmod: 2026-08-21
 author: "Camille Reverdy"
 categories: ["Couples"]
 draft: false
-image: "/images/products/we-vibe-chorus.jpg"
+image: "/images/blog/introduire-un-sextoy-en-couple.jpg"
 ---
 
 La conversation est faite, le sextoy est arrivé : reste à passer à l'**utilisation** concrète, **avec partenaire**, sans casser **l'intimité** déjà construite à deux. Le moment, la manière, la position de départ, qui tient le toy : autant de détails qui font la différence entre une découverte joyeuse et un malaise mémorable, **pendant** la **pénétration** ou les préliminaires.

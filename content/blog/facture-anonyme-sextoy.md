@@ -6,7 +6,7 @@ lastmod: 2026-10-06
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false
-image: "/images/products/satisfyer-pro-4.jpg"
+image: "/images/blog/facture-anonyme-sextoy.jpg"
 ---
 
 À quoi bon recevoir un colis sans logo si le relevé bancaire affiche "SEX SHOP XYZ" pour toute la famille ? La **facture anonyme** est l'angle mort de la discrétion à l'achat d'un sextoy. Voici ce que les sites sérieux font vraiment apparaître sur le prélèvement, comment vérifier avant de payer, et les bons réflexes pour un anonymat de bout en bout.

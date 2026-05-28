@@ -6,7 +6,7 @@ lastmod: 2026-05-27
 author: "Camille Reverdy"
 categories: ["Anatomie"]
 draft: false
-image: "/images/products/womanizer-og.jpg"
+image: "/images/blog/anatomie-du-clitoris.jpg"
 ---
 
 Pendant des décennies, les manuels de **médecine** ont réduit le **clitoris** à un bouton de chair sous le capuchon clitoridien. La cartographie complète de l'**organe** n'a été publiée qu'en 1998 par l'urologue australienne Helen O'Connell. Verdict : une **structure** étendue de 9 à 11 centimètres, comparable en **taille** au **pénis** masculin, dont la majeure partie reste cachée à l'œil nu.

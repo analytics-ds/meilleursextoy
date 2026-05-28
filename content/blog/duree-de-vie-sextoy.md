@@ -6,7 +6,7 @@ lastmod: 2026-09-18
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false
-image: "/images/products/satisfyer-pro-4.jpg"
+image: "/images/blog/duree-de-vie-sextoy.jpg"
 ---
 
 2 à 3 ans en moyenne pour un **sextoy** correctement entretenu, parfois 5 à 7 ans pour les modèles premium en silicone médical : la **durée de vie** dépend bien plus de l'**utiliser** au quotidien que du prix d'achat. Quels sont les signes d'usure à repérer, comment prolonger la vie du **jouet**, et comment **recycler** une fois venue l'heure de remplacer, dans le respect de l'**environnement** ?

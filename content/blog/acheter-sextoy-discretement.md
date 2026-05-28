@@ -6,7 +6,7 @@ lastmod: 2026-09-29
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false
-image: "/images/products/satisfyer-pro-4.jpg"
+image: "/images/blog/acheter-sextoy-discretement.jpg"
 ---
 
 Colis sans logo, prélèvement bancaire neutre, livraison en point relais, paiement séparé : la **discrétion** à l'achat d'un **sextoy** se joue sur quatre détails que peu de sites assument vraiment jusqu'au bout. Tour d'horizon des bonnes pratiques en 2026, des enseignes qui tiennent vraiment leurs promesses et des pièges classiques à éviter.

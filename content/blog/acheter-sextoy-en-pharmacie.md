@@ -6,7 +6,7 @@ lastmod: 2026-10-13
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false
-image: "/images/products/satisfyer-pro-4.jpg"
+image: "/images/blog/acheter-sextoy-en-pharmacie.jpg"
 ---
 
 Depuis que **Satisfyer** et quelques autres marques se sont glissés dans les rayons "santé sexuelle", on croise désormais des **sextoys** entre les boîtes de paracétamol. Mais l'offre reste mince, la discrétion peut faire défaut au comptoir, et les tarifs frôlent souvent ceux des sites spécialisés. Ce qu'on peut vraiment trouver en **pharmacie** en 2026, et quand préférer le e-commerce.

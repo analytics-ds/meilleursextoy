@@ -6,6 +6,7 @@ lastmod: 2026-05-20
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false
+image: "/images/blog/bien-choisir-premier-sextoy.jpg"
 ---
 
 Choisir son premier sextoy peut intimider. Pourtant, en gardant cinq critères en tête, la sélection devient claire et l'achat plus serein. Ce guide reprend les questions à se poser avant de cliquer.

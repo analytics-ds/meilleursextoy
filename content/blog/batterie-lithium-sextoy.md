@@ -6,7 +6,7 @@ lastmod: 2026-11-17
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false
-image: "/images/products/satisfyer-pro-4.jpg"
+image: "/images/blog/batterie-lithium-sextoy.jpg"
 ---
 
 Depuis 2015, les piles AAA ont quasiment disparu des **sextoys** au profit de la **batterie lithium**. Autonomie accrue, recharge USB, format plus compact : les avantages sont nets côté usage. Mais que vaut vraiment cette technologie sur la **durée de vie**, la **sécurité** au quotidien, et le **recyclage** une fois le toy en fin de course ?

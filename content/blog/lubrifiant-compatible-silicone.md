@@ -6,7 +6,7 @@ lastmod: 2026-09-25
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false
-image: "/images/products/lelo-sona-2.jpg"
+image: "/images/blog/lubrifiant-compatible-silicone.jpg"
 ---
 
 Mauvaise pioche fréquente : un **lubrifiant** base silicone va détruire à petit feu votre **sextoy** en **silicone medical**. Les versions base huile, elles, dégradent les préservatifs. Seul le **lubrifiant compatible silicone** par excellence, à base d'eau, coche toutes les cases. Voici comment s'y retrouver dans la jungle des références et choisir le bon produit selon le toy.

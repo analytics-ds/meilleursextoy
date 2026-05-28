@@ -6,7 +6,7 @@ lastmod: 2026-11-13
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false
-image: "/images/products/lelo-sona-2.jpg"
+image: "/images/blog/ipx7-sextoy.jpg"
 ---
 
 Un petit logo **IPX7** sur la boîte d'un sextoy promet 30 minutes d'immersion sous 1 mètre d'eau sans dommage. Concrètement, ça change quoi pour l'usage sous la douche, dans le bain, ou simplement au moment du nettoyage ? Décryptage de cet indice trop souvent ignoré à l'achat, et comparaison avec les autres certifications du marché.

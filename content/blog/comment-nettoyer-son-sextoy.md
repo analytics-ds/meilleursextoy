@@ -6,7 +6,7 @@ lastmod: 2026-07-10
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false
-image: "/images/products/lelo-sona-2.jpg"
+image: "/images/blog/comment-nettoyer-son-sextoy.jpg"
 ---
 
 Un sextoy mal nettoyé peut provoquer mycoses, vaginoses et irritations dans la semaine qui suit. Pourtant beaucoup d'**utilisation**s se contentent d'un coup d'eau ou attrapent le mauvais produit dans la salle de bain. Voici la **routine** à appliquer **après chaque utilisation** selon le matériau, et **pourquoi** certains gestes anodins sont à bannir absolument.

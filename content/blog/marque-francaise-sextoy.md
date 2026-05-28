@@ -6,7 +6,7 @@ lastmod: 2026-10-09
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false
-image: "/images/products/lelo-sona-2.jpg"
+image: "/images/blog/marque-francaise-sextoy.jpg"
 ---
 
 Hors **Lovense**, **Lelo** et **Womanizer**, l'hexagone aligne désormais une dizaine de **marques françaises** de sextoys capables de rivaliser sur le segment premium. Design contemporain, fabrication artisanale parfois en Alsace, R&D made in France : voici les acteurs sérieux à connaître en 2026, avec leurs modèles phares et leurs vrais points forts.

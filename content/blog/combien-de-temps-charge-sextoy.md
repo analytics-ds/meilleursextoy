@@ -6,7 +6,7 @@ lastmod: 2026-11-06
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false
-image: "/images/products/satisfyer-pro-4.jpg"
+image: "/images/blog/combien-de-temps-charge-sextoy.jpg"
 ---
 
 Combien de temps faut-il pour **charger un sextoy** ? La durée varie selon la marque, la capacité batterie, et le type de charge. Une charge complète prend généralement entre 1h30 et 3h pour les modèles courants. Ce guide détaille les temps réels par marque et donne les bonnes pratiques pour préserver la batterie sur la durée.
