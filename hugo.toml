@@ -1,5 +1,6 @@
 baseURL = 'https://meilleursextoy.com/'
 languageCode = 'fr-fr'
+defaultContentLanguage = 'fr'
 title = 'Meilleur Sextoy'
 theme = 'lusty'
 

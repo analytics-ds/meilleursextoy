@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ if .IsHome }}{{ .Site.Title }} : guides, avis et comparatifs pour adultes{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
-    <meta name="robots" content="noindex,nofollow">
+    <meta name="robots" content="index,follow">
 
     {{ partial "seo-head.html" . }}
 
