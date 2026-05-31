@@ -1,10 +1,4 @@
-# Site en preprod : noindex global
 User-agent: *
-Disallow: /
+Allow: /
 
-# Empecher l'indexation des tags meme si actives plus tard
-User-agent: *
-Disallow: /tags/
-Disallow: /tag/
-
-# Pas de sitemap publie en preprod
+Sitemap: https://meilleursextoy.com/sitemap.xml
