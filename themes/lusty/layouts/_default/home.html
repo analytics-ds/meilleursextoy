@@ -6,7 +6,6 @@
     </div>
     <div class="hero-container">
         <div class="hero-content">
-            <span class="hero-badge">Avis, comparatifs et guides</span>
             <h1>Entrez dans un univers <span class="accent">de plaisirs</span> interdits</h1>
             <p class="hero-description">Sélection rigoureuse de sextoys testés, classés et expliqués. Pour explorer votre intimité avec confiance, sans tabou.</p>
             <div class="hero-ctas">
@@ -131,7 +130,8 @@
         <div class="grid-articles">
             {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
             {{ $img := .Params.image }}
-            {{ if not $img }}{{ $img = printf "/images/blog/%s.jpg" .File.BaseFileName }}{{ end }}
+            {{ if and (not $img) .File }}{{ $img = printf "/images/blog/%s.jpg" .File.ContentBaseName }}{{ end }}
+            {{ if not $img }}{{ $img = "/images/blog/_fallback.jpg" }}{{ end }}
             <a href="{{ .RelPermalink }}" class="article-card">
                 <div class="article-card-image">
                     <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" onerror="this.onerror=null;this.src='/images/blog/_fallback.jpg';">

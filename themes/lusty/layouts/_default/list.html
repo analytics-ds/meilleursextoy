@@ -2,6 +2,7 @@
 
 <section class="list-header">
     <div class="container">
+        <span class="list-eyebrow">Magazine</span>
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
         <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}</span>
@@ -10,30 +11,65 @@
 
 <section class="list-content">
     <div class="container">
-        <div class="grid-articles">
-            {{ range .Pages.ByDate.Reverse }}
-            <a href="{{ .RelPermalink }}" class="article-card">
-                <div class="article-card-image">
-                    {{ $img := .Params.image }}
-                    {{ if not $img }}{{ $img = printf "/images/blog/%s.jpg" (.File.BaseFileName | default (urlize .Title)) }}{{ end }}
+
+        {{ if eq .Kind "taxonomy" }}
+        {{/* Index des categories : grille simple de liens, sans meta article */}}
+        <div class="term-grid">
+            {{ range .Pages }}
+            <a href="{{ .RelPermalink }}" class="term-card">
+                <span class="term-card-name">{{ .Title }}</span>
+                <span class="term-card-count">{{ len .Pages }} article{{ if gt (len .Pages) 1 }}s{{ end }}</span>
+            </a>
+            {{ end }}
+        </div>
+
+        {{ else }}
+        {{ $pages := .Pages.ByDate.Reverse }}
+
+        {{ if gt (len $pages) 0 }}
+        {{ $featured := index $pages 0 }}
+        {{ with $featured }}
+        {{ $img := .Params.image }}
+        {{ if and (not $img) .File }}{{ $img = printf "/images/blog/%s.jpg" .File.ContentBaseName }}{{ end }}
+        {{ if not $img }}{{ $img = "/images/blog/_fallback.jpg" }}{{ end }}
+        <a href="{{ .RelPermalink }}" class="post-featured">
+            <div class="post-featured-media">
+                <img src="{{ $img }}" alt="{{ .Title }}" loading="eager" onerror="this.onerror=null;this.src='/images/blog/_fallback.jpg';">
+                {{ with .Params.categories }}<span class="post-cat post-cat-float">{{ index . 0 }}</span>{{ end }}
+            </div>
+            <div class="post-featured-body">
+                <span class="post-featured-flag">À la une</span>
+                <h2 class="post-featured-title">{{ .Title }}</h2>
+                <p class="post-featured-excerpt">{{ .Description }}</p>
+                {{ partial "post-meta.html" . }}
+            </div>
+        </a>
+        {{ end }}
+        {{ end }}
+
+        {{ if gt (len $pages) 1 }}
+        <div class="post-grid">
+            {{ range after 1 $pages }}
+            {{ $img := .Params.image }}
+            {{ if and (not $img) .File }}{{ $img = printf "/images/blog/%s.jpg" .File.ContentBaseName }}{{ end }}
+            {{ if not $img }}{{ $img = "/images/blog/_fallback.jpg" }}{{ end }}
+            <a href="{{ .RelPermalink }}" class="post-card">
+                <div class="post-card-media">
                     <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy" onerror="this.onerror=null;this.src='/images/blog/_fallback.jpg';">
+                    {{ with .Params.categories }}<span class="post-cat post-cat-float">{{ index . 0 }}</span>{{ end }}
                 </div>
-                <div class="article-card-body">
-                    <div class="article-card-meta">
-                        {{ with .Params.categories }}
-                        <span class="article-card-category">{{ index . 0 }}</span>
-                        {{ end }}
-                        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-                    </div>
-                    <h2 class="article-card-title">{{ .Title }}</h2>
-                    <p class="article-card-excerpt">{{ .Description }}</p>
-                    {{ with .Params.author }}
-                    <span class="article-card-author">Par {{ . }}</span>
-                    {{ end }}
+                <div class="post-card-body">
+                    <h2 class="post-card-title">{{ .Title }}</h2>
+                    <p class="post-card-excerpt">{{ .Description }}</p>
+                    {{ partial "post-meta.html" . }}
                 </div>
             </a>
             {{ end }}
         </div>
+        {{ end }}
+
+        {{ end }}
+
     </div>
 </section>
 
