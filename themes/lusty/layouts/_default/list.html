@@ -2,10 +2,10 @@
 
 <section class="list-header">
     <div class="container">
-        <span class="list-eyebrow">Magazine</span>
+        <span class="list-eyebrow">{{ i18n "blog_eyebrow" }}</span>
         <h1>{{ .Title }}</h1>
         {{ with .Description }}<p class="list-description">{{ . }}</p>{{ end }}
-        <span class="list-count">{{ len .Pages }} {{ if gt (len .Pages) 1 }}articles{{ else }}article{{ end }}</span>
+        <span class="list-count">{{ len .Pages }} {{ i18n "articles_count" (len .Pages) }}</span>
     </div>
 </section>
 
@@ -38,7 +38,7 @@
                 {{ with .Params.categories }}<span class="post-cat post-cat-float">{{ index . 0 }}</span>{{ end }}
             </div>
             <div class="post-featured-body">
-                <span class="post-featured-flag">À la une</span>
+                <span class="post-featured-flag">{{ i18n "blog_featured" }}</span>
                 <h2 class="post-featured-title">{{ .Title }}</h2>
                 <p class="post-featured-excerpt">{{ .Description }}</p>
                 {{ partial "post-meta.html" . }}

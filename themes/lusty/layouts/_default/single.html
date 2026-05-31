@@ -7,10 +7,8 @@
                 {{ with .Params.categories }}
                 <a href="{{ "categories/" | relURL }}{{ index . 0 | urlize }}/" class="article-category">{{ index . 0 }}</a>
                 {{ end }}
-                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "2 January 2006" }}</time>
-                {{ if .Params.readingTime }}
-                <span class="reading-time">{{ .ReadingTime }} min de lecture</span>
-                {{ end }}
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date | time.Format ":date_long" }}</time>
+                <span class="reading-time">{{ .ReadingTime }} {{ i18n "reading_time" }}</span>
             </div>
             <h1>{{ .Title }}</h1>
             {{ with .Description }}
@@ -18,11 +16,21 @@
             {{ end }}
             {{ with .Params.author }}
             <div class="article-author">
-                <span class="author-label">Par</span>
-                <span class="author-name">{{ . }}</span>
+                <span class="author-avatar">
+                    <img src="{{ "images/author/camille.jpg" | relURL }}" alt="{{ . }}" width="48" height="48" loading="lazy" onerror="this.style.display='none';this.parentElement.classList.add('author-avatar-fallback');this.parentElement.textContent='{{ substr . 0 1 }}';">
+                </span>
+                <span class="author-meta">
+                    <span class="author-name">{{ . }}</span>
+                    <span class="author-role">{{ $.Site.Params.author_role }}</span>
+                </span>
             </div>
             {{ end }}
         </div>
+        {{ with .Params.image }}
+        <div class="article-hero-image container container-narrow">
+            <img src="{{ . | relURL }}" alt="{{ $.Title }}" loading="eager" onerror="this.closest('.article-hero-image').style.display='none';">
+        </div>
+        {{ end }}
     </header>
 
     <div class="article-content">
@@ -36,13 +44,13 @@
             <nav class="article-nav">
                 {{ with .PrevInSection }}
                 <a href="{{ .RelPermalink }}" class="nav-prev">
-                    <span class="nav-label">Article précédent</span>
+                    <span class="nav-label">{{ i18n "prev_article" }}</span>
                     <span class="nav-title">{{ .Title }}</span>
                 </a>
                 {{ end }}
                 {{ with .NextInSection }}
                 <a href="{{ .RelPermalink }}" class="nav-next">
-                    <span class="nav-label">Article suivant</span>
+                    <span class="nav-label">{{ i18n "next_article" }}</span>
                     <span class="nav-title">{{ .Title }}</span>
                 </a>
                 {{ end }}

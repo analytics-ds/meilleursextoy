@@ -6,23 +6,23 @@
     </div>
     <div class="hero-container">
         <div class="hero-content">
-            <h1>Entrez dans un univers <span class="accent">de plaisirs</span> interdits</h1>
-            <p class="hero-description">Sélection rigoureuse de sextoys testés, classés et expliqués. Pour explorer votre intimité avec confiance, sans tabou.</p>
+            <h1>{{ i18n "hero_title_a" }} <span class="accent">{{ i18n "hero_title_accent" }}</span> {{ i18n "hero_title_b" }}</h1>
+            <p class="hero-description">{{ i18n "hero_desc" }}</p>
             <div class="hero-ctas">
-                <a href="{{ "blog/" | relURL }}" class="btn-primary">Voir notre top 10</a>
-                <a href="{{ "categories/guides/" | relURL }}" class="btn-secondary">Lire les guides</a>
+                <a href="{{ "blog/" | relLangURL }}" class="btn-primary">{{ i18n "hero_cta_top" }}</a>
+                <a href="{{ "categories/guides/" | relLangURL }}" class="btn-secondary">{{ i18n "hero_cta_guides" }}</a>
             </div>
             <dl class="hero-stats">
                 <div>
-                    <dt class="hero-stat-label">Produits testés</dt>
+                    <dt class="hero-stat-label">{{ i18n "stat_products" }}</dt>
                     <dd class="hero-stat-value">120+</dd>
                 </div>
                 <div>
-                    <dt class="hero-stat-label">Guides experts</dt>
+                    <dt class="hero-stat-label">{{ i18n "stat_guides" }}</dt>
                     <dd class="hero-stat-value">35</dd>
                 </div>
                 <div>
-                    <dt class="hero-stat-label">Lectrices</dt>
+                    <dt class="hero-stat-label">{{ i18n "stat_readers" }}</dt>
                     <dd class="hero-stat-value">28k</dd>
                 </div>
             </dl>
@@ -34,10 +34,10 @@
     <div class="container">
         <div class="section-header">
             <div>
-                <span class="section-eyebrow">Nouveautés</span>
-                <h2 class="section-title">Les nouveautés qui réveillent les sens</h2>
+                <span class="section-eyebrow">{{ i18n "sec_new_eyebrow" }}</span>
+                <h2 class="section-title">{{ i18n "sec_new_title" }}</h2>
             </div>
-            <a href="{{ "produits/" | relLangURL }}" class="section-link">Voir toutes les fiches produits →</a>
+            <a href="{{ "produits/" | relLangURL }}" class="section-link">{{ i18n "sec_new_link" }} →</a>
         </div>
         <div class="grid-products">
             {{ $products := slice
@@ -69,25 +69,25 @@
     <div class="container">
         <div class="section-header">
             <div>
-                <span class="section-eyebrow">Notre approche</span>
-                <h2 class="section-title">Redéfinir l'intimité avec attention</h2>
+                <span class="section-eyebrow">{{ i18n "sec_approach_eyebrow" }}</span>
+                <h2 class="section-title">{{ i18n "sec_approach_title" }}</h2>
             </div>
         </div>
         <div class="values-grid">
             <div class="value-card">
                 <span class="value-number">01</span>
-                <h3 class="value-title">Tests sans filtre</h3>
-                <p class="value-text">Chaque produit est testé dans la durée, avec un protocole précis et une note motivée.</p>
+                <h3 class="value-title">{{ i18n "val1_title" }}</h3>
+                <p class="value-text">{{ i18n "val1_text" }}</p>
             </div>
             <div class="value-card">
                 <span class="value-number">02</span>
-                <h3 class="value-title">Discrétion totale</h3>
-                <p class="value-text">Conseils sur les marques qui livrent en colis neutre et facturent sous nom anonyme.</p>
+                <h3 class="value-title">{{ i18n "val2_title" }}</h3>
+                <p class="value-text">{{ i18n "val2_text" }}</p>
             </div>
             <div class="value-card">
                 <span class="value-number">03</span>
-                <h3 class="value-title">Plaisir éclairé</h3>
-                <p class="value-text">Guides pédagogiques pour choisir selon vos envies, votre anatomie et votre budget.</p>
+                <h3 class="value-title">{{ i18n "val3_title" }}</h3>
+                <p class="value-text">{{ i18n "val3_text" }}</p>
             </div>
         </div>
     </div>
@@ -97,20 +97,17 @@
     <div class="container">
         <div class="testimonial-grid">
             <div class="testimonial-image">
-                <img src="https://picsum.photos/seed/portrait-temoignage/640/800" alt="Portrait Camille" loading="lazy">
+                <img src="{{ "images/author/camille.jpg" | relURL }}" alt="Camille" loading="lazy" onerror="this.src='https://picsum.photos/seed/portrait/640/800';">
             </div>
             <div>
-                <span class="section-eyebrow">Ils en parlent</span>
+                <span class="section-eyebrow">{{ i18n "testi_eyebrow" }}</span>
                 <blockquote>
-                    <p class="testimonial-quote">«&nbsp;Avant je n'osais pas. Leurs comparatifs m'ont aidée à choisir un premier sextoy sans stress. C'est devenu un vrai rendez-vous pour moi et mon copain.&nbsp;»</p>
+                    <p class="testimonial-quote">«&nbsp;{{ i18n "testi_quote" }}&nbsp;»</p>
                 </blockquote>
                 <div class="testimonial-author">
-                    <div class="testimonial-avatar">
-                        <img src="https://picsum.photos/seed/avatar-camille/96/96" alt="Avatar">
-                    </div>
                     <div>
-                        <p class="testimonial-author-name">Camille, 31 ans</p>
-                        <p class="testimonial-author-role">Lectrice depuis 2024</p>
+                        <p class="testimonial-author-name">{{ i18n "testi_name" }}</p>
+                        <p class="testimonial-author-role">{{ i18n "testi_role" }}</p>
                     </div>
                 </div>
             </div>
@@ -122,10 +119,10 @@
     <div class="container">
         <div class="section-header">
             <div>
-                <span class="section-eyebrow">Magazine</span>
-                <h2 class="section-title">Plongez dans le désir avec nos guides</h2>
+                <span class="section-eyebrow">{{ i18n "sec_mag_eyebrow" }}</span>
+                <h2 class="section-title">{{ i18n "sec_mag_title" }}</h2>
             </div>
-            <a href="{{ "blog/" | relURL }}" class="section-link">Tous les articles →</a>
+            <a href="{{ "blog/" | relLangURL }}" class="section-link">{{ i18n "sec_mag_link" }} →</a>
         </div>
         <div class="grid-articles">
             {{ range first 3 (where .Site.RegularPages "Section" "blog") }}
@@ -151,13 +148,13 @@
 
 <section class="section section-dark newsletter">
     <div class="container">
-        <span class="section-eyebrow">Newsletter</span>
-        <h2 class="section-title">Inscrivez-vous pour les nouveautés et nos tests en avant-première</h2>
-        <p class="newsletter-description">Un mail par semaine, jamais de spam, désinscription en un clic.</p>
+        <span class="section-eyebrow">{{ i18n "news_eyebrow" }}</span>
+        <h2 class="section-title">{{ i18n "news_title" }}</h2>
+        <p class="newsletter-description">{{ i18n "news_desc" }}</p>
         <form class="newsletter-form" action="#" method="post">
             <label class="sr-only" for="newsletter-email">Email</label>
-            <input id="newsletter-email" class="newsletter-input" type="email" placeholder="votre@email.fr" required>
-            <button class="newsletter-submit" type="submit">S'inscrire</button>
+            <input id="newsletter-email" class="newsletter-input" type="email" placeholder="{{ i18n "news_email" }}" required>
+            <button class="newsletter-submit" type="submit">{{ i18n "news_submit" }}</button>
         </form>
     </div>
 </section>

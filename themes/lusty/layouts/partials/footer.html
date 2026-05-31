@@ -5,10 +5,10 @@
                 <div class="footer-brand">
                     <img src="{{ "images/logo/logo-isolated.png" | relLangURL }}" alt="Meilleur Sextoy" class="footer-brand-icon" width="96" height="96">
                 </div>
-                <p>Guides et comparatifs indépendants pour explorer votre intimité en toute confiance. Site réservé à un public adulte.</p>
+                <p>{{ i18n "footer_tagline" }}</p>
             </div>
             <div class="footer-col">
-                <h4>Catalogue</h4>
+                <h4>{{ i18n "footer_catalogue" }}</h4>
                 <ul>
                     {{ range .Site.Taxonomies.categories }}
                     <li><a href="{{ .Page.RelPermalink }}">{{ .Page.Title }}</a></li>
@@ -16,7 +16,7 @@
                 </ul>
             </div>
             <div class="footer-col">
-                <h4>Navigation</h4>
+                <h4>{{ i18n "footer_nav" }}</h4>
                 <ul>
                     {{ range .Site.Menus.main }}
                     <li><a href="{{ .URL | relURL }}">{{ .Name }}</a></li>
@@ -24,18 +24,18 @@
                 </ul>
             </div>
             <div class="footer-col">
-                <h4>Le site</h4>
+                <h4>{{ i18n "footer_site" }}</h4>
                 <ul>
-                    <li><a href="{{ "a-propos/" | relURL }}">À propos</a></li>
-                    <li><a href="{{ "contact/" | relURL }}">Contact</a></li>
-                    <li><a href="{{ "mentions-legales/" | relURL }}">Mentions légales</a></li>
-                    <li><a href="{{ "plan-du-site/" | relURL }}">Plan du site</a></li>
+                    <li><a href="{{ "a-propos/" | relURL }}">{{ i18n "footer_about" }}</a></li>
+                    <li><a href="{{ "contact/" | relURL }}">{{ i18n "footer_contact" }}</a></li>
+                    <li><a href="{{ "mentions-legales/" | relURL }}">{{ i18n "footer_legal" }}</a></li>
+                    <li><a href="{{ "plan-du-site/" | relURL }}">{{ i18n "footer_sitemap" }}</a></li>
                 </ul>
             </div>
         </div>
         <div class="footer-bottom">
-            <p>© {{ now.Year }} {{ .Site.Title }}. Réservé aux 18 ans et plus.</p>
-            <p>Site indépendant, sans lien avec les marques citées.</p>
+            <p>© {{ now.Year }} {{ .Site.Title }}. {{ i18n "footer_rights" }}</p>
+            <p>{{ i18n "footer_independent" }}</p>
         </div>
     </div>
 </footer>

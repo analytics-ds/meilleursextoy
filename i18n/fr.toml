@@ -1,0 +1,102 @@
+[hero_title_a]
+other = "Entrez dans un univers"
+[hero_title_accent]
+other = "de plaisirs"
+[hero_title_b]
+other = "interdits"
+[hero_desc]
+other = "Sélection rigoureuse de sextoys testés, classés et expliqués. Pour explorer votre intimité avec confiance, sans tabou."
+[hero_cta_top]
+other = "Voir notre top 10"
+[hero_cta_guides]
+other = "Lire les guides"
+[nav_cta]
+other = "Voir le top"
+[stat_products]
+other = "Produits testés"
+[stat_guides]
+other = "Guides experts"
+[stat_readers]
+other = "Lectrices"
+[sec_new_eyebrow]
+other = "Nouveautés"
+[sec_new_title]
+other = "Les nouveautés qui réveillent les sens"
+[sec_new_link]
+other = "Voir toutes les fiches produits"
+[sec_approach_eyebrow]
+other = "Notre approche"
+[sec_approach_title]
+other = "Redéfinir l'intimité avec attention"
+[sec_mag_eyebrow]
+other = "Magazine"
+[sec_mag_title]
+other = "Plongez dans le désir avec nos guides"
+[sec_mag_link]
+other = "Tous les articles"
+[blog_eyebrow]
+other = "Magazine"
+[blog_featured]
+other = "À la une"
+[reading_time]
+other = "min de lecture"
+[by_author]
+other = "Par"
+[footer_tagline]
+other = "Guides et comparatifs indépendants pour explorer votre intimité en toute confiance. Site réservé à un public adulte."
+[footer_catalogue]
+other = "Catalogue"
+[footer_nav]
+other = "Navigation"
+[footer_site]
+other = "Le site"
+[footer_about]
+other = "À propos"
+[footer_contact]
+other = "Contact"
+[footer_legal]
+other = "Mentions légales"
+[footer_sitemap]
+other = "Plan du site"
+[footer_rights]
+other = "Réservé aux 18 ans et plus."
+[footer_independent]
+other = "Site indépendant, sans lien avec les marques citées."
+[prev_article]
+other = "Article précédent"
+[next_article]
+other = "Article suivant"
+[articles_count_one]
+other = "article"
+[articles_count_other]
+other = "articles"
+[val1_title]
+other = "Tests sans filtre"
+[val1_text]
+other = "Chaque produit est testé dans la durée, avec un protocole précis et une note motivée."
+[val2_title]
+other = "Discrétion totale"
+[val2_text]
+other = "Conseils sur les marques qui livrent en colis neutre et facturent sous nom anonyme."
+[val3_title]
+other = "Plaisir éclairé"
+[val3_text]
+other = "Guides pour choisir selon vos envies, votre anatomie et votre budget."
+[testi_eyebrow]
+other = "Elles en parlent"
+[testi_quote]
+other = "Avant je n'osais pas. Leurs comparatifs m'ont aidée à choisir un premier sextoy sans stress. C'est devenu un vrai rendez-vous."
+[testi_name]
+other = "Camille, 31 ans"
+[testi_role]
+other = "Lectrice depuis 2024"
+[news_eyebrow]
+other = "Newsletter"
+[news_title]
+other = "Inscrivez-vous pour nos tests en avant-première"
+[news_desc]
+other = "Un mail par semaine, jamais de spam, désinscription en un clic."
+[news_email]
+other = "votre@email.fr"
+[news_submit]
+other = "S'inscrire"
