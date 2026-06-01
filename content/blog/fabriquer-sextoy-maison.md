@@ -15,7 +15,7 @@ La question revient souvent dans les recherches : **comment faire un sextoy** so
 
 ## Les objets du quotidien à ne jamais utiliser, et pourquoi
 
-C'est la partie qui fâche, mais elle est la plus importante. On trouve en ligne des dizaines d'**astuces** et de **conseils** pour **créer** un **gode** ou un **vibromasseur** **maison** à partir de trucs banals. Le souci, c'est que ces **idées** circulent sans le moindre mot sur les **matériaux**. **Découvrez** plutôt ci-dessous pourquoi presque tout est à proscrire, et ce qui tient vraiment la route.
+C'est la partie qui fâche, mais elle est la plus importante. On trouve en ligne des dizaines d'**astuces** et de **conseils** pour **créer** un **gode** ou un **vibromasseur** **maison** à partir de trucs banals. Le souci, c'est que ces **idées** circulent sans le moindre mot sur les **matériaux**. On fait le tri ci-dessous : pourquoi presque tout est à proscrire, et ce qui tient vraiment la route.
 
 Le problème numéro un, c'est la **porosité**. Un **objet** poreux possède des micro-cavités invisibles à l'oeil nu. Le **papier**, le bois brut, la mousse, certains plastiques mous : tout ça absorbe les fluides et garde les bactéries au chaud. Tu peux frotter autant que tu veux, tu n'atteins jamais le fond. Résultat, un terrain idéal pour une infection urinaire ou une mycose.
 

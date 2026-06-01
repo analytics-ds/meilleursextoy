@@ -18,7 +18,7 @@ Comment nettoyer un sextoy correctement, sans rituel compliqué ni produit hasar
 <li>Ranger chaque jouet à l'abri de la poussière prolonge sa durée de vie.</li>
 </ul></div>
 
-## Pourquoi le nettoyage d'un sextoy est essentiel
+## Pourquoi nettoyer son sextoy change tout
 
 La peau des zones intimes reste fine et réactive. Un sextoy en contact avec elle transporte des fluides, des bactéries et parfois du **lubrifiant** qui sèche en pellicule. Sans **soin** régulier, ce mélange devient un terrain idéal pour les micro-organismes. Le **risque** ? Irritations, mycoses, infections urinaires. Rien d'irréparable, mais rien d'agréable non plus.
 

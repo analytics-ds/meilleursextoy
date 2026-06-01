@@ -99,7 +99,7 @@ Un **stimulateur prostatique** comme le We-Vibe Vector ou le Lovense Gush facili
 - Une base évasée, pour la **sécurité**, afin que rien ne reste coincé.
 - Y aller progressivement, surtout les premières fois.
 
-Cette pratique ne définit rien de l'orientation : c'est une **stimulation** physiologique, point. Beaucoup d'hommes la **découvrez** trop tard et regrettent de ne pas avoir essayé **avant**, alors que leur **bien-être sexuel** y gagne vraiment.
+Cette pratique ne définit rien de l'orientation : c'est une **stimulation** physiologique, point. Beaucoup d'hommes s'y mettent trop tard et regrettent de ne pas avoir essayé **avant**, alors que leur **bien-être sexuel** y gagne vraiment.
 
 ## Le plug anal connecté, jouet de couple
 
