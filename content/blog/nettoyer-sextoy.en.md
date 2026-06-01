@@ -18,13 +18,15 @@ How do you clean a sex toy properly, without a complicated ritual or a sketchy p
 <li>Storing each toy away from dust extends its lifespan.</li>
 </ul></div>
 
-## Why cleaning a sex toy is essential
+## Why cleaning your sex toy changes everything
 
 The skin of intimate areas stays thin and reactive. A sex toy in contact with it carries fluids, bacteria and sometimes **lubricant** that dries into a film. Without regular **care**, this mix becomes ideal ground for microorganisms. The **risk**? Irritation, yeast infections, urinary infections. Nothing irreversible, but nothing pleasant either.
 
 The intimate **hygiene** tied to **sex toys** deserves the same attention you give your toothbrush. You cannot see that grime, and that is exactly the trap. Taking **care** of your intimate **items** means protecting your **sexual health** and your **well-being** over the long term. To pick a model that is easy to maintain from the start, check out our guide on [which sex toy to choose](/blog/choisir-sextoy/).
 
 ## Cleaning by material: silicone, ABS, glass
+
+![Medical grade silicone surface](/images/content/silicone-medical.jpg "Medical silicone, the easiest material to clean")
 
 Here is the point many people skip. Not all **materials** react the same way to water, heat or products. A silicone toy handles **boiling water**, a motorized toy does not. Knowing the material means avoiding ruining a purchase in two **moves**.
 
@@ -53,6 +55,8 @@ The steps for basic **cleaning**, valid for most toys:
 This **after each** encounter rhythm may seem **important** to keep up, but it quickly becomes a reflex. And honestly, two minutes is enough. If you want to understand when this gesture fits into the full sequence, go read [how to use a sex toy](/blog/utiliser-sextoy/).
 
 ## Specific intimate cleanser or mild soap?
+
+![Sex toy cleaner spray](/images/content/nettoyant-sextoy.jpg "Specific cleaner or mild soap, both work")
 
 The question comes up often. Do you need a dedicated cleanser, sold at a steep price, or is plain **mild soap** enough?
 
@@ -116,7 +120,3 @@ Only partly. **Porous materials** retain bacteria that are impossible to fully r
 ### How do you know if your vibrator is waterproof?
 
 Look for the IPX rating on the box or instructions. No rating mentioned? Treat it as non-waterproof and clean it on the **surface** only, with a **damp** cloth and a bit of **mild soap**, without ever immersing it.
-
-## The bottom line
-
-Cleaning a sex toy is no big deal. **Lukewarm water**, **mild soap**, full **drying**, dry **storage**: this quartet covers 90% of situations. The rest is just knowing your **material** and respecting the waterproofing of motorized models. Skip these gestures and you pay in irritation or a dead toy. Keep them and your **toy** stays **impeccable**, session after session. It is as simple, and as **important**, as that.

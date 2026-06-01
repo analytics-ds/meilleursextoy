@@ -42,6 +42,8 @@ Voici quelques exemples concrets, parce que les listes vagues ne servent à rien
 
 ## Existe-t-il des matériaux acceptables ?
 
+![Silicone de qualité médicale](/images/content/silicone-medical.jpg "Seul le silicone médical est vraiment sûr pour le corps")
+
 Oui, mais la liste est courte, et elle ne couvre pas les **objets** qu'on a vraiment chez soi par hasard. Les seuls **matériaux** réputés **sûrs** pour le corps sont le **silicone** de qualité médicale, le verre borosilicate (celui des vrais **jouets**, pas une bouteille), l'acier inoxydable poli et certaines céramiques émaillées prévues pour cet usage.
 
 Le point commun ? Ils sont **non poreux**, lisses, et ils supportent un nettoyage sérieux. Le **silicone** domine le marché parce qu'il est doux, **simple** à **utiliser** et stable. Beaucoup de gens préfèrent **utiliser** un **objet** en **silicone** justement pour cette tranquillité. Un **vibromasseur** en **silicone** se nettoie en quelques secondes, sèche **parfaitement** et ne garde rien. Toute une catégorie de **jouets sexuels** repose d'ailleurs sur ce **matériau**, et ce n'est pas un hasard.
@@ -72,6 +74,8 @@ Aucune n'est totalement **sûre**, mais chacune reste bien moins risquée qu'un 
 
 ## Pourquoi un vrai sextoy pas cher reste plus sûr
 
+![Petit vibromasseur abordable](/images/products/satisfyer-pro-2.jpg "Un vrai jouet certifié coûte parfois moins de 50 euros")
+
 Voilà le coeur du sujet. Beaucoup veulent fabriquer sextoy sur sextoy **maison** pour des raisons d'argent ou de discrétion. C'est compréhensible. On veut du **plaisir** **maison** tout de suite, sans passer commande. Sauf qu'une infection, une visite aux urgences ou un perturbateur endocrinien coûtent infiniment plus cher qu'un **jouet** d'entrée de gamme.
 
 Le marché a énormément changé. Un petit **vibromasseur** en **silicone** médical (étanche, et rechargeable en USB) se trouve parfois sous les 20 euros. Pour ce prix, tu obtiens un **matériau** **non poreux**, des **étapes** de **fabrication** contrôlées et un **mode** d'emploi clair. Aucune **astuce** de **bricolage** ne t'offre ça.
@@ -101,7 +105,3 @@ Souvent moins de 20 euros pour un **vibromasseur** en **silicone** étanche et r
 ### Faut-il toujours un préservatif sur un objet improvisé ?
 
 Oui, sans exception. Le **préservatif** isole la muqueuse d'une surface douteuse et limite le passage des **matériaux**. Avec un lubrifiant à base d'eau, c'est le minimum vital si tu improvises.
-
-## Conclusion
-
-Tu sais maintenant **comment faire un sextoy** **maison**, et surtout pourquoi c'est rarement une bonne **idée**. Les **objets** du **quotidien** sont poreux, parfois toxiques, parfois carrément dangereux. La **créativité** ne remplace pas un **matériau** **testé**. Si tu improvises, **préservatif** neuf et lubrifiant à base d'eau, sans discuter. Mais le vrai bon plan, c'est un **jouet** en **silicone** à petit prix : plus **propre**, plus **sûr**, et bien plus agréable. Ton corps mérite mieux qu'un **bricolage**.

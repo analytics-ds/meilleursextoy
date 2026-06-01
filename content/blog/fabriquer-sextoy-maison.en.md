@@ -42,6 +42,8 @@ Here are a few concrete examples, because vague lists are useless.
 
 ## Are There Any Acceptable Materials?
 
+![Medical grade silicone](/images/content/silicone-medical.jpg "Only medical silicone is truly body-safe")
+
 Yes, but the list is short, and it rarely matches what you actually have at home by chance. The only materials considered safe for the body are **medical-grade** **silicone**, borosilicate glass (the kind used in real toys, not a bottle), polished stainless steel and certain enamelled ceramics made for this use.
 
 What do they have in common? They are non-porous, smooth, and they handle serious cleaning. **Silicone** dominates the market because it is soft, simple to maintain and stable. A silicone vibrator wipes clean in seconds, dries perfectly and keeps nothing. A whole category of sex toys is built on this material, and that is no accident.
@@ -72,6 +74,8 @@ None is fully safe, but each one is far less risky than an inserted object. Thes
 
 ## Why a Cheap Real Sex Toy Stays Safer
 
+![Affordable small vibrator](/images/products/satisfyer-pro-2.jpg "A real certified toy sometimes costs less than 50 euros")
+
 Here is the heart of it. Many people want to make a **homemade sex toy**, to make sex toy after sex toy on the cheap, for money or discretion reasons. That is understandable. You want homemade pleasure right now, without placing an order. Except an **infection**, an ER visit or an endocrine disruptor cost infinitely more than an entry-level toy.
 
 The market has changed enormously. A small medical silicone vibrator, waterproof and rechargeable, sometimes sells for under 20 euros. For that price you get a non-porous material, controlled manufacturing steps and a clear instruction mode. No DIY tip offers you that.
@@ -101,7 +105,3 @@ Often under 20 euros for a waterproof, rechargeable silicone vibrator. It is one
 ### Do you always need a condom on an improvised object?
 
 Yes, no exceptions. The condom isolates the mucous membrane from a questionable surface and limits material transfer. With a water-based lubricant, it is the bare minimum if you improvise.
-
-## Conclusion
-
-You now know how to make a **homemade sex toy**, and above all why it is rarely a good idea. Everyday objects are porous, sometimes toxic, sometimes outright dangerous. Creativity does not replace a tested material. If you improvise, a fresh condom and water-based lubricant, no debate. But the real smart move is a cheap silicone toy: cleaner, safer, and far more pleasant. Your body deserves better than DIY.

@@ -155,7 +155,3 @@ How do you **choose** your **first** sex toy? Start from your anatomy, pick a si
 ### What anal plug size to start with?
 
 The smallest possible. A thin **anal plug** with a wide base, plenty of lube, and you move up in size gradually. Rushing is the enemy of **anal** pleasure, especially at the start.
-
-## Bottom line: keep it simple, keep it right
-
-Which sex toy should you choose? The one that matches your body, your use and your budget, not the one with the most buttons. Before you **choose**, ask the right questions: **external** or **internal** pleasure, **solo** or with **two**, small or **large** size. Identify the stimulation you want (clitoris, **G-spot**, **anal** or **prostate** pleasure), pick a safe **material** like **silicone**, and start without breaking the bank. One last tip before clicking buy: **choose** a model you genuinely want, not the one everyone recommends. The rest comes with experience. A good **first** **toy**, well chosen, beats every high-end model in the world.

@@ -87,7 +87,7 @@ Who is it for?
 
 A tip: start gently, pulsed air can quickly get too intense on a sensitive glans. Many users say in their reviews it took two or three sessions to find the right setting. Patience, then, the test is worth it.
 
-Worth noting too: these masturbators do not mimic penetration, they only work the surface. If you want the sensation of a classic encounter, look toward the Fleshlight Launch instead. If you want something never felt before, stick with Pleasure Air.
+Worth noting too: these masturbators do not mimic penetration, they only work the surface. If you want the sensation of a classic encounter, look toward the Fleshlight Launch instead. If you want something never felt before, stick with Pleasure Air. And if you are still weighing up the categories, our [best sex toy](/blog/meilleur-sextoy/) comparison covers every profile.
 
 ## Prostate stimulation, the pleasure we neglect
 
@@ -125,7 +125,7 @@ None of our five main models is a pure **cock ring**, but it is the most accessi
 
 It is a small, cheap addition that changes a lot for shared pleasure.
 
-A final point on duration: a ring should not stay on more than twenty minutes at a time. Beyond that, safety comes first, you remove it and let the **blood flow**. Respected, it is a risk-free and remarkably effective accessory.
+A final point on duration: a ring should not stay on more than twenty minutes at a time. Beyond that, safety comes first, you remove it and let the **blood flow**. Respected, it is a risk-free and remarkably effective accessory. To dig into the choosing criteria (size, material, intensity), check our guide on [which sex toy to choose](/blog/choisir-sextoy/).
 
 ## Remote and long distance
 
@@ -133,7 +133,7 @@ Connected toys have transformed long-distance relationships. A remote vibrator o
 
 The appeal goes beyond the gadget: keeping a physical link when apart, surprising the other, playing over video. The small detail that matters is connection stability, check the reviews on this point before buying.
 
-These toys also fit very well into the sexuality of a couple living together. Letting the other take over the vibrations, not knowing when the next pulse comes, creates a genuinely exciting anticipation. The right model depends on what you want to explore together.
+These toys also fit very well into the sexuality of a couple living together. Letting the other take over the vibrations, not knowing when the next pulse comes, creates a genuinely exciting anticipation. The right model depends on what you want to explore together. The last question is [where to buy a sex toy](/blog/ou-acheter-sextoy/) you can trust: we compared the serious shops.
 
 ## Frequently asked questions
 
@@ -156,9 +156,3 @@ With warm water and mild soap, or a dedicated cleaner, after each use. Dry it we
 ### Are connected sex toys safe?
 
 On data safety, choose serious brands that encrypt their exchanges. On materials, favor medical silicone, phthalate-free. The rest is common sense.
-
-## Our verdict
-
-If you had to remember just one name, it would be the Arcwave Ion: it delivers the most striking new sensations among all the male sex toys we tested. To explore the prostate or play as a couple, the We-Vibe Vector earns its place. And for a no-fuss first purchase, the Lovense Gush stays the most accessible. The **best sex toy for men**, in the end, is the one that matches what you want right now.
-
-To go further, read our ranking of [the best sex toy](/blog/meilleur-sextoy/) for everyone, our guide to [choosing your sex toy](/blog/choisir-sextoy/) by profile, and our advice on [where to buy a sex toy](/blog/ou-acheter-sextoy/) discreetly.

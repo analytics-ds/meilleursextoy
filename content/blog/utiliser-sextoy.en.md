@@ -20,6 +20,8 @@ You just got your first accessory and you're wondering where to start? Knowing *
 
 ## Prep and Lubricant: the Basics Before You Start
 
+![Water-based lubricant bottle](/images/content/lubrifiant.jpg "Lubricant, the first thing to grab before using a sex toy")
+
 A good **moment** is prepared. Before you even touch the **toy**, check that it's charged or that the batteries work. Nothing more frustrating than a **vibrator** dying at the wrong instant.
 
 Clean the accessory, even when new. **Products** come out of the factory and packaging, so a rinse in warm soapy water is a must. Then settle into a place where you feel good, with no risk of being disturbed.
@@ -81,6 +83,8 @@ The **G-spot** sits on the front wall of the vagina. A curved toy, aimed toward 
 
 ## Cleaning After Use: the Reflex That Makes It Last
 
+![Cleaning a sex toy with mild soap](/images/content/savon-doux.jpg "Simple cleaning after every use")
+
 **Use** doesn't end at orgasm. A poorly maintained toy becomes a breeding ground for bacteria, and that's true for the **whole** collection. The **perfect** move after each session:
 
 1. Rinse the toy in warm water.
@@ -122,7 +126,3 @@ Often a matter of **moment**, angle, or intensity. The body needs to be awake be
 ### Can a sex toy replace a partner?
 
 No. A **toy** adds **sensations** and autonomy, but the intimacy, closeness, and touch of a **partner** are something else. The two coexist just fine.
-
-## The Bottom Line
-
-**Using a sex toy** is nothing complicated. Prep your gear, keep **lubricant** at hand, go gradually, and clean after every **use**. The rest is curiosity. **Solo** or **as a couple**, the right **toy** used well opens the door to a **pleasure** many underestimate. Dive in, adjust, repeat: that's how you learn what works for you.

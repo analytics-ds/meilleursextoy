@@ -26,6 +26,8 @@ L'**hygiène intime** liée aux **sex-toys** mérite la même attention que cell
 
 ## Nettoyer selon le matériau : silicone, ABS, verre
 
+![Surface en silicone médical](/images/content/silicone-medical.jpg "Le silicone médical, le matériau le plus simple à nettoyer")
+
 Voilà le point que beaucoup zappent. Tous les **matériaux** ne réagissent pas de la même façon à l'eau, à la chaleur ou aux produits. Un jouet en silicone supporte l'**eau bouillante**, un jouet motorisé non. Connaître la matière, c'est éviter de ruiner un achat en deux **coups**.
 
 | Matériau | Méthode de nettoyage | À éviter |
@@ -53,6 +55,8 @@ Les étapes du **nettoyage** de base, valables pour la plupart des jouets :
 Ce **rythme après chaque** rapport peut sembler **important** à tenir, mais il devient vite un réflexe. Et franchement, deux minutes suffisent. Si tu veux comprendre quand intervient ce geste dans la séquence complète, va voir [comment utiliser un sextoy](/blog/utiliser-sextoy/).
 
 ## Nettoyant intime spécifique ou savon doux ?
+
+![Spray nettoyant pour sextoy](/images/content/nettoyant-sextoy.jpg "Nettoyant spécifique ou savon doux, les deux fonctionnent")
 
 La question revient souvent. Faut-il un nettoyant dédié, vendu à prix fort, ou un simple **savon doux** suffit-il ?
 
@@ -116,7 +120,3 @@ En partie seulement. Les **matériaux poreux** retiennent des bactéries impossi
 ### Comment savoir si mon vibromasseur est étanche ?
 
 Cherche l'indice IPX sur la boîte ou la notice. Pas d'indice mentionné ? Considère-le comme non étanche et nettoie-le seulement en **surface**, avec un linge **humide** et un peu de **savon doux**, sans jamais l'immerger.
-
-## Deux minutes, pas plus
-
-Nettoyer un sextoy n'a rien de sorcier. **Eau tiède**, **savon doux**, **séchage** complet, **rangement** au sec : ce quatuor couvre 90 % des situations. Le reste, c'est juste connaître son **matériau** et respecter l'étanchéité des modèles motorisés. Skippe ces gestes et tu paies en irritations ou en jouet foutu. Tiens-les et ton **jouet** reste **irréprochable**, séance après séance. C'est aussi simple, et aussi **important**, que ça.

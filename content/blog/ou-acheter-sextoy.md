@@ -34,6 +34,8 @@ Côté confiance, les enseignes sérieuses indiquent clairement leurs conditions
 
 ## Pharmacies et grandes surfaces : un dépannage limité
 
+![Pharmacie moderne](/images/content/pharmacie.jpg "La pharmacie dépanne mais le choix reste limité")
+
 Oui, on peut acheter certains accessoires en pharmacie. Les parapharmacies proposent souvent des **oeufs** vibrants, des lubrifiants et quelques **stimulateurs** d'entrée de gamme, présentés comme des produits de **bien-être** **intime**. Pratique pour un achat de dernière minute, surtout si tu préfères un contact humain et un conseil rapide.
 
 Les grandes surfaces s'y mettent aussi, avec un petit rayon dédié au coin **sexy** ou **coquin**, parfois près de la **lingerie**. Tu y croises des modèles simples : un mini **vibromasseur**, des **boules** basiques, un **plug** souple en **silicone**. Pratique pour un cadeau de dernière minute ou une première expérience sans engagement.
@@ -77,6 +79,8 @@ Une boutique qui coche ces cases protège ton achat. C'est souvent ce qui sépar
 Un dernier critère pèse lourd : la qualité de l'emballage et de la livraison. Une enseigne qui soigne le colis neutre, propose le paiement sécurisé et expédie vite inspire confiance bien au-delà du **produit** lui-même. À l'inverse, un site qui reste flou sur ses délais ou qui n'affiche aucun moyen de contact mérite la prudence, surtout pour un **jouet** que tu vas mettre en contact avec ton corps.
 
 ## Discrétion : livraison et facturation
+
+![Colis discret sans marquage](/images/content/colis-discret.jpg "Un colis neutre, sans aucun marquage sur le contenu")
 
 C'est le point qui freine le plus, et pourtant il est largement réglé aujourd'hui. Les boutiques spécialisées expédient en colis neutre : aucun logo, aucune mention du contenu, juste un emballage anodin. Le voisin ou le facteur n'y verra rien.
 
@@ -143,7 +147,3 @@ Les boutiques en ligne spécialisées proposent une section dédiée à l'**homm
 ### Vaut-il mieux acheter en boutique ou en ligne ?
 
 Tout dépend de ta priorité. En boutique physique, tu vois et tu touches le **produit**, tu poses tes questions de vive voix, ce qui rassure pour un premier **gode** ou un **plug**. L'achat en **ligne** gagne sur le choix, le prix et la discrétion, avec un catalogue bien plus large et un colis neutre. Pour la majorité des acheteurs réguliers, le canal en ligne l'emporte.
-
-## Alors, on achète où ?
-
-Pour acheter un sextoy sans mauvaise surprise, la boutique en ligne spécialisée gagne haut la main : choix, prix, marques officielles, livraison discrète. La pharmacie et la grande surface dépannent, le sex-shop rassure ceux qui veulent toucher avant d'acheter, mais les marketplaces généralistes restent le terrain miné des contrefaçons. Mon conseil : un revendeur officiel, une garantie claire, un colis neutre, et tu achètes l'esprit tranquille.

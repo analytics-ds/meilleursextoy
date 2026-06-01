@@ -20,6 +20,8 @@ Tu viens de recevoir ton premier accessoire et tu te demandes par où commencer 
 
 ## Préparation et lubrifiant : la base avant de commencer
 
+![Flacon de lubrifiant à base d'eau](/images/content/lubrifiant.jpg "Le lubrifiant, indispensable avant d'utiliser un sextoy")
+
 Un bon **moment** se prépare. Avant même de toucher le **jouet**, vérifie qu'il est chargé ou que les piles fonctionnent. Rien de plus frustrant qu'un **vibromasseur** qui s'éteint au mauvais instant.
 
 Nettoie l'accessoire, même neuf. Les **produits** sortent d'usine et d'emballage, un passage à l'eau tiède savonneuse s'impose. Ensuite, installe-toi dans un endroit où tu te sens bien, sans risque d'être dérangé.
@@ -83,6 +85,8 @@ Le **point G** se situe sur la paroi antérieure du vagin. Un jouet recourbé, o
 
 ## Entretien après usage : le réflexe qui prolonge tout
 
+![Nettoyage d'un sextoy au savon doux](/images/content/savon-doux.jpg "Un nettoyage simple après chaque usage")
+
 L'**usage** ne s'arrête pas à l'orgasme. Un jouet mal entretenu devient un nid à bactéries, et c'est valable pour **toute** la collection. Le geste **parfait** après chaque séance :
 
 1. Rince le jouet à l'eau tiède.
@@ -124,7 +128,3 @@ Souvent une question de **moment**, d'angle ou d'intensité. Le corps a besoin d
 ### Un sextoy peut-il remplacer un partenaire ?
 
 Non. Un **jouet** ajoute des **sensations** et de l'autonomie, mais l'intimité, la complicité et le contact d'un **partenaire** restent autre chose. Les deux coexistent très bien.
-
-## Ce qu'il faut retenir
-
-**Utiliser un sextoy** n'a rien de compliqué. Prépare ton matériel, garde du **lubrifiant** sous la main, vas-y progressivement et nettoie après chaque **usage**. Le reste, c'est de la curiosité. **Solo** ou **en couple**, le bon **jouet** bien utilisé ouvre la porte à un **plaisir** que beaucoup sous-estiment. Lance-toi, ajuste, recommence : c'est comme ça qu'on apprend ce qui marche pour soi.

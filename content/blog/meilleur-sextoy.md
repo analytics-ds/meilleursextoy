@@ -152,7 +152,3 @@ Eau tiède et savon doux après chaque usage, surtout si ton modèle est **étan
 ### La livraison est-elle vraiment discrète ?
 
 Oui. Toutes les **marques** sérieuses expédient en colis neutre, sans logo ni mention du contenu. La **livraison discrète** fait partie du standard du secteur. Personne ne saura ce qu'il y a dans le carton.
-
-## Alors, lequel pour toi ?
-
-Si je devais n'en garder qu'un, ce serait le Womanizer Premium 2 : l'**air pulsé** le plus abouti, point. Petit budget ? Le Satisfyer Penguin sans hésiter. En couple ? Le We-Vibe Chorus, les yeux fermés. Le meilleur **sextoy**, au fond, c'est celui que tu utilises vraiment, celui qui correspond à ton corps et à tes envies du moment. Et toi, tu cherches l'**orgasme** express en solo ou le jeu partagé à deux ?

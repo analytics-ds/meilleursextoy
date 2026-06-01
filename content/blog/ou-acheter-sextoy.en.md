@@ -34,6 +34,8 @@ On the trust side, serious retailers clearly state their **warranty** terms and 
 
 ## Pharmacies and supermarkets: a limited backup
 
+![Modern pharmacy](/images/content/pharmacie.jpg "Pharmacies can help in a pinch but the choice is limited")
+
 Yes, you can buy certain accessories at the **pharmacy**. Drugstores often carry vibrating eggs, lubricants and a few entry-level stimulators, presented as intimate well-being products. Handy for a last-minute purchase, especially if you prefer human contact and quick advice.
 
 Supermarkets are joining in too, with a small section dedicated to the naughty corner, sometimes near the lingerie. You will spot simple models there: a mini vibrator, basic balls, a soft silicone plug. Convenient for a last-minute gift or a first experience with no commitment.
@@ -77,6 +79,8 @@ A shop that ticks these boxes protects your purchase. That is often what separat
 One last criterion carries real weight: the quality of the packaging and the **delivery**. A retailer that cares about the plain package, offers secure payment and ships fast inspires confidence well beyond the product itself. Conversely, a site that stays vague about its delays or shows no contact details deserves caution, especially for a toy you will put in contact with your body.
 
 ## Discretion: delivery and billing
+
+![Discreet unmarked parcel](/images/content/colis-discret.jpg "A plain parcel, with no hint of the contents")
 
 This is the point that holds people back the most, and yet it is largely solved today. Specialized shops ship in a plain package: no logo, no mention of the contents, just an unremarkable wrapping. The neighbor or the mail carrier will see nothing.
 
@@ -143,7 +147,3 @@ Specialized online stores have a section dedicated to men: masturbators, Fleshli
 ### Is it better to buy in a shop or online?
 
 It depends on your priority. The physical shop lets you see and touch the product, and ask questions face to face, which reassures for a first dildo or plug. Buying online wins on choice, price and discretion, with a much wider catalog and a plain package. For most regular buyers, the online channel comes out ahead.
-
-## So, where should you buy?
-
-To buy a sex toy without nasty surprises, the specialized **online store** wins hands down: choice, prices, official brands, discreet delivery. The pharmacy and the supermarket help in a pinch, the sex shop reassures those who want to touch before buying, but generalist marketplaces remain the minefield of counterfeits. My advice: an official reseller, a clear warranty, a plain package, and you buy with a clear mind.
