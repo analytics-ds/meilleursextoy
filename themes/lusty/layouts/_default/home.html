@@ -49,7 +49,7 @@
             {{ range $products }}
             <a href="{{ printf "produits/%s/" .slug | relLangURL }}" class="product-card">
                 <div class="product-card-image">
-                    <img src="{{ "images/products/" | relLangURL }}{{ .img }}" alt="{{ .name }}" loading="lazy">
+                    <img src="{{ "images/products/" | relURL }}{{ .img }}" alt="{{ .name }}" loading="lazy">
                     <span class="product-card-badge">Top {{ .note }}</span>
                 </div>
                 <div class="product-card-body">
