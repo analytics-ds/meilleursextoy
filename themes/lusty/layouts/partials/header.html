@@ -1,7 +1,7 @@
 <header class="site-header">
     <div class="header-container">
-        <a href="{{ "/" | relURL }}" class="site-logo" aria-label="Meilleur Sextoy, accueil">
-            <img src="{{ "images/logo/logo-isolated.png" | relLangURL }}" alt="Meilleur Sextoy" class="site-logo-icon" width="72" height="72">
+        <a href="{{ "/" | relURL }}" class="site-logo" aria-label="{{ .Site.Title }}, accueil">
+            <img src="{{ "images/logo/logo-isolated.png" | relURL }}" alt="{{ .Site.Title }}" class="site-logo-icon" width="72" height="72">
         </a>
 
         <button class="menu-toggle" aria-label="Menu" aria-expanded="false">
@@ -14,7 +14,10 @@
                 {{ .Name }}
             </a>
             {{ end }}
-            <a href="{{ "blog/" | relURL }}" class="nav-cta">Voir le top</a>
+            <a href="{{ "blog/" | relLangURL }}" class="nav-cta">{{ i18n "nav_cta" }}</a>
+            <span class="lang-switcher">
+                {{ if .IsTranslated }}{{ range .Translations }}<a href="{{ .RelPermalink }}" class="lang-link">{{ .Language.Lang | upper }}</a>{{ end }}{{ else }}{{ range .Site.Home.AllTranslations }}{{ if ne .Language.Lang $.Language.Lang }}<a href="{{ .RelPermalink }}" class="lang-link">{{ .Language.Lang | upper }}</a>{{ end }}{{ end }}{{ end }}
+            </span>
         </nav>
     </div>
 </header>
