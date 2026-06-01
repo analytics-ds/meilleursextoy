@@ -1,5 +1,5 @@
 ---
-title: "What Is the Best Sex Toy for Women? Tested Top Picks"
+title: "What Is the Best Sex Toy for Women?"
 description: "What is the best sex toy for women? Our tested top picks: clitoral stimulators, G-spot toys, rabbits and powerful wands compared, with reviews and prices."
 date: 2026-05-30
 lastmod: 2026-05-30

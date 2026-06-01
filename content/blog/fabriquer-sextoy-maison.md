@@ -74,7 +74,7 @@ Aucune n'est totalement **sûre**, mais chacune reste bien moins risquée qu'un 
 
 Voilà le coeur du sujet. Beaucoup veulent fabriquer sextoy sur sextoy **maison** pour des raisons d'argent ou de discrétion. C'est compréhensible. On veut du **plaisir** **maison** tout de suite, sans passer commande. Sauf qu'une infection, une visite aux urgences ou un perturbateur endocrinien coûtent infiniment plus cher qu'un **jouet** d'entrée de gamme.
 
-Le marché a énormément changé. Un petit **vibromasseur** en **silicone** médical, étanche et rechargeable, se trouve parfois sous les 20 euros. Pour ce prix, tu obtiens un **matériau** **non poreux**, des **étapes** de **fabrication** contrôlées et un **mode** d'emploi clair. Aucune **astuce** de **bricolage** ne t'offre ça.
+Le marché a énormément changé. Un petit **vibromasseur** en **silicone** médical (étanche, et rechargeable en USB) se trouve parfois sous les 20 euros. Pour ce prix, tu obtiens un **matériau** **non poreux**, des **étapes** de **fabrication** contrôlées et un **mode** d'emploi clair. Aucune **astuce** de **bricolage** ne t'offre ça.
 
 Et côté **expérience**, il n'y a pas photo. Un **jouet** **vibrant** conçu pour le corps cible mieux les zones de **stimulation**, propose plusieurs intensités et tient dans le temps. Le **plaisir** est plus fiable, et la **sécurité** vient avec. Si tu hésites sur le type d'**objet**, notre comparatif pour savoir [quel sextoy choisir](/blog/choisir-sextoy/) selon ton usage t'aidera à viser juste. Et pour les valeurs **sûres** déjà **testées**, va voir notre sélection du [le meilleur sextoy](/blog/meilleur-sextoy/) du moment.
 

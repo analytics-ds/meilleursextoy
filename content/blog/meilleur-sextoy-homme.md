@@ -1,5 +1,5 @@
 ---
-title: "Quel est le meilleur sextoy pour homme ? Top testé"
+title: "Quel est le meilleur sextoy pour homme ?"
 description: "Quel est le meilleur sextoy pour homme ? Comparatif testé : masturbateurs, plug prostate, anneau pénien. Avis, prix et conseils pour bien choisir."
 date: 2026-05-30
 lastmod: 2026-05-30

@@ -1,5 +1,5 @@
 ---
-title: "Comment nettoyer un sextoy ? La méthode sûre"
+title: "Comment nettoyer un sextoy ?"
 description: "Comment nettoyer un sextoy sans l'abîmer ? Méthode par matériau, savon doux, séchage, rangement et désinfection en profondeur, expliqués simplement."
 date: 2026-05-30
 lastmod: 2026-05-30
@@ -117,6 +117,6 @@ En partie seulement. Les **matériaux poreux** retiennent des bactéries impossi
 
 Cherche l'indice IPX sur la boîte ou la notice. Pas d'indice mentionné ? Considère-le comme non étanche et nettoie-le seulement en **surface**, avec un linge **humide** et un peu de **savon doux**, sans jamais l'immerger.
 
-## Le mot de la fin
+## Deux minutes, pas plus
 
 Nettoyer un sextoy n'a rien de sorcier. **Eau tiède**, **savon doux**, **séchage** complet, **rangement** au sec : ce quatuor couvre 90 % des situations. Le reste, c'est juste connaître son **matériau** et respecter l'étanchéité des modèles motorisés. Skippe ces gestes et tu paies en irritations ou en jouet foutu. Tiens-les et ton **jouet** reste **irréprochable**, séance après séance. C'est aussi simple, et aussi **important**, que ça.
