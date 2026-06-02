@@ -1802,4 +1802,7 @@ body.no-hero .lang-link:hover { color: var(--white); }
     border-radius: 12px;
     margin: 1.5rem auto;
     box-shadow: 0 12px 30px -16px rgba(51, 41, 37, 0.3);
+    max-height: 400px;
+    width: auto;
+    max-width: 100%;
 }
