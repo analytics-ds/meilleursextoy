@@ -1,12 +1,24 @@
 ---
-title: "Comment nettoyer un sextoy ?"
+title: "Comment nettoyer un sextoy sans l'abîmer ?"
 description: "Comment nettoyer un sextoy sans l'abîmer ? Méthode par matériau, savon doux, séchage, rangement et désinfection en profondeur, expliqués simplement."
 date: 2026-05-30
-lastmod: 2026-06-02
+lastmod: 2026-06-03
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false
 image: "/images/blog/nettoyer-sextoy.jpg"
+faq:
+  - q: "Faut-il nettoyer un sextoy neuf avant la première utilisation ?"
+    a: "Oui. Même neuf, un jouet a traîné en usine, en stock et dans son emballage. Un passage à l'eau tiède et au savon doux avant le premier usage retire la poussière et les éventuels résidus de fabrication."
+  - q: "Peut-on utiliser du gel hydroalcoolique sur un sextoy ?"
+    a: "Non, c'est une mauvaise idée. L'alcool dessèche et fissure certains matériaux, surtout le silicone et le TPE. Il laisse aussi des traces irritantes pour la muqueuse. Préfère toujours un savon doux ou un nettoyant antibactérien conçu pour les jouets."
+  - q: "À quelle fréquence faut-il laver un sextoy ?"
+    a: "À chaque usage, sans exception. On lave avant et après, toute utilisation comprise. La désinfection en profondeur, elle, se fait plus rarement, ou systématiquement quand le jouet passe d'une personne à une autre dans un couple."
+  - q: "Un sextoy poreux peut-il vraiment être propre ?"
+    a: "En partie seulement. Les matériaux poreux retiennent des bactéries impossibles à déloger totalement. Le nettoyage au savon limite les risques, et l'usage d'un préservatif les réduit encore. Pour un résultat irréprochable, mieux vaut investir dans un jouet non poreux."
+  - q: "Comment savoir si mon vibromasseur est étanche ?"
+    a: "Cherche l'indice IPX sur la boîte ou la notice. Pas d'indice mentionné ? Considère-le comme non étanche et nettoie-le seulement en surface, avec un linge humide et un peu de savon doux, sans jamais l'immerger."
+
 ---
 
 Comment nettoyer un sextoy correctement, sans rituel compliqué ni produit hasardeux ? La réponse tient en peu de gestes, mais ces gestes comptent vraiment. Un **jouet** rincé à la va-vite garde des résidus, et un **jouet** mal séché finit par sentir le placard humide. L'enjeu n'est pas cosmétique. C'est une question d'**hygiène** et de **santé** intime, parce que la muqueuse pardonne mal les bactéries qui s'installent sur une **surface** négligée.

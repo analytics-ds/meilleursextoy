@@ -3,6 +3,15 @@
 
 <link rel="canonical" href="{{ .Permalink }}">
 
+{{/* hreflang : versions linguistiques alternatives */}}
+{{ if .IsTranslated }}
+<link rel="alternate" hreflang="{{ .Language.LanguageCode | default .Language.Lang }}" href="{{ .Permalink }}">
+{{ range .Translations }}
+<link rel="alternate" hreflang="{{ .Language.LanguageCode | default .Language.Lang }}" href="{{ .Permalink }}">
+{{ end }}
+<link rel="alternate" hreflang="x-default" href="{{ if eq .Language.Lang "fr" }}{{ .Permalink }}{{ else }}{{ range .Translations }}{{ if eq .Language.Lang "fr" }}{{ .Permalink }}{{ end }}{{ end }}{{ end }}">
+{{ end }}
+
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
@@ -87,6 +96,26 @@
 }
 </script>
 {{ end }}
+{{ end }}
+
+{{/* JSON-LD : FAQPage sur les pages avec FAQ dans le frontmatter */}}
+{{ with .Params.faq }}
+<script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {{ range $i, $item := . }}{{ if $i }},{{ end }}{
+            "@type": "Question",
+            "name": {{ $item.q | jsonify }},
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": {{ $item.a | jsonify }}
+            }
+        }{{ end }}
+    ]
+}
+</script>
 {{ end }}
 
 {{/* JSON-LD : BlogPosting + Breadcrumb sur les articles de blog */}}

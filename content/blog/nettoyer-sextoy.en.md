@@ -1,12 +1,24 @@
 ---
-title: "How to Clean a Sex Toy?"
+title: "How to Clean a Sex Toy Without Damaging It?"
 description: "How to clean a sex toy without damaging it? Method by material, mild soap, drying, storage and deep disinfection, explained simply."
 date: 2026-05-30
-lastmod: 2026-06-02
+lastmod: 2026-06-03
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false
 image: "/images/blog/nettoyer-sextoy.jpg"
+faq:
+  - q: "Should you clean a new sex toy before the first use?"
+    a: "Yes. Even brand new, a toy has passed through the factory, storage and its packaging. A pass under lukewarm water with mild soap before the first use removes dust and any manufacturing residue."
+  - q: "Can you use hand sanitizer on a sex toy?"
+    a: "No, it is a bad idea. Alcohol dries out and cracks certain materials, especially silicone and TPE. It also leaves traces that irritate the mucous membranes. Always prefer mild soap or an antibacterial cleanser designed for toys."
+  - q: "How often should you wash a sex toy?"
+    a: "At every use, no exception. You wash before and after, every use included. Deep disinfection, on the other hand, happens more rarely, or systematically when the toy passes from one person to another in a couple."
+  - q: "Can a porous sex toy really be clean?"
+    a: "Only partly. Porous materials retain bacteria that are impossible to fully remove. Cleaning with soap limits the risks, and using a condom reduces them further. For an impeccable result, it is better to invest in a non-porous toy."
+  - q: "How do you know if your vibrator is waterproof?"
+    a: "Look for the IPX rating on the box or instructions. No rating mentioned? Treat it as non-waterproof and clean it on the surface only, with a damp cloth and a bit of mild soap, without ever immersing it."
+
 ---
 
 How do you clean a sex toy properly, without a complicated ritual or a sketchy product? The answer comes down to a few gestures, but those gestures really matter. A **toy** rinsed in a hurry keeps residue, and a **toy** that is poorly dried ends up smelling like a damp cupboard. The stakes are not cosmetic. This is a question of **hygiene** and intimate **health**, because mucous membranes rarely forgive the bacteria that settle on a neglected **surface**.

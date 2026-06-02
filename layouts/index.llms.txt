@@ -1,0 +1,17 @@
+# {{ .Site.Title }}
+
+> {{ .Site.Params.description }}
+
+Site d'avis, comparatifs et guides sur les sextoys, rédigé en français par {{ .Site.Params.author_name }} ({{ .Site.Params.author_role }}). Version anglaise disponible sous /en/.
+
+## Comparatifs et guides
+{{ range (where .Site.RegularPages "Section" "blog").ByDate.Reverse }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}{{ end }}
+
+## Fiches produits
+{{ range (where .Site.RegularPages "Section" "produits").ByDate.Reverse }}
+- [{{ .Title }}]({{ .Permalink }}): {{ .Description }}{{ end }}
+
+## Pages
+{{ range .Site.RegularPages }}{{ if and (ne .Section "blog") (ne .Section "produits") }}
+- [{{ .Title }}]({{ .Permalink }}){{ end }}{{ end }}

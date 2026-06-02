@@ -2,11 +2,23 @@
 title: "Comment faire un sextoy maison sans danger ?"
 description: "Comment faire un sextoy maison sans risque ? Les objets à bannir, les règles d'hygiène et les alternatives sûres et peu chères, expliquées simplement."
 date: 2026-05-30
-lastmod: 2026-06-02
+lastmod: 2026-06-03
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false
 image: "/images/blog/fabriquer-sextoy-maison.jpg"
+faq:
+  - q: "Peut-on vraiment fabriquer un sextoy maison sans danger ?"
+    a: "Pas totalement. On peut réduire le risque avec un préservatif neuf, un lubrifiant à base d'eau et une stimulation plutôt externe. Mais le risque zéro n'existe pas avec des matériaux non prévus pour le corps. Un vrai jouet reste la seule vraie solution sûre."
+  - q: "Le silicone alimentaire convient-il pour un sextoy DIY ?"
+    a: "Mal. Le silicone alimentaire n'a pas la même finition que le silicone médical, et un moulage maison laisse des bords poreux. Tu te retrouves avec une surface qui retient les bactéries. Mieux vaut un vibromasseur silicone déjà fini."
+  - q: "Quels objets du quotidien sont les plus dangereux ?"
+    a: "Tout ce qui peut casser (verre, ampoule), tout ce qui est électrique (brosse électrique, moteur vibrant improvisé) et tout ce qui n'a pas de base évasée pour un usage anal. Ces trois cas mènent souvent aux urgences."
+  - q: "Combien coûte un vrai sextoy d'entrée de gamme ?"
+    a: "Souvent moins de 20 euros pour un vibromasseur en silicone étanche et rechargeable. C'est l'un des meilleurs rapports sécurité sur prix qui soit, et c'est bien plus simple que n'importe quel bricolage."
+  - q: "Faut-il toujours un préservatif sur un objet improvisé ?"
+    a: "Oui, sans exception. Le préservatif isole la muqueuse d'une surface douteuse et limite le passage des matériaux. Avec un lubrifiant à base d'eau, c'est le minimum vital si tu improvises."
+
 ---
 
 La question revient souvent dans les recherches : **comment faire un sextoy** soi-même, avec ce qu'on a sous la main ? Avant de te lancer dans le moindre **bricolage**, il faut poser une chose claire. La plupart des objets du **quotidien** détournés en **jouet** sexuel posent un vrai problème de **sécurité**. Pas une mise en garde de principe, un risque concret : infections, micro-coupures, matériaux toxiques. Ce **guide** part donc de la **sécurité** d'abord, et te montre ensuite des pistes réellement plus saines.

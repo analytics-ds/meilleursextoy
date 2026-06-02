@@ -86,3 +86,13 @@ buildFuture = false
     name = 'Blog'
     pageRef = '/blog/'
     weight = 5
+
+# llms.txt : fichier pour les moteurs IA (GEO), genere automatiquement
+[outputFormats.LLMS]
+  mediaType = 'text/plain'
+  baseName = 'llms'
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ['HTML', 'RSS', 'LLMS']

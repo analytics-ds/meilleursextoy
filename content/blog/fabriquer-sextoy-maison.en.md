@@ -2,11 +2,23 @@
 title: "How to Make a Homemade Sex Toy Safely?"
 description: "How to make a homemade sex toy without risk? The objects to avoid, the hygiene rules and the safe, cheap alternatives, explained simply."
 date: 2026-05-30
-lastmod: 2026-06-02
+lastmod: 2026-06-03
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false
 image: "/images/blog/fabriquer-sextoy-maison.jpg"
+faq:
+  - q: "Can you really make a homemade sex toy without danger?"
+    a: "Not entirely. You can lower the risk with a fresh condom, a water-based lubricant and mostly external stimulation. But zero risk does not exist with materials not meant for the body. A real toy stays the only truly safe solution."
+  - q: "Is food-grade silicone fine for a DIY sex toy?"
+    a: "Not really. Food-grade silicone does not have the same finish as medical silicone, and a homemade mould leaves porous edges. You end up with a surface that traps bacteria. A finished silicone vibrator is far better."
+  - q: "Which everyday objects are the most dangerous?"
+    a: "Anything that can shatter (glass, bulb), anything electric (electric brush, improvised vibrating motor) and anything without a flared base for anal use. These three cases often lead to the ER."
+  - q: "How much does an entry-level real sex toy cost?"
+    a: "Often under 20 euros for a waterproof, rechargeable silicone vibrator. It is one of the best safety-to-price ratios around, and far simpler than any DIY."
+  - q: "Do you always need a condom on an improvised object?"
+    a: "Yes, no exceptions. The condom isolates the mucous membrane from a questionable surface and limits material transfer. With a water-based lubricant, it is the bare minimum if you improvise."
+
 ---
 
 The question shows up in searches all the time: how to make a sex toy yourself, with whatever you have lying around? Before you start any kind of DIY, one thing has to be clear. Most everyday objects turned into a sexual toy raise a real **safety** problem. Not a vague warning, a concrete risk: infections, micro-cuts, toxic materials. So this guide starts with safety first, then shows you genuinely healthier options.
