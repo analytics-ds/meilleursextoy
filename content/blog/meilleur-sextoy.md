@@ -2,7 +2,7 @@
 title: "Quel est le meilleur sextoy ?"
 description: "Quel est le meilleur sextoy en 2026 ? On a testé 8 modèles (air pulsé, rabbit, wand, connecté) pour t'aider à trancher selon ton budget et ton plaisir."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Comparatifs"]
 draft: false

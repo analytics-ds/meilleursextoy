@@ -2,7 +2,7 @@
 title: "What's the Best Sex Toy?"
 description: "What's the best sex toy in 2026? We tested 8 models (air pulse, rabbit, wand, app-controlled) to help you pick based on your budget and pleasure."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Comparatifs"]
 draft: false

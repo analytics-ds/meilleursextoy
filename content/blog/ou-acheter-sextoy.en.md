@@ -2,7 +2,7 @@
 title: "Where to Buy a Sex Toy?"
 description: "Where to buy a sex toy you can trust? Online stores, pharmacies, sex shops: our advice to find reliable and discreet sex toys."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false

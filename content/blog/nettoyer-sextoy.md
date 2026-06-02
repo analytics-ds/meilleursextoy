@@ -2,7 +2,7 @@
 title: "Comment nettoyer un sextoy ?"
 description: "Comment nettoyer un sextoy sans l'abîmer ? Méthode par matériau, savon doux, séchage, rangement et désinfection en profondeur, expliqués simplement."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Entretien"]
 draft: false

@@ -2,7 +2,7 @@
 title: "How to Use a Sex Toy?"
 description: "How to use a sex toy solo or with a partner: prep, lubricant, tips by toy type and cleaning. The practical guide to get started with confidence."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false

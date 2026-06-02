@@ -2,7 +2,7 @@
 title: "Quel est le meilleur sextoy pour femme ?"
 description: "Quel est le meilleur sextoy pour femme ? Notre top testé : stimulateurs clitoridiens, point G, rabbit et wand puissants comparés, avec avis et prix."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Comparatifs"]
 draft: false

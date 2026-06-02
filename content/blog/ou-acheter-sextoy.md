@@ -2,7 +2,7 @@
 title: "Où acheter un sextoy ?"
 description: "Où acheter un sextoy en toute confiance ? Boutiques en ligne, pharmacies, sex-shops : nos conseils pour trouver des sextoys fiables et discrets."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false

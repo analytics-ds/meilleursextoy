@@ -2,7 +2,7 @@
 title: "Comment faire un sextoy maison sans danger ?"
 description: "Comment faire un sextoy maison sans risque ? Les objets à bannir, les règles d'hygiène et les alternatives sûres et peu chères, expliquées simplement."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false

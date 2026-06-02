@@ -2,7 +2,7 @@
 title: "What Is the Best Sex Toy for Men?"
 description: "What is the best sex toy for men? Tested comparison: masturbators, prostate plugs, cock rings. Reviews, prices and advice to choose well."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Comparatifs"]
 draft: false

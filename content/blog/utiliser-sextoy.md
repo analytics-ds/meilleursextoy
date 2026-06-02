@@ -2,7 +2,7 @@
 title: "Comment utiliser un sextoy ?"
 description: "Comment utiliser un sextoy en solo ou à deux : préparation, lubrifiant, conseils par type de jouet et entretien. Le guide pratique pour débuter sereinement."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false

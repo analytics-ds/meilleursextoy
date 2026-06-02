@@ -2,7 +2,7 @@
 title: "Quel sextoy choisir ?"
 description: "Quel sextoy choisir selon ton corps, ton budget et ton usage ? Guide d'achat clair pour trouver le jouet idéal, en solo ou en couple, débutant ou confirmé."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false

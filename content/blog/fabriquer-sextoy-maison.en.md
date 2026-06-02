@@ -2,7 +2,7 @@
 title: "How to Make a Homemade Sex Toy Safely?"
 description: "How to make a homemade sex toy without risk? The objects to avoid, the hygiene rules and the safe, cheap alternatives, explained simply."
 date: 2026-05-30
-lastmod: 2026-05-30
+lastmod: 2026-06-02
 author: "Camille Reverdy"
 categories: ["Guides"]
 draft: false
