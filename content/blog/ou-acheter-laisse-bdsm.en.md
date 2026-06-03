@@ -39,7 +39,7 @@ Want a leash that actually holds, not a gadget that frays on the third use? Good
 
 ## 1. 1969: the shop everyone agrees on
 
-![Black leather BDSM collar with rose gold chain leash, sold by 1969](/images/ou-acheter-laisse-bdsm/laisse-1969.jpg "1969 BDSM leash and collar")
+![Black leather BDSM collar with metal O-ring and leash, 1969 selection](/images/ou-acheter-laisse-bdsm/laisse-1969.jpg "1969 BDSM leash and collar")
 
 **Rating: 4.8/5**
 
@@ -61,7 +61,7 @@ New to accessories? Have a look at our guide on [how to choose a sex toy](/en/bl
 
 ## 2. Dorcel Store: the reassuring choice to start
 
-![Black leather BDSM leash with red stitching, collar and chain, Dorcel style](/images/ou-acheter-laisse-bdsm/laisse-dorcel.jpg "Dorcel BDSM leash and collar")
+![Black BDSM collar and leash with O-ring and rose gold chain, Dorcel style](/images/ou-acheter-laisse-bdsm/laisse-dorcel.jpg "Dorcel BDSM leash and collar")
 
 **Rating: 4.2/5**
 
@@ -80,7 +80,7 @@ Dorcel, you know the name. And that is exactly why many start here. The leashes 
 
 ## 3. Caresse de Cuir: the bespoke craftsman
 
-![Brown buffalo leather BDSM collar and leash, handmade by Caresse de Cuir](/images/ou-acheter-laisse-bdsm/laisse-caresse-de-cuir.jpg "Caresse de Cuir BDSM leash and collar")
+![Brown leather BDSM collar and leash, handmade by Caresse de Cuir](/images/ou-acheter-laisse-bdsm/laisse-caresse-de-cuir.jpg "Caresse de Cuir BDSM leash and collar")
 
 **Rating: 4.6/5**
 
@@ -99,7 +99,7 @@ This is another league. Caresse de Cuir works full-grain leather like a leatherw
 
 ## 4. Lovehoney: the wide budget choice
 
-![Red BDSM leash with leather collar and chain, accessible Lovehoney-style range](/images/ou-acheter-laisse-bdsm/laisse-lovehoney.jpg "Lovehoney BDSM leash and collar")
+![Purple leather BDSM collar and leash with heart pendant, accessible Lovehoney range](/images/ou-acheter-laisse-bdsm/laisse-lovehoney.jpg "Lovehoney BDSM leash and collar")
 
 **Rating: 4.0/5**
 
@@ -118,7 +118,7 @@ Lovehoney is the supermarket of entry-level bondage. The catalog is huge, leashe
 
 ## 5. Pulsion-SM: the fetish specialist
 
-![Black BDSM collar with chain leash, fetish model in the Pulsion-SM style](/images/ou-acheter-laisse-bdsm/laisse-pulsion-sm.jpg "Pulsion-SM BDSM leash and collar")
+![Black and red BDSM collar worn, fetish style like Pulsion-SM](/images/ou-acheter-laisse-bdsm/laisse-pulsion-sm.jpg "Pulsion-SM BDSM leash and collar")
 
 **Rating: 4.1/5**
 

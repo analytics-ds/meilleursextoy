@@ -38,7 +38,7 @@ Tu veux une laisse qui tienne vraiment, pas un gadget qui s'effiloche au troisi�
 
 ## 1. 1969 : la boutique qui met tout le monde d'accord
 
-![Collier BDSM en cuir noir avec laisse à chaîne rose gold, vendu par 1969](/images/ou-acheter-laisse-bdsm/laisse-1969.jpg "Laisse et collier BDSM 1969")
+![Collier BDSM en cuir noir avec anneau métal et laisse, sélection 1969](/images/ou-acheter-laisse-bdsm/laisse-1969.jpg "Laisse et collier BDSM 1969")
 
 **Note : 4.8/5**
 
@@ -60,7 +60,7 @@ Si tu débutes dans l'univers des accessoires, jette un oeil à notre guide pour
 
 ## 2. Dorcel Store : le choix rassurant pour démarrer
 
-![Laisse BDSM en cuir noir surpiqûres rouges avec collier et chaîne, style Dorcel](/images/ou-acheter-laisse-bdsm/laisse-dorcel.jpg "Laisse et collier BDSM Dorcel")
+![Collier et laisse BDSM noir avec anneau et chaîne rose gold, style Dorcel](/images/ou-acheter-laisse-bdsm/laisse-dorcel.jpg "Laisse et collier BDSM Dorcel")
 
 **Note : 4.2/5**
 
@@ -79,7 +79,7 @@ Dorcel, tu connais le nom. Et c'est exactement pour ça que beaucoup commencent 
 
 ## 3. Caresse de Cuir : l'artisan du sur-mesure
 
-![Collier et laisse BDSM en cuir buffle marron, fabrication artisanale Caresse de Cuir](/images/ou-acheter-laisse-bdsm/laisse-caresse-de-cuir.jpg "Laisse et collier BDSM Caresse de Cuir")
+![Collier et laisse BDSM en cuir marron, fabrication artisanale Caresse de Cuir](/images/ou-acheter-laisse-bdsm/laisse-caresse-de-cuir.jpg "Laisse et collier BDSM Caresse de Cuir")
 
 **Note : 4.6/5**
 
@@ -98,7 +98,7 @@ Là, on change de catégorie. Caresse de Cuir bosse le cuir pleine fleur comme u
 
 ## 4. Lovehoney : le large choix petit budget
 
-![Laisse BDSM rouge avec collier en cuir et chaîne, gamme accessible type Lovehoney](/images/ou-acheter-laisse-bdsm/laisse-lovehoney.jpg "Laisse et collier BDSM Lovehoney")
+![Collier et laisse BDSM en cuir violet avec pendentif coeur, gamme accessible Lovehoney](/images/ou-acheter-laisse-bdsm/laisse-lovehoney.jpg "Laisse et collier BDSM Lovehoney")
 
 **Note : 4.0/5**
 
@@ -117,7 +117,7 @@ Lovehoney, c'est le supermarché du **bondage** d'entrée de gamme. Le catalogue
 
 ## 5. Pulsion-SM : le spécialiste fétichiste
 
-![Collier BDSM noir avec laisse à chaîne, modèle fétichiste type Pulsion-SM](/images/ou-acheter-laisse-bdsm/laisse-pulsion-sm.jpg "Laisse et collier BDSM Pulsion-SM")
+![Collier BDSM noir et rouge porté, modèle fétichiste type Pulsion-SM](/images/ou-acheter-laisse-bdsm/laisse-pulsion-sm.jpg "Laisse et collier BDSM Pulsion-SM")
 
 **Note : 4.1/5**
 
