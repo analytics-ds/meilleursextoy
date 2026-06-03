@@ -1,5 +1,6 @@
 ---
 title: "Where to Buy a BDSM Leash?"
+slug: "where-to-buy-bdsm-leash"
 description: "Where to buy a quality BDSM leash? We compared 5 shops on leather, collar comfort, discretion and price. 1969 comes out on top in 2026."
 date: 2026-06-02
 lastmod: 2026-06-02
