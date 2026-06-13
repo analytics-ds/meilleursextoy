@@ -1,0 +1,215 @@
+{{- $key := .Get 0 -}}
+{{- $d := index .Site.Data.comparatifs $key -}}
+{{- $cta := .Site.Params.cta | default "#FD2879" -}}
+{{- $primary := .Site.Params.primary | default "#332925" -}}
+{{- $en := eq .Page.Language.Lang "en" -}}
+{{- $t := cond $en
+    (dict "maj" "Last updated on" "produit" "Product" "note" "Our rating" "prix" "Price" "offre" "Deal" "btn" "See price" "voir" "See details" "masquer" "Hide details" "avantages" "Pros" "inconvenients" "Cons" "avisTitle" "What our readers say" "n1" "Our #1:")
+    (dict "maj" "Dernière mise à jour le" "produit" "Produit" "note" "Notre note" "prix" "Prix" "offre" "Offre" "btn" "Voir le prix" "voir" "Voir le détail" "masquer" "Masquer le détail" "avantages" "Avantages" "inconvenients" "Inconvénients" "avisTitle" "L'avis de nos lecteurs" "n1" "Notre n°1 :") -}}
+
+<div class="cmp" id="cmp-{{ $key }}" style="--cta:{{ $cta }};--primary:{{ $primary }}">
+
+  {{/* ---- Filtres ---- */}}
+  <div class="cmp-filters" role="tablist" aria-label="Filtrer par type">
+    {{- range $i, $f := $d.filtres -}}
+      <button type="button" class="cmp-filter{{ if eq $f.key "tous" }} is-active{{ end }}" data-filter="{{ $f.key }}">{{ $f.label }}</button>
+    {{- end -}}
+  </div>
+
+  {{/* ---- Tableau comparatif ---- */}}
+  <div class="cmp-tablewrap">
+    <table class="cmp-table">
+      <caption>{{ $t.maj }} {{ dateFormat "02/01/2006" $d.maj }}. {{ $d.methodo }}</caption>
+      <thead>
+        <tr>
+          <th>{{ $t.produit }}</th>
+          {{- range $d.specs_cols }}<th class="cmp-spec-h">{{ . }}</th>{{ end -}}
+          <th>{{ $t.note }}</th>
+          <th>{{ $t.prix }}</th>
+          <th>{{ $t.offre }}</th>
+        </tr>
+      </thead>
+      <tbody>
+      {{- range sort $d.entites "rang" -}}
+        {{- $e := . -}}
+        <tr class="cmp-row" data-cat="{{ .cat }}" id="rang-{{ .rang }}">
+          <td class="cmp-marque">
+            <span class="cmp-rank">{{ .rang }}</span>
+            {{ with .logo }}<img src="{{ . | relURL }}" alt="Logo {{ $e.marque }}" class="cmp-logo" loading="lazy" width="90" height="36">{{ else }}<span class="cmp-badge">{{ $e.marque }}</span>{{ end }}
+            <span class="cmp-nom"><strong>{{ .nom }}</strong><small>{{ .type }}</small></span>
+          </td>
+          {{- range $d.specs_cols -}}
+            {{- $v := index $e.specs . -}}
+            <td class="cmp-spec" data-label="{{ . }}">
+              {{- if eq $v "oui" -}}<span class="flag flag-oui" title="Oui">✓</span>
+              {{- else if eq $v "option" -}}<span class="flag flag-opt">Option</span>
+              {{- else if eq $v "strapless" -}}<span class="flag flag-opt">Strapless</span>
+              {{- else if eq $v "na" -}}<span class="flag flag-na" title="Non applicable">—</span>
+              {{- else -}}<span class="flag flag-non" title="Non">✗</span>{{- end -}}
+            </td>
+          {{- end -}}
+          <td class="cmp-note"><span class="cmp-noteval">{{ .note }}</span><small>/10</small>
+            <span class="cmp-stars" style="--pct:{{ mul (div .note 10.0) 100 }}%"></span>
+          </td>
+          <td class="cmp-prix">{{ .prix }}</td>
+          <td class="cmp-offre"><a class="cmp-btn" href="{{ .url_officielle }}" rel="nofollow sponsored noopener" target="_blank">{{ $t.btn }}</a></td>
+        </tr>
+        <tr class="cmp-detail" data-cat="{{ .cat }}" hidden>
+          <td colspan="{{ add (len $d.specs_cols) 4 }}">
+            <button type="button" class="cmp-voirplus" aria-expanded="false" data-show="{{ $t.voir }}" data-hide="{{ $t.masquer }}">{{ $t.voir }}</button>
+            <div class="cmp-detail-body" hidden>
+              <div class="cmp-pros"><strong>{{ $t.avantages }}</strong><ul>{{ range .avantages }}<li>{{ . }}</li>{{ end }}</ul></div>
+              <div class="cmp-cons"><strong>{{ $t.inconvenients }}</strong><ul>{{ range .inconvenients }}<li>{{ . }}</li>{{ end }}</ul></div>
+            </div>
+          </td>
+        </tr>
+      {{- end -}}
+      </tbody>
+    </table>
+  </div>
+
+  {{/* ---- Avis clients ---- */}}
+  {{- with $d.avis_clients -}}
+  <div class="cmp-avis">
+    <p class="cmp-avis-title">{{ $t.avisTitle }}</p>
+    <div class="cmp-avis-track">
+      {{- range . -}}
+      <figure class="cmp-avis-card">
+        <span class="cmp-stars cmp-stars-sm" style="--pct:{{ mul (div .note 5.0) 100 }}%"></span>
+        <blockquote>{{ .texte }}</blockquote>
+        <figcaption>{{ .auteur }}</figcaption>
+      </figure>
+      {{- end -}}
+    </div>
+  </div>
+  {{- end -}}
+
+  {{/* ---- CTA sticky ---- */}}
+  {{- $top := index (sort $d.entites "rang") 0 -}}
+  <div class="cmp-sticky" hidden>
+    <span>{{ $t.n1 }} <strong>{{ $top.nom }}</strong></span>
+    <a class="cmp-btn" href="{{ $top.url_officielle }}" rel="nofollow sponsored noopener" target="_blank">{{ $t.btn }}</a>
+  </div>
+</div>
+
+{{/* ---- JSON-LD : ItemList + Product/Review par entité ---- */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ cond $en "Best strap-on" "Meilleur gode-ceinture" | jsonify }},
+  "itemListOrder": "https://schema.org/ItemListOrderDescending",
+  "numberOfItems": {{ len $d.entites }},
+  "itemListElement": [
+    {{- range $i, $e := sort $d.entites "rang" }}{{ if $i }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ $e.rang }},
+      "item": {
+        "@type": "Product",
+        "name": {{ $e.nom | jsonify }},
+        "brand": { "@type": "Brand", "name": {{ $e.marque | jsonify }} },
+        "url": {{ $e.url_officielle | jsonify }},
+        {{ with $e.logo }}"image": {{ (printf "%s%s" $.Site.BaseURL (strings.TrimPrefix "/" .)) | jsonify }},{{ end }}
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "{{ $e.note }}", "bestRating": "10", "worstRating": "0", "ratingCount": "1" },
+        "review": {
+          "@type": "Review",
+          "reviewRating": { "@type": "Rating", "ratingValue": "{{ $e.note }}", "bestRating": "10" },
+          "author": { "@type": "Person", "name": {{ $.Site.Params.author_name | default "Camille Reverdy" | jsonify }} },
+          "reviewBody": {{ (printf "%s. %s" $e.positionnement (index $e.avantages 0)) | jsonify }}
+        }
+      }
+    }
+    {{- end }}
+  ]
+}
+</script>
+
+<style>
+.cmp{--ok:#2e9e6b;--muted:#b8ada6;margin:2.2rem 0;font-size:.95rem}
+.cmp-filters{display:flex;flex-wrap:wrap;gap:.5rem;margin-bottom:1rem}
+.cmp-filter{border:1px solid #e7ddd6;background:#fff;color:var(--primary);padding:.45rem .9rem;border-radius:999px;cursor:pointer;font:inherit;transition:.15s}
+.cmp-filter:hover{border-color:var(--cta)}
+.cmp-filter.is-active{background:var(--cta);color:#fff;border-color:var(--cta)}
+.cmp-tablewrap{overflow-x:auto;border:1px solid #efe6df;border-radius:14px}
+.cmp-table{width:100%;border-collapse:collapse;min-width:720px;background:#fff}
+.cmp-table caption{caption-side:bottom;text-align:left;font-size:.72rem;color:var(--muted);padding:.7rem .9rem;line-height:1.4}
+.cmp-table thead th{background:var(--primary);color:#fff;font-weight:600;font-size:.8rem;padding:.7rem .6rem;text-align:center;position:sticky;top:0}
+.cmp-table thead th:first-child{text-align:left}
+.cmp-row>td{border-top:1px solid #f0e8e2;padding:.75rem .6rem;text-align:center;vertical-align:middle}
+.cmp-marque{display:flex;align-items:center;gap:.6rem;text-align:left!important;min-width:230px}
+.cmp-rank{flex:none;width:26px;height:26px;border-radius:50%;background:var(--cta);color:#fff;font-weight:700;display:grid;place-items:center;font-size:.85rem}
+.cmp-logo{object-fit:contain;max-height:36px;width:auto}
+.cmp-badge{font-weight:700;color:var(--primary);background:#f6ece6;padding:.2rem .5rem;border-radius:6px;font-size:.8rem}
+.cmp-nom{display:flex;flex-direction:column;line-height:1.2}
+.cmp-nom small{color:var(--muted);font-size:.74rem;margin-top:.15rem}
+.flag{font-weight:700}
+.flag-oui{color:var(--ok)}
+.flag-non{color:#d8cfc8}
+.flag-opt{font-size:.72rem;background:#fbe9f1;color:var(--cta);padding:.12rem .45rem;border-radius:6px;font-weight:600}
+.flag-na{color:var(--muted)}
+.cmp-noteval{font-size:1.3rem;font-weight:800;color:var(--primary)}
+.cmp-note small{color:var(--muted)}
+.cmp-stars{display:block;margin:.2rem auto 0;width:84px;height:15px;background:linear-gradient(90deg,#f6b100 var(--pct),#e6dcd4 var(--pct));-webkit-mask:repeating-linear-gradient(90deg,#000 0 14px,transparent 14px 16.8px);mask:repeating-linear-gradient(90deg,#000 0 14px,transparent 14px 16.8px)}
+.cmp-stars-sm{width:70px;height:13px;margin:0 0 .4rem}
+.cmp-prix{font-weight:700;color:var(--primary);white-space:nowrap}
+.cmp-btn{display:inline-block;background:var(--cta);color:#fff;text-decoration:none;padding:.5rem .85rem;border-radius:8px;font-weight:600;font-size:.85rem;white-space:nowrap}
+.cmp-btn:hover{filter:brightness(.94)}
+.cmp-detail>td{padding:0 .6rem .4rem;border:0}
+.cmp-voirplus{background:none;border:0;color:var(--cta);font:inherit;font-weight:600;cursor:pointer;padding:.3rem 0}
+.cmp-voirplus::after{content:" ▾"}
+.cmp-voirplus[aria-expanded=true]::after{content:" ▴"}
+.cmp-detail-body{display:grid;grid-template-columns:1fr 1fr;gap:1rem;padding:.4rem 0 1rem}
+.cmp-detail-body ul{margin:.3rem 0 0;padding-left:1.1rem}
+.cmp-detail-body li{margin:.2rem 0}
+.cmp-pros strong{color:var(--ok)}
+.cmp-cons strong{color:#c0563c}
+.cmp-avis{margin:1.6rem 0}
+.cmp-avis-title{font-weight:700;color:var(--primary);margin:0 0 .6rem}
+.cmp-avis-track{display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x mandatory;padding-bottom:.4rem}
+.cmp-avis-card{flex:0 0 78%;max-width:340px;scroll-snap-align:start;background:#fff;border:1px solid #efe6df;border-radius:12px;padding:1rem;margin:0}
+.cmp-avis-card blockquote{margin:.3rem 0;font-style:italic;color:#574b44}
+.cmp-avis-card figcaption{font-size:.8rem;color:var(--muted);font-weight:600}
+.cmp-sticky{position:fixed;left:0;right:0;bottom:0;z-index:50;background:#fff;border-top:1px solid #e7ddd6;box-shadow:0 -6px 20px rgba(0,0,0,.08);display:flex;align-items:center;justify-content:space-between;gap:1rem;padding:.7rem 1rem}
+.cmp-sticky span{font-size:.9rem;color:var(--primary)}
+@media(min-width:760px){.cmp-avis-card{flex-basis:32%}.cmp-sticky{justify-content:center;gap:2rem}}
+</style>
+
+<script>
+(function(){
+  var root=document.getElementById('cmp-{{ $key }}');if(!root)return;
+  // Filtres
+  root.querySelectorAll('.cmp-filter').forEach(function(b){
+    b.addEventListener('click',function(){
+      root.querySelectorAll('.cmp-filter').forEach(function(x){x.classList.remove('is-active')});
+      b.classList.add('is-active');var f=b.dataset.filter;
+      root.querySelectorAll('.cmp-row,.cmp-detail').forEach(function(r){
+        var show=(f==='tous'||r.dataset.cat===f);
+        if(r.classList.contains('cmp-detail')){r.hidden=true;var bd=r.querySelector('.cmp-detail-body');if(bd)bd.hidden=true;var vp=r.querySelector('.cmp-voirplus');if(vp)vp.setAttribute('aria-expanded','false');}
+        else{r.style.display=show?'':'none';}
+      });
+      // garder le bloc détail caché mais filtrable : on l'affiche seulement via Voir le détail
+      root.querySelectorAll('.cmp-row').forEach(function(r){
+        var nx=r.nextElementSibling;if(nx&&nx.classList.contains('cmp-detail')){nx.style.display=r.style.display;}
+      });
+    });
+  });
+  // Voir le détail
+  root.querySelectorAll('.cmp-voirplus').forEach(function(btn){
+    btn.addEventListener('click',function(){
+      var open=btn.getAttribute('aria-expanded')==='true';
+      btn.setAttribute('aria-expanded',String(!open));
+      btn.textContent=open?btn.dataset.show:btn.dataset.hide;
+      btn.parentElement.querySelector('.cmp-detail-body').hidden=open;
+    });
+  });
+  // Afficher les lignes détail (repliées) sous chaque produit
+  root.querySelectorAll('.cmp-detail').forEach(function(r){r.hidden=false;});
+  // CTA sticky
+  var sticky=root.querySelector('.cmp-sticky'),table=root.querySelector('.cmp-tablewrap');
+  if(sticky&&table&&'IntersectionObserver'in window){
+    var io=new IntersectionObserver(function(e){sticky.hidden=e[0].isIntersecting;},{rootMargin:'-120px 0px 0px 0px'});
+    io.observe(table);
+  }
+})();
+</script>

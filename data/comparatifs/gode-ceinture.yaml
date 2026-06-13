@@ -1,0 +1,190 @@
+sujet: "gode-ceinture"
+maj: "2026-06-13"
+methodo: >-
+  Notes éditoriales de la rédaction Meilleur Sextoy sur 5 critères (maintien, matériau,
+  confort, polyvalence, rapport qualité-prix). Prix constatés le 13/06/2026 sur les sites
+  officiels des marques ou revendeurs spécialisés. Les prix des marques américaines (RodeoH,
+  Sportsheets, Tantus) sont indiqués en dollars, hors frais d'import éventuels.
+filtres:
+  - { key: "tous", label: "Tous" }
+  - { key: "strapless", label: "Strapless (sans harnais)" }
+  - { key: "kit", label: "Kit harnais + gode" }
+  - { key: "harnais", label: "Harnais seul" }
+  - { key: "gode", label: "Gode seul" }
+# colonnes de specs affichées (ordre conservé)
+specs_cols: ["Silicone sans phtalates", "Vibration", "Télécommande", "Harnais inclus"]
+entites:
+  - rang: 1
+    nom: "Strap-on-me Multi Orgasm"
+    cat: "strapless"
+    slug: "strap-on-me-multi-orgasm"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/gode-ceinture/multi-orgasm.webp"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/products/strap-on-multi-orgasm-telecommande-3-moteurs-telecommande-rechargeable"
+    note: 9.2
+    type: "Gode strapless vibrant, 3 moteurs télécommandés"
+    prix: "129,99 €"
+    positionnement: "le meilleur gode-ceinture, marque française premium"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Vibration": "oui"
+      "Télécommande": "oui"
+      "Harnais inclus": "strapless"
+    avantages:
+      - "Trois moteurs indépendants pilotables séparément par télécommande sans fil"
+      - "Cent pour cent étanche, silicone doux sans phtalates, design primé (Red Dot 2019)"
+      - "Strapless : aucun harnais ni sangle à régler, marque française"
+    inconvenients:
+      - "Autonomie d'environ 45 minutes, recharge longue"
+      - "Le strapless demande un maintien musculaire, moins ferme qu'un vrai harnais"
+    source: "https://strap-on-me.com/products/strap-on-multi-orgasm-telecommande-3-moteurs-telecommande-rechargeable"
+  - rang: 2
+    nom: "Fun Factory Share"
+    cat: "strapless"
+    slug: "fun-factory-share"
+    logo: "/images/logos/funfactory.png"
+    marque: "Fun Factory"
+    url_officielle: "https://www.funfactory.com/"
+    note: 8.6
+    type: "Gode double strapless, silicone médical"
+    prix: "à partir de 49,90 €"
+    positionnement: "le strapless de référence pour les couples"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Vibration": "non"
+      "Télécommande": "non"
+      "Harnais inclus": "strapless"
+    avantages:
+      - "Double extrémité : la partie interne stimule la porteuse pendant la pénétration"
+      - "Silicone médical body-safe, fabrication européenne"
+      - "Version Lite plus légère qui tient mieux sans harnais"
+    inconvenients:
+      - "Maintien purement musculaire, demande de la pratique"
+      - "Pas de vibration sur le modèle classique"
+    source: "https://rejouis.fr/products/funfactory-godesharedouble"
+  - rang: 3
+    nom: "Lovehoney Desire Strapless"
+    cat: "strapless"
+    slug: "lovehoney-desire-strapless"
+    logo: ""
+    marque: "Lovehoney"
+    url_officielle: "https://www.lovehoney.com/sex-toys/strap-ons/strapless-strap-ons/p/desire-luxury-rechargeable-strapless-strap-on-dildo-vibrator/a37750g69944.html"
+    note: 8.2
+    type: "Gode strapless vibrant rechargeable"
+    prix: "114,99 USD"
+    positionnement: "le strapless vibrant de marque, large réseau de vente"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Vibration": "oui"
+      "Télécommande": "non"
+      "Harnais inclus": "strapless"
+    avantages:
+      - "Strapless vibrant rechargeable et étanche, prêt à l'emploi"
+      - "Marque très distribuée, garantie et SAV solides"
+    inconvenients:
+      - "Vendu en dollars sur le site international, pas de télécommande"
+      - "Maintien musculaire propre au strapless"
+    source: "https://www.lovehoney.com/sex-toys/strap-ons/strapless-strap-ons/p/desire-luxury-rechargeable-strapless-strap-on-dildo-vibrator/a37750g69944.html"
+  - rang: 4
+    nom: "Strap-on-me Classique"
+    cat: "kit"
+    slug: "strap-on-me-classique"
+    logo: "/images/logos/strap-on-me.png"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/products/strap-on-classique"
+    note: 7.8
+    type: "Gode-ceinture à harnais réglable"
+    prix: "69,99 €"
+    positionnement: "le harnais classique d'une marque française"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Vibration": "non"
+      "Télécommande": "non"
+      "Harnais inclus": "oui"
+    avantages:
+      - "Marque française reconnue, design soigné"
+      - "Format harnais classique réglable, prise en main simple"
+    inconvenients:
+      - "Référence en fin de stock"
+      - "Fiche peu détaillée sur les specifications"
+    source: "https://strap-on-me.com/products/strap-on-classique"
+  - rang: 5
+    nom: "Tantus Silk"
+    cat: "gode"
+    slug: "tantus-silk"
+    logo: "/images/logos/tantus.png"
+    marque: "Tantus"
+    url_officielle: "https://www.tantusinc.com/products/silk-medium"
+    note: 8.0
+    type: "Gode silicone premium à base évasée (compatible harnais)"
+    prix: "42 USD"
+    positionnement: "le meilleur gode silicone pour débuter"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Vibration": "non"
+      "Télécommande": "non"
+      "Harnais inclus": "non"
+    avantages:
+      - "Silicone premium body-safe, lavable à l'eau bouillante"
+      - "Diamètre fin idéal pour débuter, base évasée compatible plaque O-ring"
+    inconvenients:
+      - "Ni harnais ni vibration : c'est un gode seul"
+      - "Prix en dollars, frais d'import possibles"
+    source: "https://www.tantusinc.com/products/silk-medium"
+  - rang: 6
+    nom: "RodeoH Classic Boxer+"
+    cat: "harnais"
+    slug: "rodeoh-classic-boxer"
+    logo: "/images/logos/rodeoh.png"
+    marque: "RodeoH"
+    url_officielle: "https://rodeoh.com/products/classic-boxer-harness-bicycles"
+    note: 7.8
+    type: "Harnais-boxer en tissu (gode non inclus)"
+    prix: "54,99 USD"
+    positionnement: "le harnais le plus confortable, façon sous-vêtement"
+    specs:
+      "Silicone sans phtalates": "na"
+      "Vibration": "non"
+      "Télécommande": "non"
+      "Harnais inclus": "oui"
+    avantages:
+      - "Se porte comme un boxer : confortable, sans sangles compliquées"
+      - "Lavable en machine, deux poches pour œuf vibrant, large choix de tailles"
+    inconvenients:
+      - "Gode non fourni, à acheter à part"
+      - "Anneau limité aux godes fins, prix en dollars"
+    source: "https://rodeoh.com/products/classic-boxer-harness-bicycles"
+  - rang: 7
+    nom: "Sportsheets Lush"
+    cat: "harnais"
+    slug: "sportsheets-lush"
+    logo: "/images/logos/sportsheets.png"
+    marque: "Sportsheets"
+    url_officielle: "https://www.sportsheets.com/"
+    note: 7.3
+    type: "Harnais à sangles avec plaque O-ring (gode non inclus)"
+    prix: "≈ 38 USD"
+    positionnement: "le harnais d'entrée de gamme polyvalent"
+    specs:
+      "Silicone sans phtalates": "na"
+      "Vibration": "non"
+      "Télécommande": "non"
+      "Harnais inclus": "oui"
+    avantages:
+      - "Sangles réglables jusqu'à 152 cm, trois anneaux interchangeables"
+      - "Canal pour œuf vibrant, lavable en machine"
+    inconvenients:
+      - "Gode non inclus, tissu peluche moins durable"
+      - "Prix en dollars"
+    source: "https://www.sportsheets.com/"
+avis_clients:
+  - auteur: "Camille R."
+    note: 5
+    texte: "Le Multi Orgasm a tout changé pour nous : les trois moteurs et la télécommande, c'est un autre niveau."
+  - auteur: "Léa & Sam"
+    note: 5
+    texte: "On a débuté avec le kit Lovehoney, parfait pour se lancer sans se ruiner, puis on est passés au strapless."
+  - auteur: "Marine"
+    note: 4
+    texte: "Le Fun Factory Share demande un peu de pratique pour le maintien, mais la double stimulation vaut le coup."

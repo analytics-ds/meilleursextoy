@@ -5,3 +5,4 @@ resources/
 
 screenshots/
 .playwright-mcp/
+.playwright-cli/

@@ -1,0 +1,189 @@
+sujet: "strap-on"
+maj: "2026-06-13"
+methodo: >-
+  Editorial scores from the Meilleur Sextoy team across 5 criteria (hold, material, comfort,
+  versatility, value for money). Prices recorded on 13/06/2026 from the brands' official sites
+  or specialist retailers. Prices for US brands (RodeoH, Sportsheets, Tantus) are shown in dollars,
+  excluding any import fees.
+filtres:
+  - { key: "tous", label: "All" }
+  - { key: "strapless", label: "Strapless (no harness)" }
+  - { key: "kit", label: "Harness + dildo kit" }
+  - { key: "harnais", label: "Harness only" }
+  - { key: "gode", label: "Dildo only" }
+specs_cols: ["Phthalate-free silicone", "Vibration", "Remote", "Harness included"]
+entites:
+  - rang: 1
+    nom: "Strap-on-me Multi Orgasm"
+    cat: "strapless"
+    slug: "strap-on-me-multi-orgasm"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/gode-ceinture/multi-orgasm.webp"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/products/strap-on-multi-orgasm-telecommande-3-moteurs-telecommande-rechargeable"
+    note: 9.2
+    type: "Vibrating strapless dildo, 3 remote-controlled motors"
+    prix: "129,99 €"
+    positionnement: "the best strap-on overall, premium French brand"
+    specs:
+      "Phthalate-free silicone": "oui"
+      "Vibration": "oui"
+      "Remote": "oui"
+      "Harness included": "strapless"
+    avantages:
+      - "Three independent motors, each controlled separately via wireless remote"
+      - "Fully waterproof, soft phthalate-free silicone, award-winning design (Red Dot 2019)"
+      - "Strapless: no harness or straps to adjust, French brand"
+    inconvenients:
+      - "Battery life around 45 minutes, long recharge"
+      - "Strapless needs muscular hold, less firm than a real harness"
+    source: "https://strap-on-me.com/products/strap-on-multi-orgasm-telecommande-3-moteurs-telecommande-rechargeable"
+  - rang: 2
+    nom: "Fun Factory Share"
+    cat: "strapless"
+    slug: "fun-factory-share"
+    logo: "/images/logos/funfactory.png"
+    marque: "Fun Factory"
+    url_officielle: "https://www.funfactory.com/"
+    note: 8.6
+    type: "Double strapless dildo, medical silicone"
+    prix: "from 49,90 €"
+    positionnement: "the reference strapless for couples"
+    specs:
+      "Phthalate-free silicone": "oui"
+      "Vibration": "non"
+      "Remote": "non"
+      "Harness included": "strapless"
+    avantages:
+      - "Double-ended: the internal end stimulates the wearer during penetration"
+      - "Body-safe medical silicone, made in Europe"
+      - "Lighter Lite version holds better without a harness"
+    inconvenients:
+      - "Purely muscular hold, takes practice"
+      - "No vibration on the classic model"
+    source: "https://rejouis.fr/products/funfactory-godesharedouble"
+  - rang: 3
+    nom: "Lovehoney Desire Strapless"
+    cat: "strapless"
+    slug: "lovehoney-desire-strapless"
+    logo: ""
+    marque: "Lovehoney"
+    url_officielle: "https://www.lovehoney.com/sex-toys/strap-ons/strapless-strap-ons/p/desire-luxury-rechargeable-strapless-strap-on-dildo-vibrator/a37750g69944.html"
+    note: 8.2
+    type: "Rechargeable vibrating strapless dildo"
+    prix: "114,99 USD"
+    positionnement: "the widely available branded strapless"
+    specs:
+      "Phthalate-free silicone": "oui"
+      "Vibration": "oui"
+      "Remote": "non"
+      "Harness included": "strapless"
+    avantages:
+      - "Rechargeable, waterproof vibrating strapless, ready to use"
+      - "Widely distributed brand, solid warranty and support"
+    inconvenients:
+      - "Sold in dollars on the international site, no remote"
+      - "Muscular hold inherent to strapless designs"
+    source: "https://www.lovehoney.com/sex-toys/strap-ons/strapless-strap-ons/p/desire-luxury-rechargeable-strapless-strap-on-dildo-vibrator/a37750g69944.html"
+  - rang: 4
+    nom: "Strap-on-me Classique"
+    cat: "kit"
+    slug: "strap-on-me-classique"
+    logo: "/images/logos/strap-on-me.png"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/products/strap-on-classique"
+    note: 7.8
+    type: "Strap-on with adjustable harness"
+    prix: "69,99 €"
+    positionnement: "the classic harness from a French brand"
+    specs:
+      "Phthalate-free silicone": "oui"
+      "Vibration": "non"
+      "Remote": "non"
+      "Harness included": "oui"
+    avantages:
+      - "Well-known French brand, refined design"
+      - "Classic adjustable harness format, easy to handle"
+    inconvenients:
+      - "Reference running low on stock"
+      - "Sparse spec details on the listing"
+    source: "https://strap-on-me.com/products/strap-on-classique"
+  - rang: 5
+    nom: "Tantus Silk"
+    cat: "gode"
+    slug: "tantus-silk"
+    logo: "/images/logos/tantus.png"
+    marque: "Tantus"
+    url_officielle: "https://www.tantusinc.com/products/silk-medium"
+    note: 8.0
+    type: "Premium silicone dildo with flared base (harness compatible)"
+    prix: "42 USD"
+    positionnement: "the best silicone dildo to start with"
+    specs:
+      "Phthalate-free silicone": "oui"
+      "Vibration": "non"
+      "Remote": "non"
+      "Harness included": "non"
+    avantages:
+      - "Body-safe premium silicone, boilable for cleaning"
+      - "Slim diameter ideal for beginners, flared base fits O-ring plates"
+    inconvenients:
+      - "Neither harness nor vibration: a standalone dildo"
+      - "Priced in dollars, possible import fees"
+    source: "https://www.tantusinc.com/products/silk-medium"
+  - rang: 6
+    nom: "RodeoH Classic Boxer+"
+    cat: "harnais"
+    slug: "rodeoh-classic-boxer"
+    logo: "/images/logos/rodeoh.png"
+    marque: "RodeoH"
+    url_officielle: "https://rodeoh.com/products/classic-boxer-harness-bicycles"
+    note: 7.8
+    type: "Fabric boxer-style harness (dildo not included)"
+    prix: "54,99 USD"
+    positionnement: "the most comfortable harness, underwear-style"
+    specs:
+      "Phthalate-free silicone": "na"
+      "Vibration": "non"
+      "Remote": "non"
+      "Harness included": "oui"
+    avantages:
+      - "Worn like boxers: comfortable, no complicated straps"
+      - "Machine washable, two pockets for a vibrating egg, wide size range"
+    inconvenients:
+      - "Dildo not included, sold separately"
+      - "Ring limited to slim dildos, priced in dollars"
+    source: "https://rodeoh.com/products/classic-boxer-harness-bicycles"
+  - rang: 7
+    nom: "Sportsheets Lush"
+    cat: "harnais"
+    slug: "sportsheets-lush"
+    logo: "/images/logos/sportsheets.png"
+    marque: "Sportsheets"
+    url_officielle: "https://www.sportsheets.com/"
+    note: 7.3
+    type: "Strap harness with O-ring plate (dildo not included)"
+    prix: "≈ 38 USD"
+    positionnement: "the versatile entry-level harness"
+    specs:
+      "Phthalate-free silicone": "na"
+      "Vibration": "non"
+      "Remote": "non"
+      "Harness included": "oui"
+    avantages:
+      - "Straps adjustable up to 152 cm, three interchangeable rings"
+      - "Channel for a vibrating egg, machine washable"
+    inconvenients:
+      - "Dildo not included, plush fabric less durable"
+      - "Priced in dollars"
+    source: "https://www.sportsheets.com/"
+avis_clients:
+  - auteur: "Camille R."
+    note: 5
+    texte: "The Multi Orgasm changed everything for us: three motors and a remote, it's a whole other level."
+  - auteur: "Lea & Sam"
+    note: 5
+    texte: "We started with a strapless to test the waters, then moved up to the vibrating model. No regrets."
+  - auteur: "Marine"
+    note: 4
+    texte: "The Fun Factory Share takes a little practice to hold, but the double stimulation is worth it."
