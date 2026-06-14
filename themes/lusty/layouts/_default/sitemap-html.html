@@ -61,9 +61,9 @@
             <div class="sitemap-section">
                 <h2>Informations</h2>
                 <ul class="sitemap-list">
-                    <li><a href="{{ "a-propos/" | relLangURL }}">À propos</a></li>
-                    <li><a href="{{ "contact/" | relLangURL }}">Contact</a></li>
-                    <li><a href="{{ "mentions-legales/" | relLangURL }}">Mentions légales</a></li>
+                    {{ with .Site.GetPage "/a-propos" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+                    {{ with .Site.GetPage "/contact" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+                    {{ with .Site.GetPage "/mentions-legales" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
                 </ul>
             </div>
 

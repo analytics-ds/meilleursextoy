@@ -3,7 +3,7 @@ title: "Where to Buy BDSM Handcuffs?"
 slug: "where-to-buy-bdsm-handcuffs"
 description: "Where to buy quality BDSM handcuffs? We compared 5 shops on leather, metal, comfort and price. 1969 comes out on top in 2026."
 date: 2026-06-02
-lastmod: 2026-06-02
+lastmod: 2026-06-14
 author: "Camille Reverdy"
 categories: ["Comparatifs"]
 draft: false
@@ -141,7 +141,7 @@ Four criteria separate a good pair from a gadget forgotten in a drawer.
 
 The **material** first. Metal handcuffs give firm restraint and a strong look, but they mark fast without lining. Lined leather cuffs stay the most comfortable for prolonged wear, ideal for gentle submission. Faux leather is fine to explore at a low price, and soft silicone models, easy to clean, exist too.
 
-The **adjustment** next. A good cuff is adjustable over several notches, wide enough to spread the pressure, lined so it does not mark. Two fingers of room at the wrist, never tighter. The same detail applies to cuffs paired with a [BDSM mask](/en/blog/where-to-buy-bdsm-mask-online/), where comfort changes everything.
+The **adjustment** next. A good cuff is adjustable over several notches, wide enough to spread the pressure, lined so it does not mark. Two fingers of room at the wrist, never tighter. The same detail applies to cuffs paired with a BDSM mask, where comfort changes everything.
 
 Wrists, ankles or both. Many sets link wrists and ankles with a chain or a bar, to vary the positions. To start, a simple pair of wrist cuffs is enough. Ankle cuffs come next.
 

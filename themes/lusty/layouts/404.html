@@ -14,8 +14,8 @@
             <ul>
                 <li><a href="{{ "produits/" | relLangURL }}">Fiches produits</a></li>
                 <li><a href="{{ "blog/" | relLangURL }}">Le blog</a></li>
-                <li><a href="{{ "a-propos/" | relLangURL }}">À propos</a></li>
-                <li><a href="{{ "plan-du-site/" | relLangURL }}">Plan du site</a></li>
+                {{ with .Site.GetPage "/a-propos" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
+                {{ with .Site.GetPage "/plan-du-site" }}<li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>{{ end }}
             </ul>
         </div>
     </div>

@@ -30,6 +30,8 @@
     </div>
 </section>
 
+{{ $products := first 4 (where .Site.RegularPages "Section" "produits").ByDate.Reverse }}
+{{ with $products }}
 <section class="section" id="produits">
     <div class="container">
         <div class="section-header">
@@ -40,30 +42,27 @@
             <a href="{{ "produits/" | relLangURL }}" class="section-link">{{ i18n "sec_new_link" }} →</a>
         </div>
         <div class="grid-products">
-            {{ $products := slice
-                (dict "name" "Womanizer OG" "cat" "Stimulateur G-spot" "price" "199 €" "note" "9.4" "img" "womanizer-og.jpg" "slug" "womanizer-og")
-                (dict "name" "Satisfyer Pro 4 Couples" "cat" "Toy couples" "price" "49 €" "note" "8.7" "img" "satisfyer-pro-4.jpg" "slug" "satisfyer-pro-4-couples")
-                (dict "name" "Lelo Sona 2 Cruise" "cat" "Onde sonique" "price" "139 €" "note" "9.1" "img" "lelo-sona-2.jpg" "slug" "lelo-sona-2-cruise")
-                (dict "name" "We-Vibe Chorus" "cat" "Couples connecté" "price" "199 €" "note" "9.0" "img" "we-vibe-chorus.jpg" "slug" "we-vibe-chorus")
-            }}
-            {{ range $products }}
-            <a href="{{ printf "produits/%s/" .slug | relLangURL }}" class="product-card">
+            {{ range . }}
+            {{ $img := .Params.image }}
+            {{ if not $img }}{{ $img = printf "/images/products/%s.jpg" .File.ContentBaseName }}{{ end }}
+            <a href="{{ .RelPermalink }}" class="product-card">
                 <div class="product-card-image">
-                    <img src="{{ "images/products/" | relURL }}{{ .img }}" alt="{{ .name }}" loading="lazy">
-                    <span class="product-card-badge">Top {{ .note }}</span>
+                    <img src="{{ $img }}" alt="{{ .Title }}" loading="lazy">
+                    {{ with .Params.note }}<span class="product-card-badge">Top {{ . }}</span>{{ end }}
                 </div>
                 <div class="product-card-body">
                     <div>
-                        <span class="product-card-category">{{ .cat }}</span>
-                        <p class="product-card-name">{{ .name }}</p>
+                        {{ with .Params.category }}<span class="product-card-category">{{ . }}</span>{{ end }}
+                        <p class="product-card-name">{{ .Title }}</p>
                     </div>
-                    <span class="product-card-price">{{ .price }}</span>
+                    {{ with .Params.price }}<span class="product-card-price">{{ . }}</span>{{ end }}
                 </div>
             </a>
             {{ end }}
         </div>
     </div>
 </section>
+{{ end }}
 
 <section class="section section-alt">
     <div class="container">

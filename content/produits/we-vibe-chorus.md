@@ -2,7 +2,7 @@
 title: "We-Vibe Chorus"
 description: "Vibromasseur couple connecté avec télécommande tactile et capteurs de mouvement embarqués."
 date: 2026-05-14
-lastmod: 2026-05-14
+lastmod: 2026-06-14
 author: "Camille Reverdy"
 brand: "We-Vibe"
 category: "Couples connecté"
@@ -67,4 +67,4 @@ L'autonomie d'environ 90 minutes est honnête mais juste sur le segment haut de 
 
 ## Pour qui c'est fait
 
-Le Chorus est le bon choix pour un couple qui veut un toy partagé sans compromis, ou pour des partenaires séparés une partie du temps qui veulent un pilotage longue distance fiable. Pour un usage occasionnel ou en découverte, le [Satisfyer Pro 4 Couples](/produits/satisfyer-pro-4-couples/) reste plus accessible. Pour comprendre les différentes technologies du segment, voir notre [comparatif des stimulateurs clitoridiens](/blog/stimulateur-clitoridien-comparatif/).
+Le Chorus est le bon choix pour un couple qui veut un toy partagé sans compromis, ou pour des partenaires séparés une partie du temps qui veulent un pilotage longue distance fiable. Pour un usage occasionnel ou en découverte, le [Satisfyer Pro 4 Couples](/produits/satisfyer-pro-4-couples/) reste plus accessible.

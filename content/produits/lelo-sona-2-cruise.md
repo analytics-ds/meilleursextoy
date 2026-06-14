@@ -2,7 +2,7 @@
 title: "Lelo Sona 2 Cruise"
 description: "Stimulateur clitoridien à ondes soniques avec mode Cruise Control pour maintenir la puissance sous pression."
 date: 2026-05-16
-lastmod: 2026-05-16
+lastmod: 2026-06-14
 author: "Camille Reverdy"
 brand: "Lelo"
 category: "Onde sonique"
@@ -60,4 +60,4 @@ Le bruit est légèrement plus présent qu'un Womanizer haut de gamme, mais rest
 
 Le Sona 2 Cruise s'adresse à qui veut une stimulation **plus enveloppante** que le Pleasure Air, ou à qui n'a pas accroché à la sensation un peu sèche des modèles à pression d'air. C'est aussi un excellent choix pour celles qui aiment maintenir une pression ferme pendant l'usage, grâce au Cruise Control.
 
-À 139 €, il se positionne entre l'entrée de gamme Satisfyer et le haut de gamme [Womanizer OG](/produits/womanizer-og/). Pour situer ces technologies les unes par rapport aux autres, voir notre [comparatif des stimulateurs clitoridiens](/blog/stimulateur-clitoridien-comparatif/).
+À 139 €, il se positionne entre l'entrée de gamme Satisfyer et le haut de gamme [Womanizer OG](/produits/womanizer-og/).
