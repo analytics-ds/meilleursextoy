@@ -1,0 +1,208 @@
+sujet: "harnais"
+maj: "2026-06-20"
+methodo: >-
+  Notes éditoriales de la rédaction Meilleur Sextoy sur 6 critères (maintien, confort,
+  réglage et inclusivité des morphologies, qualité du matériau, compatibilité du gode,
+  rapport qualité-prix). Prix relevés le 20/06/2026 sur les sites officiels des marques ou,
+  à défaut, chez des revendeurs spécialisés réputés. Les prix des marques nord-américaines
+  (SpareParts, RodeoH, Aslan, Sportsheets, Lovehoney) sont indiqués en dollars, hors frais
+  d'import éventuels.
+filtres:
+  - { key: "tous", label: "Tous" }
+  - { key: "lingerie", label: "Lingerie" }
+  - { key: "sous-vetement", label: "Sous-vêtement" }
+  - { key: "sangles", label: "Sangles" }
+  - { key: "cuir", label: "Cuir" }
+  - { key: "kit", label: "Kit avec gode" }
+specs_cols: ["Réglable", "Lavable en machine", "Anneau O-ring", "Gode inclus"]
+entites:
+  - rang: 1
+    nom: "Strap-on-me Harnais Lingerie Divine"
+    cat: "lingerie"
+    slug: "strap-on-me-lingerie-divine"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/harnais/strap-on-me-divine.jpg"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/products/harnais-lingerie-divine"
+    note: 9.0
+    type: "Harnais lingerie textile avec anneau O-ring"
+    prix: "69,99 €"
+    prix_valeur: 69.99
+    prix_devise: "EUR"
+    positionnement: "le meilleur harnais global, confort et esthétique, marque française"
+    specs:
+      "Réglable": "oui"
+      "Lavable en machine": "na"
+      "Anneau O-ring": "oui"
+      "Gode inclus": "non"
+    avantages:
+      - "Confort d'un sous-vêtement lingerie, tailles XS à XXL, design soigné"
+      - "Marque française, anneau O-ring compatible avec les godes de la gamme Strap-on-me"
+      - "Livraison 100% discrète, colis sobre ne mentionnant pas la marque"
+    inconvenients:
+      - "Maintien lingerie un peu moins ferme qu'un harnais à sangles pour les mouvements très amples"
+      - "Fiche peu détaillée sur la composition textile exacte"
+    source: "https://strap-on-me.com/products/harnais-lingerie-divine"
+  - rang: 2
+    nom: "SpareParts HardWear Joque"
+    cat: "sangles"
+    slug: "spareparts-joque"
+    logo: ""
+    image: "/images/comparatifs/harnais/spareparts-joque.jpg"
+    marque: "SpareParts HardWear"
+    url_officielle: "https://www.peachesandpearls.net/products/spareparts-joque-harness"
+    note: 8.8
+    type: "Harnais jockstrap à double sangle, nylon-spandex"
+    prix: "130 à 148 $ (selon revendeur)"
+    prix_valeur: 130
+    prix_devise: "USD"
+    positionnement: "le harnais le plus réglable et le plus durable"
+    specs:
+      "Réglable": "oui"
+      "Lavable en machine": "oui"
+      "Anneau O-ring": "oui"
+      "Gode inclus": "non"
+    avantages:
+      - "Très large plage d'ajustement : ceinture jusqu'à 165 cm en taille B, sangles de jambe réglables"
+      - "Lavable en machine, anneau O-ring extensible qui accepte des godes de diamètres variés et les godes doubles"
+      - "Deux poches internes pour glisser un mini-vibromasseur de part et d'autre de l'anneau"
+    inconvenients:
+      - "Gode non inclus, à acheter séparément"
+      - "Prix élevé pour un harnais en tissu, vibromasseurs non fournis"
+    source: "https://mail.myspare.com/product/joque"
+  - rang: 3
+    nom: "RodeoH Classic Boxer+"
+    cat: "sous-vetement"
+    slug: "rodeoh-classic-boxer"
+    logo: "/images/logos/rodeoh.png"
+    image: "/images/comparatifs/harnais/rodeoh.jpg"
+    marque: "RodeoH"
+    url_officielle: "https://rodeoh.com/products/classic-boxer-harness-pacific-blue"
+    note: 8.4
+    type: "Harnais-boxer en coton, anneau cousu"
+    prix: "54,99 $"
+    prix_valeur: 54.99
+    prix_devise: "USD"
+    positionnement: "le plus confortable, façon sous-vêtement"
+    specs:
+      "Réglable": "non"
+      "Lavable en machine": "oui"
+      "Anneau O-ring": "oui"
+      "Gode inclus": "non"
+    avantages:
+      - "Se porte comme un boxer : 95% coton, 5% élasthanne, double épaisseur et double surpiqûre de maintien"
+      - "Lavable en machine sur cycle délicat, deux poches pour mini-vibromasseur"
+    inconvenients:
+      - "Taillé comme un vêtement (pas de sangles à régler), anneau limité aux godes de diamètre 1,65 pouce maximum"
+      - "Gode non inclus, prix en dollars"
+    source: "https://rodeoh.com/products/classic-boxer-harness-pacific-blue"
+  - rang: 4
+    nom: "Aslan Leather Jaguar"
+    cat: "cuir"
+    slug: "aslan-leather-jaguar"
+    logo: "/images/logos/aslan.png"
+    marque: "Aslan Leather"
+    url_officielle: "https://www.aslanleather.com/jaguar"
+    note: 8.2
+    type: "Harnais en cuir à deux sangles, anneau interchangeable"
+    prix: "165 $"
+    positionnement: "le harnais cuir premium fait main"
+    specs:
+      "Réglable": "oui"
+      "Lavable en machine": "na"
+      "Anneau O-ring": "oui"
+      "Gode inclus": "non"
+    avantages:
+      - "Cuir de confection souple, fabrication artisanale au Canada, harnais réputé pour son confort"
+      - "Système d'anneau O-ring trois points amovible et interchangeable, livré avec un anneau de 5 cm"
+    inconvenients:
+      - "Prix élevé à 165 dollars, plusieurs options en supplément payant"
+      - "Entretien du cuir non documenté par la marque, pas de version vegan sous ce nom"
+    source: "https://www.aslanleather.com/jaguar"
+  - rang: 5
+    nom: "Wet For Her Sasha"
+    cat: "lingerie"
+    slug: "wet-for-her-sasha"
+    logo: ""
+    image: "/images/comparatifs/harnais/wetforher-sasha.png"
+    marque: "Wet For Her"
+    url_officielle: "https://wetforher.com/fr/products/sasha-o-ring-harness-lingerie-red-black-xs-3x"
+    note: 7.8
+    type: "Harnais lingerie féminin avec jarretelles, anneau extensible"
+    prix: "149,95 €"
+    prix_valeur: 149.95
+    prix_devise: "EUR"
+    positionnement: "le harnais lingerie pensé par et pour les femmes"
+    specs:
+      "Réglable": "oui"
+      "Lavable en machine": "na"
+      "Anneau O-ring": "oui"
+      "Gode inclus": "non"
+    avantages:
+      - "Design lingerie féminin, jarretelles amovibles, tailles XS à 3XL"
+      - "Anneau O-ring extensible qui accepte plusieurs diamètres de gode sans se déformer"
+    inconvenients:
+      - "Vendu en vente finale (ni retour ni échange) sur la fiche officielle"
+      - "Prix élevé et composition textile non précisée sur la fiche"
+    source: "https://wetforher.com/fr/products/sasha-o-ring-harness-lingerie-red-black-xs-3x"
+  - rang: 6
+    nom: "Lovehoney Beginner's Strap-On Kit"
+    cat: "kit"
+    slug: "lovehoney-beginners-kit"
+    logo: "/images/logos/lovehoney.png"
+    marque: "Lovehoney"
+    url_officielle: "https://www.lovehoney.com/sex-toys/strap-ons/strap-on-kits/p/lovehoney-beginners-unisex-strap-on-harness-kit-with-5-inch-pegging-dildo/a28425g45838.html"
+    note: 7.6
+    type: "Kit harnais à sangles + gode silicone 5 pouces"
+    prix: "29,99 $ (kit en promo)"
+    prix_valeur: 29.99
+    prix_devise: "USD"
+    positionnement: "le meilleur kit pour débuter, gode inclus"
+    specs:
+      "Réglable": "oui"
+      "Lavable en machine": "oui"
+      "Anneau O-ring": "oui"
+      "Gode inclus": "oui"
+    avantages:
+      - "Kit complet : harnais, gode silicone courbé de 5 pouces et trois anneaux interchangeables (1,25 à 2 pouces)"
+      - "Harnais lavable en machine et très réglable, de 18 à 68 pouces, pensé pour débuter"
+    inconvenients:
+      - "Gode de petite taille (5 pouces), limité pour qui veut plus de longueur ensuite"
+      - "Composition du harnais non précisée, entrée de gamme"
+    source: "https://www.lovehoney.com/sex-toys/strap-ons/strap-on-kits/p/lovehoney-beginners-unisex-strap-on-harness-kit-with-5-inch-pegging-dildo/a28425g45838.html"
+  - rang: 7
+    nom: "Sportsheets Saffron Strap-On"
+    cat: "sangles"
+    slug: "sportsheets-saffron"
+    logo: "/images/logos/sportsheets.png"
+    image: "/images/comparatifs/harnais/sportsheets-saffron.jpg"
+    marque: "Sportsheets"
+    url_officielle: "https://sportsheets.com/products/saffron-strap-on"
+    note: 7.2
+    type: "Harnais à sangles avec anneau O-ring (gode non inclus)"
+    prix: "43,35 $ (promo, 50,99 $)"
+    prix_valeur: 43.35
+    prix_devise: "USD"
+    positionnement: "le harnais à sangles d'entrée de gamme"
+    specs:
+      "Réglable": "oui"
+      "Lavable en machine": "na"
+      "Anneau O-ring": "oui"
+      "Gode inclus": "non"
+    avantages:
+      - "Sangles entièrement réglables qui épousent les hanches, anneau compatible avec n'importe quel gode"
+      - "Tarif accessible, marque spécialisée reconnue"
+    inconvenients:
+      - "Gode non inclus, matière du harnais non précisée sur la fiche officielle"
+      - "Pas d'instruction de lavage indiquée, prix en dollars"
+    source: "https://sportsheets.com/products/saffron-strap-on"
+avis_clients:
+  - auteur: "Manon & Inès"
+    note: 5
+    texte: "On a hésité longtemps puis pris le harnais lingerie Strap-on-me : confortable, joli, et l'anneau tient parfaitement nos godes. Aucun regret."
+  - auteur: "Thomas"
+    note: 5
+    texte: "Le Joque de SpareParts se règle vraiment à toutes les morphologies, je le trouve bien plus stable que mon ancien harnais d'entrée de gamme."
+  - auteur: "Sarah"
+    note: 4
+    texte: "Le kit Lovehoney est parfait pour se lancer sans se ruiner, gode inclus. On passera sûrement à un modèle cuir plus tard."

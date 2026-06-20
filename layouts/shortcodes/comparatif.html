@@ -97,7 +97,7 @@
 {
   "@context": "https://schema.org",
   "@type": "ItemList",
-  "name": {{ cond $en "Best strap-on" "Meilleur gode-ceinture" | jsonify }},
+  "name": {{ $.Page.Title | jsonify }},
   "itemListOrder": "https://schema.org/ItemListOrderDescending",
   "numberOfItems": {{ len $d.entites }},
   "itemListElement": [
