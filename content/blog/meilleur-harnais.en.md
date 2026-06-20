@@ -32,6 +32,10 @@ Choosing your **harness** changes everything in the **pegging** experience, far 
 
 {{< comparatif "harnais-en" >}}
 
+## The harness ranking in detail
+
+{{< comparatif-cards "harnais-en" >}}
+
 ## How we scored
 
 No random ranking. Each harness is judged on six points that really matter in practice: how well it **holds** the dildo during movement, **comfort** on the skin and over time, the fineness of **adjustment** and body inclusivity, **material** quality, **compatibility** with different dildos through the ring, and value for money in real euros or dollars. Prices were recorded on 20 June 2026 from the brands' official sites or, failing that, from recognised specialist retailers. The table filter above lets you sort by harness type, whether you are after lingerie, underwear, straps, leather or a complete kit with a dildo.
@@ -42,33 +46,11 @@ The **Divine lingerie harness** from Strap-on-me takes the lead because it solve
 
 It is not the firmest harness of the bunch: for very wide movements, a strap model will hold better. The product page is also a little light on the exact fabric composition. But to get started without complicating your life, it is our reference this year.
 
-### Strap-on-me Divine pros
-
-- Comfort of lingerie underwear, from XS to XXL, with no complicated adjustment
-- French brand, ring compatible with flared-base dildos
-- Discreet shipping in a plain box, ideal for a first order
-
-### Strap-on-me Divine cons
-
-- Slightly less firm than a strap harness for forceful movements
-- Sparse detail on the fabric composition on the official page
-
 ## SpareParts Joque: the most adjustable harness
 
 If the priority is fitting every body type, the **SpareParts Joque** has no rival in this comparison. This jockstrap-style harness, in nylon and spandex, adjusts at the belt and the thighs, with a range that goes up to 165 cm of waist on the larger size. Its stretchy O-ring swallows thin dildos as easily as thick or double models, and two internal pockets hold a bullet vibrator on each side. A practical plus, it goes in the machine, preferably in a wash bag.
 
 The flip side is the price: between 130 and 148 dollars depending on the retailer, that is expensive for a fabric harness, especially as neither the dildo nor the vibrators are supplied. But for those who want a harness that lasts and adapts to anything, the investment makes sense.
-
-### SpareParts Joque pros
-
-- Very wide adjustment at the belt and thighs, for most body types
-- Stretchy ring compatible with thin, thick and double dildos, machine washable
-- Two pockets to slip a bullet vibrator near the ring
-
-### SpareParts Joque cons
-
-- High price for a fabric harness, dildo not included
-- Vibrators to buy separately despite the dedicated pockets
 
 ## RodeoH Classic Boxer+: the most comfortable for everyday use
 
@@ -76,31 +58,11 @@ The **RodeoH Classic Boxer+** bets everything on underwear-style comfort. Cut li
 
 As it is a sized garment rather than a strap system, you have to pick your size carefully, and its sewn ring is limited to dildos up to 1.65 inch in diameter. For a larger dildo, RodeoH points to a stabiliser sold separately. The dildo itself is not supplied.
 
-### RodeoH Classic Boxer+ pros
-
-- Comfort of a real boxer, thick cotton, with no straps or buckles
-- Machine washable, two pockets for a bullet vibrator
-
-### RodeoH Classic Boxer+ cons
-
-- Sized like a garment, ring limited to thin dildos (1.65 inch maximum)
-- Dildo not included, price shown in dollars
-
 ## Aslan Leather Jaguar: the premium handmade leather harness
 
 For those who want **leather** and an object that lasts, the **Aslan Leather Jaguar** is the reference piece. Handmade in Canada by a brand established in the late 1990s, this two-strap harness sits low on the hips and is seen as one of the most comfortable in its category. Its three-point snap-out ring system changes easily, and it ships with a 5 cm ring. It is a harness you keep for years.
 
 The entry ticket sits at 165 dollars, and several popular options, like the corseted back, are charged as extras. The brand does not clearly document leather care, and the Jaguar model has no vegan version. It is the pleasure and durability choice, not the small-budget one.
-
-### Aslan Jaguar pros
-
-- Soft garment leather, handmade and praised for its comfort
-- Three-point snap-out O-ring, removable and interchangeable
-
-### Aslan Jaguar cons
-
-- High price and paid add-on options
-- Care not documented, no vegan version under this name
 
 ## Wet For Her Sasha: the lingerie harness designed for women
 
@@ -108,46 +70,17 @@ The **Wet For Her Sasha** plays the feminine lingerie card. The brand, known for
 
 Two caveats to know before buying: it is sold as a final sale on the official page, so no returns or exchanges, and the fabric composition is not stated. At 149.95 euros, it sits at the top of the lingerie market.
 
-### Wet For Her Sasha pros
-
-- Feminine lingerie design with removable garters, from XS to 3XL
-- Stretchy ring compatible with several dildo diameters
-
-### Wet For Her Sasha cons
-
-- Sold as final sale, no returns or exchanges
-- High price and composition not stated on the page
-
 ## Lovehoney Beginner's Kit: the best kit to get started
 
 When you want to try everything without thinking about accessories, the **Lovehoney beginner's kit** ticks the box. It brings together in a single box an adjustable strap harness from 18 to 68 inches, a 5-inch curved silicone dildo and three interchangeable rings from 1.25 to 2 inches. The harness goes in the machine, and the set is designed for first times. Listed around 29.99 dollars on sale, it is the most aggressive value for money in the comparison.
 
 The supplied dildo stays short, at 5 inches: perfect to start, more limited when you later want length. The harness composition itself is not detailed. But to discover pegging without piling up purchases, it is hard to do better.
 
-### Lovehoney kit pros
-
-- Complete kit with a silicone dildo and three interchangeable rings
-- Machine-washable, highly adjustable harness, unbeatable price
-
-### Lovehoney kit cons
-
-- Short dildo (5 inch), quickly limiting for those who want to size up
-- Harness composition not stated, entry-level finish
-
 ## Sportsheets Saffron: the entry-level strap harness
 
 The **Sportsheets Saffron** is the most accessible strap option in the selection. Its fully adjustable straps hug the hips, and its ring fits any flared-base dildo. The brand, a recognised specialist, offers this model around 43.35 dollars on sale. It is a simple, no-frills harness that gets the job done.
 
 In return, the dildo is not supplied, the exact harness material is not stated on the official page, and no washing instruction is given. A good entry point if you want a strap system without paying the price of a SpareParts.
-
-### Sportsheets Saffron pros
-
-- Fully adjustable straps, ring compatible with most dildos
-- Affordable price from a specialist brand
-
-### Sportsheets Saffron cons
-
-- Dildo not included, material and care not stated on the page
 
 ## How to choose your pegging harness
 

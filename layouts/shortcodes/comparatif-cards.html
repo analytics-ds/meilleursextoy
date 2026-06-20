@@ -1,0 +1,72 @@
+{{- $key := .Get 0 -}}
+{{- $d := index .Site.Data.comparatifs $key -}}
+{{- $cta := .Site.Params.cta | default "#FD2879" -}}
+{{- $primary := .Site.Params.primary | default "#332925" -}}
+{{- $en := eq .Page.Language.Lang "en" -}}
+{{- $t := cond $en
+    (dict "top" "Top" "note" "rating" "avantages" "Pros" "inconvenients" "Cons" "btn" "See price")
+    (dict "top" "Top" "note" "note" "avantages" "Avantages" "inconvenients" "Inconvénients" "btn" "Voir le prix") -}}
+
+<div class="cmpc" style="--cta:{{ $cta }};--primary:{{ $primary }}">
+  {{- range sort $d.entites "rang" -}}
+  {{- $e := . -}}
+  <article class="cmpc-card" id="top-{{ .rang }}">
+    <div class="cmpc-rank">{{ $t.top }} {{ .rang }}</div>
+    <div class="cmpc-head">
+      <div class="cmpc-brand">
+        {{ with .logo }}<img src="{{ . | relURL }}" alt="Logo {{ $e.marque }}" class="cmpc-logo" loading="lazy" width="120" height="48">{{ else }}<span class="cmpc-badge">{{ $e.marque }}</span>{{ end }}
+      </div>
+      <div class="cmpc-titles">
+        <h3 class="cmpc-nom">{{ .nom }}</h3>
+        <p class="cmpc-type">{{ .type }}</p>
+      </div>
+      <div class="cmpc-score">
+        <span class="cmpc-noteval">{{ .note }}</span><span class="cmpc-notemax">/10</span>
+        <span class="cmpc-stars" style="--pct:{{ mul (div .note 10.0) 100 }}%"></span>
+        <span class="cmpc-prix">{{ .prix }}</span>
+      </div>
+    </div>
+    <div class="cmpc-proscons">
+      <div class="cmpc-pros">
+        <strong>{{ $t.avantages }}</strong>
+        <ul>{{ range .avantages }}<li>{{ . }}</li>{{ end }}</ul>
+      </div>
+      <div class="cmpc-cons">
+        <strong>{{ $t.inconvenients }}</strong>
+        <ul>{{ range .inconvenients }}<li>{{ . }}</li>{{ end }}</ul>
+      </div>
+    </div>
+    <a class="cmpc-btn" href="{{ .url_officielle }}" rel="nofollow sponsored noopener" target="_blank">{{ $t.btn }}</a>
+  </article>
+  {{- end -}}
+</div>
+
+<style>
+.cmpc{--ok:#2e9e6b;--bad:#d2483f;margin:2.4rem 0;display:flex;flex-direction:column;gap:1.1rem;position:relative;left:50%;transform:translateX(-50%);width:min(1120px,94vw)}
+.cmpc-card{position:relative;border:1px solid #efe6df;border-radius:16px;background:#fff;padding:1.4rem 1.3rem 1.3rem;box-shadow:0 1px 3px rgba(51,41,37,.05)}
+.cmpc-card:first-child{border-color:var(--cta);box-shadow:0 4px 18px rgba(253,40,121,.13)}
+.cmpc-rank{position:absolute;top:-12px;left:18px;background:var(--cta);color:#fff;font-weight:700;font-size:.8rem;letter-spacing:.02em;padding:.28rem .8rem;border-radius:999px;text-transform:uppercase}
+.cmpc-head{display:flex;align-items:center;gap:1.1rem;flex-wrap:wrap;margin-top:.4rem}
+.cmpc-brand{flex:0 0 auto;min-width:120px;display:flex;align-items:center}
+.cmpc-logo{max-width:120px;max-height:48px;width:auto;height:auto;object-fit:contain}
+.cmpc-badge{display:inline-block;font-weight:700;color:var(--primary);border:1px solid #e7ddd6;border-radius:8px;padding:.3rem .6rem;font-size:.9rem}
+.cmpc-titles{flex:1 1 220px;min-width:180px}
+.cmpc-nom{margin:0;font-size:1.12rem;line-height:1.25;color:var(--primary)}
+.cmpc-type{margin:.15rem 0 0;font-size:.85rem;color:#8a7d75}
+.cmpc-score{flex:0 0 auto;text-align:right;display:flex;flex-direction:column;align-items:flex-end;gap:.15rem}
+.cmpc-noteval{font-size:1.5rem;font-weight:800;color:var(--cta)}
+.cmpc-notemax{font-size:.8rem;color:#8a7d75;margin-left:1px}
+.cmpc-stars{display:block;width:88px;height:15px;background:linear-gradient(90deg,#f5b301 var(--pct),#e7ddd6 var(--pct));-webkit-mask:repeating-linear-gradient(90deg,#000 0 14px,transparent 14px 17.6px);mask:repeating-linear-gradient(90deg,#000 0 14px,transparent 14px 17.6px)}
+.cmpc-prix{font-size:.92rem;font-weight:700;color:var(--primary);margin-top:.1rem}
+.cmpc-proscons{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1.1rem 0 1rem}
+.cmpc-proscons strong{display:block;margin-bottom:.35rem;font-size:.92rem}
+.cmpc-pros strong{color:var(--ok)}
+.cmpc-cons strong{color:var(--bad)}
+.cmpc-proscons ul{margin:0;padding-left:1.1rem;font-size:.9rem;line-height:1.45}
+.cmpc-proscons li{margin:.2rem 0}
+.cmpc-pros li::marker{content:"✓ "}
+.cmpc-cons li::marker{content:"✕ "}
+.cmpc-btn{display:inline-block;background:var(--cta);color:#fff;font-weight:700;text-decoration:none;padding:.6rem 1.3rem;border-radius:999px;font-size:.92rem;transition:.15s}
+.cmpc-btn:hover{filter:brightness(1.07)}
+@media(max-width:620px){.cmpc-head{gap:.7rem}.cmpc-score{width:100%;align-items:flex-start;text-align:left}.cmpc-proscons{grid-template-columns:1fr}}
+</style>
