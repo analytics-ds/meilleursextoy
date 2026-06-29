@@ -1,0 +1,147 @@
+sujet: "meilleure-marque-strap-on-en"
+maj: "2026-06-29"
+methodo: >-
+  Editorial scores from the Meilleur Sextoy team on 5 criteria (strap-on and pegging
+  specialisation, material quality, range breadth across harness/strapless/dildos, innovation
+  and ergonomics, availability and discreet delivery in France). Prices checked on 29/06/2026
+  on the brands' official websites. North American brands (Tantus, Sportsheets) are imported and
+  their prices may vary by French reseller.
+filtres:
+  - { key: "tous", label: "All" }
+  - { key: "fr", label: "French" }
+  - { key: "eu", label: "European" }
+  - { key: "us", label: "American" }
+specs_cols: ["Strap-on specialist", "Medical silicone", "Strapless model", "French brand"]
+entites:
+  - rang: 1
+    nom: "Strap-on-me"
+    cat: "fr"
+    slug: "strap-on-me"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/marque-strap-on/strap-on-me.webp"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/en"
+    note: 9.4
+    type: "French brand specialising in strap-ons and pegging"
+    prix: "From €69.99"
+    prix_valeur: 69.99
+    prix_devise: "EUR"
+    positionnement: "the best strap-on brand in France, a specialist with a complete, award-winning range"
+    specs:
+      "Strap-on specialist": "oui"
+      "Medical silicone": "oui"
+      "Strapless model": "oui"
+      "French brand": "oui"
+    avantages:
+      - "French brand entirely dedicated to strap-ons and pegging, from harness to vibrating strapless"
+      - "Phthalate-free medical silicone, fully waterproof, Strap-On Multi Orgasm awarded a Red Dot Award in 2019"
+      - "Widest range in the comparison: lingerie harnesses, kits, 3-motor remote-controlled strapless, matching dildos"
+      - "100% discreet delivery from France, plain packaging with no mention of the brand"
+    inconvenients:
+      - "Prices above entry level on remote-controlled vibrating models (from €134.99)"
+      - "Some best-sellers sell out quickly"
+    source: "https://strap-on-me.com/en"
+  - rang: 2
+    nom: "Fun Factory"
+    cat: "eu"
+    slug: "fun-factory"
+    logo: "/images/logos/funfactory.png"
+    image: "/images/comparatifs/marque-strap-on/fun-factory.webp"
+    marque: "Fun Factory"
+    url_officielle: "https://funfactory.com/"
+    note: 8.8
+    type: "Premium German brand, silicone and Share strapless"
+    prix: "Premium, from ~€55"
+    prix_valeur: 55
+    prix_devise: "EUR"
+    positionnement: "the best premium European strapless, outside specialist brands"
+    specs:
+      "Strap-on specialist": "non"
+      "Medical silicone": "oui"
+      "Strapless model": "oui"
+      "French brand": "non"
+    avantages:
+      - "High-quality medical silicone, careful German manufacturing"
+      - "Recognised Share and Share Lite strapless range, award-winning design"
+      - "Good availability in Europe and durable finishes"
+    inconvenients:
+      - "Generalist pleasure brand, not a strap-on and pegging specialist"
+      - "Smaller harness and pegging accessory catalogue than Strap-on-me"
+  - rang: 3
+    nom: "Tantus"
+    cat: "us"
+    slug: "tantus"
+    logo: "/images/logos/tantus.png"
+    image: "/images/logos/tantus.png"
+    marque: "Tantus"
+    url_officielle: "https://tantususa.com/"
+    note: 8.5
+    type: "American brand, dildos and strapless in 100% silicone"
+    prix: "Premium (imported)"
+    prix_valeur: 0
+    prix_devise: "EUR"
+    positionnement: "the best silicone quality, especially on dildos and the Feeldoe strapless"
+    specs:
+      "Strap-on specialist": "non"
+      "Medical silicone": "oui"
+      "Strapless model": "oui"
+      "French brand": "non"
+    avantages:
+      - "Superior silicone quality, made in the USA, recognised durability"
+      - "Historic Feeldoe strapless and a wide choice of flared-base dildos compatible with harnesses"
+      - "Non-porous material that is easy to sterilise, ideal for long-term use"
+    inconvenients:
+      - "Imported brand, prices and lead times vary by French reseller"
+      - "Focused on dildos more than on complete harness systems"
+  - rang: 4
+    nom: "Sportsheets"
+    cat: "us"
+    slug: "sportsheets"
+    logo: "/images/logos/sportsheets.png"
+    image: "/images/comparatifs/marque-strap-on/sportsheets.webp"
+    marque: "Sportsheets"
+    url_officielle: "https://sportsheets.com/"
+    note: 8.2
+    type: "American brand specialising in harnesses and strap-on kits"
+    prix: "Affordable"
+    prix_valeur: 0
+    prix_devise: "EUR"
+    positionnement: "the best value for money on accessible harnesses and kits"
+    specs:
+      "Strap-on specialist": "oui"
+      "Medical silicone": "option"
+      "Strapless model": "non"
+      "French brand": "non"
+    avantages:
+      - "Recognised harness and strap-on kit specialist, broad and accessible range"
+      - "Adjustable strap harnesses compatible with most flared-base dildos"
+      - "Good entry point to start pegging without a big budget"
+    inconvenients:
+      - "Material quality varies by model, silicone is not systematic"
+      - "No flagship strapless, brand imported from the United States"
+  - rang: 5
+    nom: "Lovehoney"
+    cat: "eu"
+    slug: "lovehoney"
+    logo: "/images/logos/lovehoney.png"
+    image: "/images/logos/lovehoney.png"
+    marque: "Lovehoney"
+    url_officielle: "https://www.lovehoney.com/"
+    note: 7.9
+    type: "British mass-market retailer, Desire range and beginner kits"
+    prix: "Budget-friendly"
+    prix_valeur: 0
+    prix_devise: "EUR"
+    positionnement: "the most accessible mass-market brand to get equipped affordably"
+    specs:
+      "Strap-on specialist": "non"
+      "Medical silicone": "option"
+      "Strapless model": "oui"
+      "French brand": "non"
+    avantages:
+      - "Very broad catalogue and aggressive entry-level prices"
+      - "Complete beginner kits with a dildo and several interchangeable rings"
+      - "Strong availability and fast delivery across Europe"
+    inconvenients:
+      - "Generalist retailer, not a strap-on specialist, quality varies by range"
+      - "Less pegging expertise and fewer premium finishes than Strap-on-me"
