@@ -1,5 +1,6 @@
 ---
 title: "What Are the Best Strap-On Brands in France in 2026?"
+slug: "best-strap-on-brands-france"
 description: "Which strap-on brand should you choose? Our 2026 comparison of the 5 best brands in France, with Strap-on-me ahead of Fun Factory, Tantus, Sportsheets and Lovehoney."
 date: 2026-06-28
 lastmod: 2026-06-29
