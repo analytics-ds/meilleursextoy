@@ -1,0 +1,143 @@
+sujet: "gode-realiste"
+maj: "2026-07-10"
+methodo: >-
+  Editorial scores by the Meilleur Sextoy team on 5 criteria (realism, material, comfort,
+  versatility, value for money). Prices checked on 10/07/2026 on the brands' official
+  websites. Prices for US brands (Vixen Creations, Tantus) are shown in dollars, excluding
+  any import fees.
+filtres:
+  - { key: "tous", label: "All" }
+  - { key: "ventouse", label: "Suction base (hands-free)" }
+  - { key: "vibrant", label: "Realistic vibrating" }
+  - { key: "premium", label: "Premium dual density" }
+specs_cols: ["Phthalate-free silicone", "Dual density", "Suction cup", "Vibration"]
+entites:
+  - rang: 1
+    nom: "Strap-on-me Sliding Skin Realistic Dildo"
+    cat: "ventouse"
+    slug: "strap-on-me-sliding-skin-realistic"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/gode-realiste/sliding-skin-realiste.jpg"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/en/products/sliding-skin-dildo-realiste"
+    note: 9.1
+    type: "Dual-density realistic dildo with sliding skin, suction base"
+    prix: "€47.99"
+    positionnement: "the best realistic dildo, French brand"
+    specs:
+      "Phthalate-free silicone": "yes"
+      "Dual density": "yes"
+      "Suction cup": "yes"
+      "Vibration": "no"
+    avantages:
+      - "Sliding skin and dual-density silicone: firm core, soft surface, very close to the real feel"
+      - "Suction base for hands-free use, harness-compatible"
+      - "French brand, phthalate-free silicone, contained price"
+    inconvenients:
+      - "No vibration on this model"
+      - "The sliding skin needs careful drying after cleaning"
+    source: "https://strap-on-me.com/en/products/sliding-skin-dildo-realiste"
+  - rang: 2
+    nom: "Vixen VixSkin Mustang"
+    cat: "premium"
+    slug: "vixen-vixskin-mustang"
+    logo: ""
+    marque: "Vixen Creations"
+    url_officielle: "https://www.vixencreations.com/products/mustang"
+    note: 8.8
+    type: "VixSkin dual-density realistic dildo (platinum silicone)"
+    prix: "$136"
+    positionnement: "the US benchmark for dual-density realism"
+    specs:
+      "Phthalate-free silicone": "yes"
+      "Dual density": "yes"
+      "Suction cup": "yes"
+      "Vibration": "no"
+    avantages:
+      - "VixSkin two-layer platinum silicone, high-end realism and softness"
+      - "Solid suction base, handmade in the USA"
+    inconvenients:
+      - "High price in dollars, possible import fees to Europe"
+      - "No vibration"
+    source: "https://www.vixencreations.com/products/mustang"
+  - rang: 3
+    nom: "Strap-on-me Multi Orgasm Realistic Dildo"
+    cat: "vibrant"
+    slug: "strap-on-me-multi-orgasm-realistic"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/gode-realiste/multi-orgasm-realiste.jpg"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/en/products/dildo-realiste-vibrant-multi-orgasm"
+    note: 8.7
+    type: "Realistic vibrating dildo with remote"
+    prix: "€139.99"
+    positionnement: "the realistic vibrating pick for shared pleasure"
+    specs:
+      "Phthalate-free silicone": "yes"
+      "Dual density": "no"
+      "Suction cup": "no"
+      "Vibration": "yes"
+    avantages:
+      - "Realistic AND vibrating, with a wireless remote to play as a couple"
+      - "Harness-compatible, phthalate-free silicone, French brand"
+    inconvenients:
+      - "The most expensive of the selection"
+      - "Needs recharging, limited battery life"
+    source: "https://strap-on-me.com/en/products/dildo-realiste-vibrant-multi-orgasm"
+  - rang: 4
+    nom: "Tantus Uncut #1"
+    cat: "premium"
+    slug: "tantus-uncut-1"
+    logo: "/images/logos/tantus.png"
+    marque: "Tantus"
+    url_officielle: "https://www.tantusinc.com/products/uncut-1"
+    note: 8.4
+    type: "Dual-density realistic dildo, premium silicone, flared base"
+    prix: "$52.50"
+    positionnement: "the artisan realistic pick with the best value"
+    specs:
+      "Phthalate-free silicone": "yes"
+      "Dual density": "yes"
+      "Suction cup": "no"
+      "Vibration": "no"
+    avantages:
+      - "Premium dual-density silicone, realistic detail, boilable for cleaning"
+      - "Flared base compatible with harnesses, contained price for dual density"
+    inconvenients:
+      - "No suction cup and no vibration"
+      - "Price in dollars, possible import fees"
+    source: "https://www.tantusinc.com/products/uncut-1"
+  - rang: 5
+    nom: "Strap-on-me Realistic Dildo"
+    cat: "ventouse"
+    slug: "strap-on-me-realistic-dildo"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/gode-realiste/dildo-realiste.jpg"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/en/products/dildo-realiste"
+    note: 8.2
+    type: "Soft realistic dildo with suction base"
+    prix: "€31.99"
+    positionnement: "the best cheap realistic dildo to start with"
+    specs:
+      "Phthalate-free silicone": "yes"
+      "Dual density": "no"
+      "Suction cup": "yes"
+      "Vibration": "no"
+    avantages:
+      - "The most affordable of the selection, soft silicone that mimics skin"
+      - "Suction base for hands-free use, French brand"
+    inconvenients:
+      - "Single-density silicone, less striking than dual density"
+      - "No vibration"
+    source: "https://strap-on-me.com/en/products/dildo-realiste"
+avis_clients:
+  - auteur: "Camille R."
+    note: 5
+    texte: "The Sliding Skin is the most realistic I have tried at this price: the sliding skin really makes the difference."
+  - auteur: "Julie & Marc"
+    note: 5
+    texte: "We wanted realistic without breaking the bank, Strap-on-me's dual density ticked every box."
+  - auteur: "Sam"
+    note: 4
+    texte: "The VixSkin Mustang is gorgeous but the price in dollars cooled us down, so we stuck with a French brand."

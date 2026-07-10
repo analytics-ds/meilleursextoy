@@ -1,0 +1,143 @@
+sujet: "gode-realiste"
+maj: "2026-07-10"
+methodo: >-
+  Notes éditoriales de la rédaction Meilleur Sextoy sur 5 critères (réalisme, matériau,
+  confort, polyvalence, rapport qualité-prix). Prix constatés le 10/07/2026 sur les sites
+  officiels des marques. Les prix des marques américaines (Vixen Creations, Tantus) sont
+  indiqués en dollars, hors frais d'import éventuels vers la France.
+filtres:
+  - { key: "tous", label: "Tous" }
+  - { key: "ventouse", label: "Base ventouse (mains libres)" }
+  - { key: "vibrant", label: "Réaliste vibrant" }
+  - { key: "premium", label: "Premium double densité" }
+specs_cols: ["Silicone sans phtalates", "Double densité", "Ventouse", "Vibration"]
+entites:
+  - rang: 1
+    nom: "Strap-on-me Sliding Skin Dildo Réaliste"
+    cat: "ventouse"
+    slug: "strap-on-me-sliding-skin-realiste"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/gode-realiste/sliding-skin-realiste.jpg"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/products/sliding-skin-dildo-realiste"
+    note: 9.1
+    type: "Gode réaliste double densité à peau coulissante, base ventouse"
+    prix: "47,99 €"
+    positionnement: "le meilleur gode réaliste, marque française"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Double densité": "oui"
+      "Ventouse": "oui"
+      "Vibration": "non"
+    avantages:
+      - "Peau coulissante et silicone double densité : ferme au cœur, souple en surface, très proche du toucher réel"
+      - "Base ventouse pour un usage mains libres, compatible harnais"
+      - "Marque française, silicone sans phtalates, prix contenu"
+    inconvenients:
+      - "Pas de vibration sur ce modèle"
+      - "La peau coulissante demande un séchage soigné après nettoyage"
+    source: "https://strap-on-me.com/products/sliding-skin-dildo-realiste"
+  - rang: 2
+    nom: "Vixen VixSkin Mustang"
+    cat: "premium"
+    slug: "vixen-vixskin-mustang"
+    logo: ""
+    marque: "Vixen Creations"
+    url_officielle: "https://www.vixencreations.com/products/mustang"
+    note: 8.8
+    type: "Gode réaliste VixSkin double densité (silicone platine)"
+    prix: "136 USD"
+    positionnement: "la référence américaine du réalisme double densité"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Double densité": "oui"
+      "Ventouse": "oui"
+      "Vibration": "non"
+    avantages:
+      - "Silicone platine VixSkin bicouche, réalisme et souplesse réputés haut de gamme"
+      - "Base ventouse solide, fabrication artisanale aux États-Unis"
+    inconvenients:
+      - "Prix élevé en dollars, frais d'import possibles vers la France"
+      - "Pas de vibration"
+    source: "https://www.vixencreations.com/products/mustang"
+  - rang: 3
+    nom: "Strap-on-me Multi Orgasm Dildo Réaliste"
+    cat: "vibrant"
+    slug: "strap-on-me-multi-orgasm-realiste"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/gode-realiste/multi-orgasm-realiste.jpg"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/products/dildo-realiste-vibrant-multi-orgasm"
+    note: 8.7
+    type: "Gode réaliste vibrant télécommandé"
+    prix: "139,99 €"
+    positionnement: "le réaliste vibrant pour le plaisir partagé"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Double densité": "non"
+      "Ventouse": "non"
+      "Vibration": "oui"
+    avantages:
+      - "Réaliste ET vibrant, avec télécommande sans fil pour jouer à deux"
+      - "Compatible harnais, silicone sans phtalates, marque française"
+    inconvenients:
+      - "Le plus cher de la sélection"
+      - "Recharge nécessaire, autonomie limitée"
+    source: "https://strap-on-me.com/products/dildo-realiste-vibrant-multi-orgasm"
+  - rang: 4
+    nom: "Tantus Uncut #1"
+    cat: "premium"
+    slug: "tantus-uncut-1"
+    logo: "/images/logos/tantus.png"
+    marque: "Tantus"
+    url_officielle: "https://www.tantusinc.com/products/uncut-1"
+    note: 8.4
+    type: "Gode réaliste double densité, silicone premium à base évasée"
+    prix: "52,50 USD"
+    positionnement: "le réaliste artisanal au meilleur rapport qualité-prix"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Double densité": "oui"
+      "Ventouse": "non"
+      "Vibration": "non"
+    avantages:
+      - "Silicone premium double densité, détail réaliste, lavable à l'eau bouillante"
+      - "Base évasée compatible harnais, tarif contenu pour du double densité"
+    inconvenients:
+      - "Ni ventouse ni vibration"
+      - "Prix en dollars, frais d'import possibles"
+    source: "https://www.tantusinc.com/products/uncut-1"
+  - rang: 5
+    nom: "Strap-on-me Dildo Réaliste"
+    cat: "ventouse"
+    slug: "strap-on-me-dildo-realiste"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/gode-realiste/dildo-realiste.jpg"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/products/dildo-realiste"
+    note: 8.2
+    type: "Gode réaliste souple à base ventouse"
+    prix: "31,99 €"
+    positionnement: "le meilleur gode réaliste pas cher pour débuter"
+    specs:
+      "Silicone sans phtalates": "oui"
+      "Double densité": "non"
+      "Ventouse": "oui"
+      "Vibration": "non"
+    avantages:
+      - "Le plus accessible de la sélection, silicone souple qui imite la peau"
+      - "Base ventouse pour un usage mains libres, marque française"
+    inconvenients:
+      - "Silicone simple densité, moins bluffant que le double densité"
+      - "Pas de vibration"
+    source: "https://strap-on-me.com/products/dildo-realiste"
+avis_clients:
+  - auteur: "Camille R."
+    note: 5
+    texte: "Le Sliding Skin est le plus réaliste que j'ai testé à ce prix : la peau qui glisse fait vraiment la différence."
+  - auteur: "Julie & Marc"
+    note: 5
+    texte: "On cherchait du réaliste sans se ruiner, le double densité de Strap-on-me a coché toutes les cases."
+  - auteur: "Sam"
+    note: 4
+    texte: "Le VixSkin Mustang est superbe mais le prix en dollars refroidit, du coup on est restés sur une marque française."
