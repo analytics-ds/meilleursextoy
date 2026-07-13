@@ -215,6 +215,20 @@ Produire le fichier `content/en/blog/[slug-en].md`.
 
 ## Etape 9 — Build Hugo et verification
 
+### 9.0 Installer Hugo extended (meme version que la prod)
+
+Le sandbox cloud n'a PAS Hugo pre-installe, et `apt` fournit une version trop ancienne (0.123.x) qui fait echouer le build de certains sites du reseau (ex: sites multilingues avec `locale` par langue). Avant de builder, installer la MEME version que le deploiement GitHub Actions du reseau, **Hugo extended v0.161.1** :
+
+```bash
+wget -q -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.161.1/hugo_extended_0.161.1_linux-amd64.deb \
+  && (sudo dpkg -i /tmp/hugo.deb 2>/dev/null || { dpkg-deb -x /tmp/hugo.deb /tmp/hugobin && export PATH="/tmp/hugobin/usr/local/bin:$PATH"; })
+hugo version   # doit afficher v0.161.1 extended
+```
+
+Si le telechargement echoue (reseau), utiliser le `hugo` deja present, mais NE PAS se rabattre sur `apt install hugo` (version cassante). La version prod exacte est dans `.github/workflows/hugo.yml` de chaque blog (champ `hugo_extended_..._linux-amd64.deb`) : s'y referer si elle a change.
+
+### 9.1 Build
+
 ```bash
 hugo
 ```
