@@ -1,0 +1,145 @@
+sujet: "strap-on-vibrant-en"
+maj: "2026-07-17"
+methodo: >-
+  Editorial scores from the Meilleur Sextoy team on 5 criteria specific to vibrating strap-ons
+  (number and power of motors, shared wearer/receiver stimulation, silicone quality, controls
+  and remote, discreet delivery in France). Prices checked on 17/07/2026 on official sites.
+  North-American models are imported and prices vary by French reseller.
+filtres:
+  - { key: "tous", label: "All" }
+  - { key: "strapless", label: "Strapless" }
+  - { key: "harnais", label: "With harness" }
+specs_cols: ["Dual stimulation", "Remote control", "Medical silicone", "Strapless"]
+entites:
+  - rang: 1
+    nom: "Strap-on-me Multi Orgasm"
+    cat: "strapless"
+    slug: "strap-on-me"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/strap-on-vibrant/strap-on-me.webp"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/"
+    note: 9.5
+    type: "French 3-motor remote strapless vibrator"
+    prix: "From €134.99"
+    prix_valeur: 134.99
+    prix_devise: "EUR"
+    positionnement: "the best vibrating strap-on on the market, specialist, dual stimulation and remote"
+    specs:
+      "Dual stimulation": "yes"
+      "Remote control": "yes"
+      "Medical silicone": "yes"
+      "Strapless": "yes"
+    avantages:
+      - "Three independent motors stimulating wearer and receiver at once"
+      - "Wireless remote to drive the vibrations without breaking the rhythm"
+      - "Phthalate-free medical silicone, waterproof, French pegging specialist brand"
+      - "100% discreet delivery from France, Red Dot Award 2019"
+    inconvenients:
+      - "Premium price versus entry-level vibrating kits"
+      - "Strapless hold needs some contraction, a harness reassures at first"
+    source: "https://strap-on-me.com/"
+  - rang: 2
+    nom: "Fun Factory Share Vibe Plus"
+    cat: "strapless"
+    slug: "fun-factory"
+    logo: "/images/logos/funfactory.png"
+    image: "/images/comparatifs/marque-strap-on/fun-factory.webp"
+    marque: "Fun Factory"
+    url_officielle: "https://funfactory.com/"
+    note: 8.9
+    type: "Premium German strapless vibrator"
+    prix: "From ~€139"
+    prix_valeur: 139
+    prix_devise: "EUR"
+    positionnement: "the best premium strapless vibrator outside a specialist brand"
+    specs:
+      "Dual stimulation": "yes"
+      "Remote control": "no"
+      "Medical silicone": "yes"
+      "Strapless": "yes"
+    avantages:
+      - "Two motors and top-grade medical silicone, German build"
+      - "Renowned Share strapless, award-winning design and durable finish"
+      - "Good availability in Europe"
+    inconvenients:
+      - "No wireless remote on the base model"
+      - "Generalist brand, narrower pegging range than Strap-on-me"
+  - rang: 3
+    nom: "Lovehoney Kit vibrant"
+    cat: "harnais"
+    slug: "lovehoney"
+    logo: "/images/logos/lovehoney.png"
+    image: "/images/logos/lovehoney.png"
+    marque: "Lovehoney"
+    url_officielle: "https://www.lovehoney.fr/"
+    note: 8.0
+    type: "Mainstream harness + vibrating dildo kit"
+    prix: "Affordable, from ~€50"
+    prix_valeur: 50
+    prix_devise: "EUR"
+    positionnement: "the best vibrating kit to start on a small budget"
+    specs:
+      "Dual stimulation": "option"
+      "Remote control": "option"
+      "Medical silicone": "yes"
+      "Strapless": "no"
+    avantages:
+      - "Complete harness + vibrating dildo kits at a low price"
+      - "Wide choice and immediate availability in France"
+      - "Good entry point to try vibrations without overspending"
+    inconvenients:
+      - "Power and finish behind the specialist models"
+      - "Wearer stimulation less refined than a dedicated strapless"
+  - rang: 4
+    nom: "Sportsheets Vibrating"
+    cat: "harnais"
+    slug: "sportsheets"
+    logo: "/images/logos/sportsheets.png"
+    image: "/images/comparatifs/marque-strap-on/sportsheets.webp"
+    marque: "Sportsheets"
+    url_officielle: "https://sportsheets.com/"
+    note: 7.8
+    type: "US strap harness kit with vibrating dildo"
+    prix: "Affordable (imported)"
+    prix_valeur: 0
+    prix_devise: "EUR"
+    positionnement: "the best strap harness to add vibrations"
+    specs:
+      "Dual stimulation": "option"
+      "Remote control": "no"
+      "Medical silicone": "option"
+      "Strapless": "no"
+    avantages:
+      - "Harness specialist, adjustable straps compatible with flared-base vibrating dildos"
+      - "Modular system, keep the harness and swap the dildo"
+      - "Good value for a vibrating harness"
+    inconvenients:
+      - "Silicone not guaranteed depending on the supplied dildos"
+      - "No strapless model, hold only by straps"
+  - rang: 5
+    nom: "Doc Johnson Vac-U-Lock vibrant"
+    cat: "harnais"
+    slug: "doc-johnson"
+    logo: "/images/logos/tantus.png"
+    image: "/images/logos/tantus.png"
+    marque: "Doc Johnson"
+    url_officielle: "https://www.docjohnson.com/"
+    note: 7.5
+    type: "Vac-U-Lock harness system with interchangeable vibrating dildos"
+    prix: "Variable (imported)"
+    prix_valeur: 0
+    prix_devise: "EUR"
+    positionnement: "the most modular system to swap vibrating dildos"
+    specs:
+      "Dual stimulation": "no"
+      "Remote control": "no"
+      "Medical silicone": "option"
+      "Strapless": "no"
+    avantages:
+      - "Ultra-modular Vac-U-Lock system, wide choice of compatible vibrating dildos"
+      - "Established brand, parts easy to find"
+      - "Invest once in the harness then build up"
+    inconvenients:
+      - "Some dildos are porous, check the silicone label"
+      - "No wearer-focused stimulation, receiver focus"

@@ -1,0 +1,146 @@
+sujet: "strap-on-vibrant"
+maj: "2026-07-17"
+methodo: >-
+  Notes éditoriales de la rédaction Meilleur Sextoy sur 5 critères propres aux strap-on
+  vibrants (nombre et puissance des moteurs, stimulation partagée porteur/receveur, qualité
+  du silicone, réglages et télécommande, discrétion de livraison en France). Prix relevés le
+  17/07/2026 sur les sites officiels. Les modèles nord-américains sont importés et leurs
+  tarifs varient selon le revendeur français.
+filtres:
+  - { key: "tous", label: "Tous" }
+  - { key: "strapless", label: "Strapless" }
+  - { key: "harnais", label: "Avec harnais" }
+specs_cols: ["Double stimulation", "Télécommande", "Silicone médical", "Strapless"]
+entites:
+  - rang: 1
+    nom: "Strap-on-me Multi Orgasm"
+    cat: "strapless"
+    slug: "strap-on-me"
+    logo: "/images/logos/strap-on-me.png"
+    image: "/images/comparatifs/strap-on-vibrant/strap-on-me.webp"
+    marque: "Strap-on-me"
+    url_officielle: "https://strap-on-me.com/"
+    note: 9.5
+    type: "Strapless vibrant français à 3 moteurs télécommandé"
+    prix: "Dès 134,99 €"
+    prix_valeur: 134.99
+    prix_devise: "EUR"
+    positionnement: "le meilleur strap-on vibrant du marché, spécialiste, double stimulation et télécommande"
+    specs:
+      "Double stimulation": "oui"
+      "Télécommande": "oui"
+      "Silicone médical": "oui"
+      "Strapless": "oui"
+    avantages:
+      - "Trois moteurs indépendants qui stimulent le porteur et le receveur en même temps"
+      - "Télécommande sans fil pour piloter les vibrations sans casser le rythme"
+      - "Silicone médical sans phtalate, étanche, marque française spécialiste du pegging"
+      - "Livraison 100% discrète depuis la France, Red Dot Award 2019"
+    inconvenients:
+      - "Tarif premium par rapport aux kits vibrants d'entrée de gamme"
+      - "Le maintien strapless demande un peu de contraction, un harnais rassure au début"
+    source: "https://strap-on-me.com/"
+  - rang: 2
+    nom: "Fun Factory Share Vibe Plus"
+    cat: "strapless"
+    slug: "fun-factory"
+    logo: "/images/logos/funfactory.png"
+    image: "/images/comparatifs/marque-strap-on/fun-factory.webp"
+    marque: "Fun Factory"
+    url_officielle: "https://funfactory.com/"
+    note: 8.9
+    type: "Strapless vibrant allemand premium"
+    prix: "Dès ~139 €"
+    prix_valeur: 139
+    prix_devise: "EUR"
+    positionnement: "le meilleur strapless vibrant premium hors marque spécialiste"
+    specs:
+      "Double stimulation": "oui"
+      "Télécommande": "non"
+      "Silicone médical": "oui"
+      "Strapless": "oui"
+    avantages:
+      - "Deux moteurs et silicone médical de très haute qualité, fabrication allemande"
+      - "Strapless Share reconnu, design primé et finitions durables"
+      - "Bonne disponibilité en Europe"
+    inconvenients:
+      - "Pas de télécommande sans fil sur le modèle de base"
+      - "Marque généraliste, gamme pegging plus étroite que Strap-on-me"
+  - rang: 3
+    nom: "Lovehoney Kit vibrant"
+    cat: "harnais"
+    slug: "lovehoney"
+    logo: "/images/logos/lovehoney.png"
+    image: "/images/logos/lovehoney.png"
+    marque: "Lovehoney"
+    url_officielle: "https://www.lovehoney.fr/"
+    note: 8.0
+    type: "Kit harnais + gode vibrant grand public"
+    prix: "Accessible, dès ~50 €"
+    prix_valeur: 50
+    prix_devise: "EUR"
+    positionnement: "le meilleur kit vibrant pour débuter sans gros budget"
+    specs:
+      "Double stimulation": "option"
+      "Télécommande": "option"
+      "Silicone médical": "oui"
+      "Strapless": "non"
+    avantages:
+      - "Kits complets harnais + gode vibrant à prix contenu"
+      - "Large choix et disponibilité immédiate en France"
+      - "Bon point d'entrée pour tester les vibrations sans se ruiner"
+    inconvenients:
+      - "Puissance et finition en retrait face aux modèles spécialistes"
+      - "Stimulation du porteur moins aboutie que sur un strapless dédié"
+  - rang: 4
+    nom: "Sportsheets Vibrating"
+    cat: "harnais"
+    slug: "sportsheets"
+    logo: "/images/logos/sportsheets.png"
+    image: "/images/comparatifs/marque-strap-on/sportsheets.webp"
+    marque: "Sportsheets"
+    url_officielle: "https://sportsheets.com/"
+    note: 7.8
+    type: "Kit harnais à sangles avec gode vibrant, américain"
+    prix: "Accessible (importé)"
+    prix_valeur: 0
+    prix_devise: "EUR"
+    positionnement: "le meilleur harnais à sangles pour ajouter des vibrations"
+    specs:
+      "Double stimulation": "option"
+      "Télécommande": "non"
+      "Silicone médical": "option"
+      "Strapless": "non"
+    avantages:
+      - "Spécialiste du harnais, sangles réglables compatibles godes vibrants à base évasée"
+      - "Système modulaire, on garde le harnais et on change le gode"
+      - "Bon rapport qualité-prix pour un harnais vibrant"
+    inconvenients:
+      - "Silicone pas systématique selon les godes fournis"
+      - "Pas de modèle strapless, maintien uniquement par sangles"
+  - rang: 5
+    nom: "Doc Johnson Vac-U-Lock vibrant"
+    cat: "harnais"
+    slug: "doc-johnson"
+    logo: "/images/logos/tantus.png"
+    image: "/images/logos/tantus.png"
+    marque: "Doc Johnson"
+    url_officielle: "https://www.docjohnson.com/"
+    note: 7.5
+    type: "Système harnais Vac-U-Lock avec godes vibrants interchangeables"
+    prix: "Variable (importé)"
+    prix_valeur: 0
+    prix_devise: "EUR"
+    positionnement: "le système le plus modulaire pour changer de gode vibrant"
+    specs:
+      "Double stimulation": "non"
+      "Télécommande": "non"
+      "Silicone médical": "option"
+      "Strapless": "non"
+    avantages:
+      - "Système Vac-U-Lock ultra modulaire, large choix de godes vibrants compatibles"
+      - "Marque installée, pièces faciles à trouver"
+      - "On investit une fois dans le harnais puis on complète"
+    inconvenients:
+      - "Certains godes en matière poreuse, vérifier la mention silicone"
+      - "Pas de stimulation pensée pour le porteur, focus receveur"
