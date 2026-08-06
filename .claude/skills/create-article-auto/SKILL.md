@@ -110,9 +110,11 @@ jq '{
 
 ### 1.3 Repli en cascade (ne jamais echouer sur cette etape)
 
-**Etat connu au 2026-08-06 : dans l'environnement cloud du reseau, l'egress rejette `crazyserp.com` en 403 quasi immediat (mesure a 0,72 s).** Ce n'est ni un timeout ni un souci de cle, le meme appel passe en 6 s depuis un Mac. La cause est le niveau **"Acces reseau"** de l'environnement, positionne sur "De confiance", une liste blanche curatee qui ne contient pas ce domaine. Tant qu'il n'est pas passe en acces complet, **la routine tourne en repli WebSearch**. En local, CrazySERP fonctionne normalement.
+**CrazySERP est verifie fonctionnel depuis l'environnement cloud du reseau** (mesure du 2026-08-06 : HTTP 200, `params.location` = France, 1 credit, 9 organiques, 4 PAA). C'est la source nominale.
 
-Consequence pratique : tenter CrazySERP quand meme, puis **basculer des le premier echec, sans insister ni retenter**.
+**Piege a connaitre si ca se remet a echouer** : au premier essai, l'egress rejetait `crazyserp.com` en **403 quasi immediat** (0,72 s), parce que le niveau **"Acces reseau"** de l'environnement etait sur "De confiance", une liste blanche curatee qui ne contient pas ce domaine. Le passage en acces complet a suffi. Devant un 403 instantane, **regarder ce reglage avant toute autre piste**, ce n'est ni un timeout ni un souci de cle.
+
+Le repli ci-dessous reste actif dans tous les cas, et il faut **basculer des le premier echec, sans insister ni retenter**.
 
 1. **CrazySERP repond** : cas nominal.
 2. **CrazySERP renvoie 402 (credits insuffisants)** : ne pas basculer silencieusement. Loguer `CRAZYSERP 402 credits epuises`, continuer en repli WebSearch, et le signaler dans le message de commit pour que Damien le voie.
