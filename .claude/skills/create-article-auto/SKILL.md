@@ -16,17 +16,17 @@ Elle est destinee a etre declenchee par une routine planifiee (ex: 2x/semaine a 
 - `data/authors.yaml` present (systeme d'auteurs partage).
 - `content/blog/` existe (peut etre vide pour un premier article).
 - Remote git `origin` configure, acces push.
-- Outil `WebSearch` disponible (recommande, execute cote serveur donc non soumis aux restrictions reseau du sandbox). S'il est absent, la skill degrade en mode "kw seul" sans echouer.
+- Cle `CRAZYSERP_API_KEY` exportee par le prompt de la routine (source SERP nominale). Outil `WebSearch` disponible en repli. Si les deux manquent, la skill degrade en mode "kw seul" sans echouer.
 
 ## Philosophie : full auto, pas de human in the loop
 
 Aucune question a l'utilisateur. Toutes les decisions sont prises par l'agent a partir de :
 - Le mot-cle de la roadmap
-- L'analyse du sujet via `WebSearch` (ou le kw seul si WebSearch indispo)
+- L'analyse SERP via CrazySERP (ou WebSearch en repli, ou le kw seul en mode degrade)
 - Le contexte du site (CLAUDE.md du blog, authors.yaml, hugo.toml)
 - Les articles deja publies (scan `content/blog/`)
 
-Si une etape bloque (image introuvable, build Hugo echoue, push rejete apres rebase), l'agent **n'insiste pas** : il marque l'entree `status: failed` dans la roadmap avec le message d'erreur, commit le roadmap, et sort proprement en exit code non-zero. **Exception : l'indisponibilite de WebSearch n'est PAS un motif d'echec** (voir Etape 1), on continue en mode degrade.
+Si une etape bloque (image introuvable, build Hugo echoue, push rejete apres rebase), l'agent **n'insiste pas** : il marque l'entree `status: failed` dans la roadmap avec le message d'erreur, commit le roadmap, et sort proprement en exit code non-zero. **Exception : l'indisponibilite de la source SERP n'est PAS un motif d'echec** (voir Etape 1), CrazySERP puis WebSearch puis mode degrade, on publie dans tous les cas.
 
 ## Pas de quota hebdomadaire (regle exemptee)
 
@@ -46,7 +46,7 @@ Le seul critere d'eligibilite est defini a l'Etape 0 : `status == todo` et `sche
 | FAQ | Toujours (3+) | Seulement si le sujet s'y prete (questions vues en recherche) |
 | "En bref" numerote | Oui (GEO) | Non |
 | Source KW | Demande a l'utilisateur | Lit `roadmap.yaml` |
-| Analyse concurrents | Manuelle ou absente | Automatique via `WebSearch` (titres + snippets), sans SerpAPI |
+| Analyse concurrents | Manuelle ou absente | Automatique via CrazySERP (organiques, PAA, AI Overview, volume), repli WebSearch |
 | Validation | Humaine a chaque etape | Aucune |
 
 ## Etape 0 — Selection de l'entree roadmap
@@ -66,32 +66,77 @@ Le seul critere d'eligibilite est defini a l'Etape 0 : `status == todo` et `sche
 
 L'entree selectionnee fournit : `kw`, `category`, `scheduled_date`.
 
-## Etape 1 — Analyse du sujet via WebSearch (sans SerpAPI)
+## Etape 1 — Analyse SERP via CrazySERP (repli WebSearch)
 
-Cette skill **n'utilise plus SerpAPI**. L'analyse du paysage concurrentiel se fait avec l'outil natif `WebSearch`, execute cote serveur Anthropic (donc non soumis au proxy d'egress reseau du sandbox cloud). Aucune cle API, aucun curl externe.
+L'analyse du paysage concurrentiel passe par l'**API CrazySERP de datashake**. Un seul appel renvoie les resultats organiques, les People Also Ask, les recherches associees, l'AI Overview complete et le volume de recherche mensuel. La cle est fournie dans le prompt de la routine (variable `CRAZYSERP_API_KEY`) et **ne doit jamais etre ecrite dans le repo** : les repos du reseau sont publics.
 
-### 1.1 Recherche WebSearch
+### 1.1 Appel
 
-1. Lancer un `WebSearch` sur le `kw` de la roadmap (formule en francais).
-2. Optionnel selon le sujet : 1 a 2 recherches complementaires pour elargir le champ, par exemple `"<kw> avis"`, `"comparatif <kw>"`, `"meilleur <kw>"` ou `"<kw> guide"`. Se limiter a 3 WebSearch maximum par article.
-3. Recuperer de chaque resultat : **titre, URL, extrait (snippet)**. Ce sont les seules donnees exploitees.
+```bash
+curl -s --max-time 240 -G "https://crazyserp.com/api/search" \
+  --data-urlencode "q=<kw>" \
+  --data-urlencode "gl=fr" \
+  --data-urlencode "hl=fr" \
+  --data-urlencode "location=France" \
+  --data-urlencode "page=1" \
+  -H "Authorization: Bearer $CRAZYSERP_API_KEY" \
+  -o /tmp/serp.json
+```
 
-**Repli si WebSearch est indisponible dans l'environnement** : NE PAS marquer `failed`. Continuer en **mode degrade** : l'analyse se fait uniquement a partir du `kw`, de la `category` et du contexte editorial du blog (CLAUDE.md). L'article est quand meme produit et publie. Noter "WebSearch indispo, mode degrade" dans le log.
+Points de vigilance, tous verifies en production :
 
-### 1.2 Ne pas ouvrir les pages concurrentes
+- **`--max-time 240` est obligatoire.** Une requete que CrazySERP n'a jamais scrapee prend de 60 s a plusieurs minutes, il scrape en direct. Un timeout court perd le credit sans rien recuperer.
+- **`location=France` et rien d'autre** pour un ciblage national. Ne jamais ecrire `Paris,France` : ce format resout silencieusement vers `Paris,Ontario,Canada`.
+- **Relire `params.location` et `credits_used`** dans la reponse. Ce sont les deux champs qui trahissent un appel parti de travers.
+- **Ne pas utiliser `tbm`** (`nws`, `isch`, `vid`) : renvoie 0 resultat tout en debitant un credit.
+- Un seul appel par article, `page=1`. Le top 10 suffit pour rediger.
 
-Ne **PAS** utiliser `WebFetch` sur les URLs concurrentes : dans le sandbox cloud les domaines commerciaux sont bloques par la politique reseau (403/503). L'analyse se fait uniquement sur les **titres et snippets** renvoyes par `WebSearch`.
+### 1.2 Extraction
 
-### 1.3 Synthese auto (aucun output humain, juste des variables internes)
+```bash
+jq '{
+  volume:   .volume.yearly_data[0].total_volume,
+  aio:      .parsed_data.has_ai_overview,
+  aio_txt:  .parsed_data.ai_overview.content,
+  organic:  [.parsed_data.organic[]? | {position, title, description, url}],
+  paa:      [.parsed_data.people_also_ask[]? | .question],
+  related:  [.parsed_data.related[]? | .query],
+  snippet:  .parsed_data.featured_snippet,
+  stats:    .stats
+}' /tmp/serp.json
+```
 
-L'agent determine a partir des resultats WebSearch (ou du `kw` seul en mode degrade) :
-- **Intention de recherche** : inferee du pattern recurrent des titres du top des resultats (informationnelle, transactionnelle, comparative, etc.)
-- **Angles concurrents** : sous-themes qui reviennent dans les titres et snippets (ex: prix, comparatif, avis, guide, duree de vie...)
-- **Champ semantique** : mots recurrents dans les titres et snippets
-- **FAQ pertinente ?** : vrai si les resultats font ressortir des questions recurrentes (formulations interrogatives dans les titres/snippets, "comment", "pourquoi", "quel", "combien"...). En mode degrade : juger selon la nature du sujet.
-- **Longueur cible** : 1500-2000 mots par defaut (cible raisonnable pour un article evergreen qualitatif)
-- **Tableau pertinent ?** : vrai par defaut pour les requetes a intention comparative (mots "meilleur", "top", "vs", "ou", "comparatif" dans le kw ou les titres), false sinon
-- **Si FAQ pertinente** : construire 4-6 questions a partir des themes/questions vus dans les resultats, retirer les doublons, reformuler (pas de copie mot pour mot)
+`jq` n'est pas toujours present dans le sandbox : en cas d'absence, faire la meme extraction en `python3`.
+
+### 1.3 Repli en cascade (ne jamais echouer sur cette etape)
+
+**Etat connu au 2026-08-06 : dans l'environnement cloud du reseau, l'egress rejette `crazyserp.com` en 403 quasi immediat (mesure a 0,72 s).** Ce n'est ni un timeout ni un souci de cle, le meme appel passe en 6 s depuis un Mac. La cause est le niveau **"Acces reseau"** de l'environnement, positionne sur "De confiance", une liste blanche curatee qui ne contient pas ce domaine. Tant qu'il n'est pas passe en acces complet, **la routine tourne en repli WebSearch**. En local, CrazySERP fonctionne normalement.
+
+Consequence pratique : tenter CrazySERP quand meme, puis **basculer des le premier echec, sans insister ni retenter**.
+
+1. **CrazySERP repond** : cas nominal.
+2. **CrazySERP renvoie 402 (credits insuffisants)** : ne pas basculer silencieusement. Loguer `CRAZYSERP 402 credits epuises`, continuer en repli WebSearch, et le signaler dans le message de commit pour que Damien le voie.
+3. **CrazySERP injoignable** (403 de l'egress, timeout, DNS) : basculer sur `WebSearch`, execute cote serveur Anthropic donc non soumis a la politique reseau du sandbox. Maximum 3 recherches sur le `kw`, en exploitant uniquement titres et snippets.
+4. **WebSearch aussi indisponible** : mode degrade, analyse a partir du seul `kw`, de la `category` et du contexte editorial du `CLAUDE.md`. **Publier quand meme.**
+
+Noter dans le log et dans la ligne ajoutee a `MEMORY.md` le mode reellement utilise : `crazyserp`, `websearch` ou `degrade`.
+
+### 1.4 Ne pas ouvrir les pages concurrentes
+
+Ne **PAS** utiliser `WebFetch` sur les URLs concurrentes : dans le sandbox cloud les domaines commerciaux sont bloques par la politique reseau (403/503). L'analyse se fait uniquement sur les titres, descriptions, PAA et AI Overview renvoyes par l'API.
+
+### 1.5 Synthese auto (aucun output humain, juste des variables internes)
+
+L'agent determine :
+
+- **Intention de recherche** : inferee du pattern recurrent des titres du top 10 (informationnelle, definitionnelle, comparative, transactionnelle).
+- **Angles concurrents** : sous-themes qui reviennent dans les titres et les descriptions (prix, comparatif, avis, guide, duree de vie...).
+- **Champ semantique** : termes recurrents, plus `parsed_data.highlights` si present, ce sont les termes que Google met en gras.
+- **FAQ pertinente ?** : construire 4 a 6 questions a partir des `people_also_ask`, **toujours reformulees**, jamais copiees mot pour mot. S'il y a moins de 4 PAA, completer avec les `related` transformees en questions. En repli WebSearch ou en mode degrade, juger selon la nature du sujet.
+- **Longueur cible** : 1500 a 2000 mots.
+- **Tableau pertinent ?** : vrai si le `kw` ou les titres du top contiennent "meilleur", "top", "vs", "ou", "comparatif", "prix", "tarif". Faux sinon.
+- **Volume de recherche** : `volume.yearly_data[0].total_volume` est offert dans le meme appel. Purement informatif, il ne change pas la decision de publier.
+- **AI Overview** : si `has_ai_overview` est vrai, lire `ai_overview.content`. Les sous-questions qu'elle traite indiquent ce que Google considere comme le noyau du sujet, les couvrir explicitement dans la structure Hn. **Ne jamais recopier le texte de l'AIO.** Noter dans le log `AIO : Declenchee` ou `AIO : Non declenchee`.
 
 ## Etape 2 — Title et meta description (regles pixel inline)
 
@@ -225,7 +270,15 @@ wget -q -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.1
 hugo version   # doit afficher v0.161.1 extended
 ```
 
-Si le telechargement echoue (reseau), utiliser le `hugo` deja present, mais NE PAS se rabattre sur `apt install hugo` (version cassante). La version prod exacte est dans `.github/workflows/hugo.yml` de chaque blog (champ `hugo_extended_..._linux-amd64.deb`) : s'y referer si elle a change.
+**Repli si le telechargement GitHub echoue (403 proxy / repo hors scope de la session)** : dans le sandbox cloud, l'egress proxy peut bloquer les telechargements directs depuis `github.com/gohugoio/hugo/releases` (repo hors du scope GitHub de la session, non debloquable via `add_repo` car cross-owner). Se rabattre sur le wrapper npm `hugo-extended`, qui recupere le meme binaire a l'installation et passe generalement le proxy (registry npm autorise) :
+
+```bash
+mkdir -p /tmp/hugobin-npm && cd /tmp/hugobin-npm && npm init -y >/dev/null 2>&1 && npm install hugo-extended@0.161.1
+export PATH="/tmp/hugobin-npm/node_modules/.bin:$PATH"
+hugo version   # doit afficher v0.161.1 extended
+```
+
+Si les deux methodes echouent, utiliser le `hugo` deja present, mais NE PAS se rabattre sur `apt install hugo` (version cassante). La version prod exacte est dans `.github/workflows/hugo.yml` de chaque blog (champ `hugo_extended_..._linux-amd64.deb`) : s'y referer si elle a change.
 
 ### 9.1 Build
 
