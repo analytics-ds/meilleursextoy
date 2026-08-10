@@ -52,7 +52,7 @@ Every origin claim in the table uses the wording each brand puts on its own site
 
 It is the only one of the three built around a practice rather than an object. The brand covers dildos, strap-ons, harnesses and accessories, which lets you buy a coherent set instead of assembling parts from three makers. It states that **all of its dildos are designed in France**, under a specification requiring medical grade silicone with no phthalates.
 
-It is the logical pick if you want a harness compatible dildo, a model built for pegging, or simply a range where sizes and diameters follow on from each other. It is also the only one of the three offering vibrating models.
+It is the logical pick if you want a harness compatible dildo, a model built for pegging, or simply a range where sizes and diameters follow on from each other. It is also the only one of the three offering vibrating models. If realism matters to you more than origin, our guide to the [best realistic dildo](/en/blog/meilleur-gode-realiste/) covers it in depth, and the [best strap-on dildo](/en/blog/meilleur-gode-ceinture/) guide if pegging is the goal.
 
 Conversely, if your first criterion is a workshop on French soil, the brand does not claim that, and you should know it.
 
@@ -72,7 +72,7 @@ Best kept for someone who already knows what they like, not for a first purchase
 
 This needs saying plainly, because the French argument is often sold as a health guarantee: **where the workshop sits does not make a dildo safer**. What matters comes down to three points.
 
-**Material** first. Medical grade silicone, borosilicate glass or steel: three non porous materials that do not harbour bacteria and genuinely clean up. At the other end, PVC, jelly and soft TPE are porous and age badly.
+**Material** first. Medical grade silicone, borosilicate glass or steel: three non porous materials that do not harbour bacteria and genuinely clean up. At the other end, PVC, jelly and soft TPE are porous and age badly. What matters next is upkeep: our guide to [cleaning a sex toy](/en/blog/nettoyer-sextoy/) covers what changes from one material to the next.
 
 **No phthalates** next, and it should be written down. A serious brand states it without you having to hunt for it.
 

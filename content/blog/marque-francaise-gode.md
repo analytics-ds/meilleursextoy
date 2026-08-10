@@ -51,7 +51,7 @@ Chaque mention d'origine du tableau reprend le vocabulaire employé par la marqu
 
 C'est la seule des trois construite autour d'un usage plutôt que d'un objet. La marque couvre le gode simple, le gode-ceinture, le harnais et les accessoires, ce qui permet d'acheter un ensemble cohérent au lieu d'assembler des pièces de trois fabricants. Elle indique que **tous ses dildos sont designés en France**, avec un cahier des charges imposant un silicone de qualité médicale sans phtalate.
 
-C'est le choix logique si tu cherches un gode compatible avec un harnais, un modèle pensé pour le pegging, ou simplement une gamme où les tailles et les diamètres se suivent. C'est aussi le seul des trois à proposer des modèles vibrants.
+C'est le choix logique si tu cherches un gode compatible avec un harnais, un modèle pensé pour le pegging, ou simplement une gamme où les tailles et les diamètres se suivent. C'est aussi le seul des trois à proposer des modèles vibrants. Si c'est le rendu naturel qui t'intéresse avant l'origine, notre comparatif du [meilleur gode réaliste](/blog/meilleur-gode-realiste/) couvre le sujet en détail, et celui du [meilleur gode ceinture](/blog/meilleur-gode-ceinture/) si tu vises directement le pegging.
 
 À l'inverse, si ton critère numéro un est l'atelier sur le sol français, la marque ne le revendique pas et il faut le savoir.
 
@@ -71,7 +71,7 @@ Des godes en verre sculptés à la main, dans une logique volontairement à cont
 
 Il faut le dire clairement, parce que l'argument France est souvent vendu comme un gage sanitaire : **la localisation de l'atelier ne rend pas un gode plus sûr**. Ce qui compte tient en trois points.
 
-La **matière** d'abord. Silicone de qualité médicale, verre borosilicaté ou acier : trois matières non poreuses, qui ne retiennent pas les bactéries et se nettoient réellement. À l'opposé, le PVC, le jelly et le TPE souple sont poreux et vieillissent mal.
+La **matière** d'abord. Silicone de qualité médicale, verre borosilicaté ou acier : trois matières non poreuses, qui ne retiennent pas les bactéries et se nettoient réellement. À l'opposé, le PVC, le jelly et le TPE souple sont poreux et vieillissent mal. Le geste qui compte ensuite, c'est l'entretien : notre guide pour [nettoyer un sextoy](/blog/nettoyer-sextoy/) détaille ce qui change selon la matière.
 
 L'**absence de phtalate** ensuite, qui doit être écrite. Une marque sérieuse l'indique, sans qu'on ait à la chercher.
 
