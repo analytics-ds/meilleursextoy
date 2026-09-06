@@ -96,3 +96,29 @@ Si le réalisme visuel fait partie de ce que vous cherchez, oui, la catégorie t
 Le raisonnement se résume à deux questions posées dans cet ordre. Avez-vous des jouets en silicone ? Si oui, base eau, obligatoire. Ensuite seulement, comparez au 100 ml plutôt qu'au prix affiché, parce que sur ces produits l'écart entre le petit et le grand format est considérable.
 
 Le reste, la marque, l'origine, le nom du flacon, relève de la préférence.
+
+## Questions fréquentes
+
+### Existe-t-il un lubrifiant qui imite le sperme ?
+
+Oui, c'est une catégorie de produits à part entière, vendue sous les noms de lubrifiant faux sperme, effet sperme ou imitation sperme. Ces gels reprennent la couleur blanc laiteux, l'opacité et la texture légèrement filante du sperme. Les références les plus courantes en France sont Creamy de Strap-on-me, à partir de 11,90 euros les 70 ml, le Milky Lub Bio de Silexd à 14,40 euros les 100 ml, et le S8 effet sperme à 21,95 euros les 125 ml. La différence décisive entre elles n'est pas le réalisme mais la base de la formule : à base d'eau ou hybride.
+
+### Un lubrifiant effet sperme est-il compatible avec les sextoys en silicone ?
+
+Cela dépend uniquement de sa base, et c'est le point à vérifier avant d'acheter. Un lubrifiant faux sperme à base d'eau, comme le Creamy de Strap-on-me ou le Milky Lub de Silexd, est compatible avec tous les jouets, silicone compris, et avec les préservatifs en latex. Un lubrifiant hybride, comme le S8 effet sperme, contient une part de silicone : il ne doit pas être utilisé avec un jouet en silicone, car il en dégrade la surface de façon irréversible. Beaucoup de fiches produit affichent le mot hybride sans expliquer ce qu'il implique.
+
+### Est-ce que la texture tient vraiment, ou est-ce que ça redevient du lubrifiant normal ?
+
+C'est la vraie ligne de partage entre un produit sérieux et un article de fantaisie. Les formules épaissies conservent leur aspect opaque et leurs filaments plusieurs minutes, tandis que les versions bas de gamme se diluent en une glisse transparente presque immédiatement, ce qui vide le produit de son intérêt puisque tout repose sur l'apparence. La densité annoncée sur la fiche et les avis clients sont les seuls indicateurs fiables, la photo du flacon ne dit rien.
+
+### Un lubrifiant faux sperme est-il salissant ?
+
+Moins qu'on ne le suppose, à condition qu'il soit à base d'eau. Ces formules se rincent à l'eau claire et ne laissent pas de film gras sur la peau. Sur le textile, en revanche, un gel opaque marque davantage qu'un lubrifiant transparent : une serviette est une précaution raisonnable. Les formules hybrides ou siliconées, elles, demandent un savonnage et peuvent marquer les draps durablement.
+
+### Peut-on l'utiliser pour l'anal ?
+
+Oui, et c'est même un usage courant, car ces gels sont en général plus épais qu'un lubrifiant classique, ce qui est exactement ce que demande la zone anale, qui ne produit aucune lubrification naturelle. La règle habituelle reste valable : en appliquer largement, en remettre pendant et pas seulement avant, et rester sur une base eau dès qu'un jouet en silicone ou un préservatif entre en jeu.
+
+### Faut-il préférer un produit fabriqué en Europe ?
+
+Pour un produit appliqué sur des muqueuses, la traçabilité de la fabrication et la composition annoncée comptent davantage que l'origine en elle-même. Cela dit, les références européennes de cette catégorie sont aussi celles qui documentent le mieux leur formule : le Creamy est fabriqué en France et annonce 90 % d'ingrédients d'origine naturelle, le Milky Lub est fabriqué en Espagne et certifié bio. À l'inverse, une bonne partie des produits d'importation vendus comme des gadgets n'affichent aucune composition lisible.

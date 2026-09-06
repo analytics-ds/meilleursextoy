@@ -108,3 +108,25 @@ Il n'y a pas de meilleure base dans l'absolu, il y a une base compatible avec vo
 Et le reproche fait à la base eau, la sécheresse, se règle presque toujours en changeant de texture plutôt que de famille, ou simplement en ajoutant quelques gouttes d'eau au lieu de remettre du produit.
 
 Une fois le lubrifiant choisi, reste l'entretien, qui conditionne autant l'hygiène que la durée de vie des jouets : notre guide pour [nettoyer un sextoy](/blog/nettoyer-sextoy/) précise ce qui change selon la matière.
+
+## Questions fréquentes
+
+### Lubrifiant eau ou silicone : lequel choisir ?
+
+Si vous utilisez des sextoys en silicone, la réponse est le lubrifiant à base d'eau, sans hésitation : un lubrifiant en silicone attaque la matière du jouet et la rend collante puis poreuse. Si vous n'utilisez pas de jouet, ou seulement des jouets en verre ou en acier, le lubrifiant en silicone est intéressant pour sa durée de glisse très supérieure et sa résistance à l'eau. Dans tous les autres cas de figure, la base eau est le choix polyvalent : elle est compatible avec les préservatifs en latex, avec tous les matériaux de jouets et avec toutes les pratiques, et elle se rince à l'eau claire.
+
+### Quel lubrifiant est compatible avec les sextoys en silicone ?
+
+Un lubrifiant à base d'eau. C'est le seul qui ne dégrade ni le silicone de qualité médicale des jouets, ni le latex des préservatifs. Les lubrifiants en silicone provoquent une réaction de surface qui rend le jouet collant, puis poreux, et un jouet poreux retient les bactéries et ne se nettoie plus correctement. Les huiles, y compris l'huile de coco, ne conviennent pas non plus dès qu'un préservatif est utilisé, car elles fragilisent le latex. En cas de doute sur une formule, la base eau est toujours le choix sans risque.
+
+### Pourquoi mon lubrifiant à base d'eau sèche-t-il aussi vite ?
+
+Le plus souvent, c'est une question de texture et non de base. Les formules très fluides s'absorbent et s'évaporent beaucoup plus vite que les gels épais, à durée d'usage identique. Deuxième point, largement ignoré : avec un lubrifiant à base d'eau, il ne faut pas forcément en remettre, il suffit souvent d'ajouter quelques gouttes d'eau pour le réactiver. Enfin, la composition joue : les formules chargées en glycérine donnent une sensation de chaleur et un rendu plus collant en fin d'usage.
+
+### Peut-on utiliser un lubrifiant en silicone avec un préservatif ?
+
+Oui. Contrairement aux huiles, le lubrifiant en silicone est compatible avec le latex des préservatifs. Ce sont les corps gras, huile de coco, vaseline, huiles de massage, qui fragilisent le latex et augmentent le risque de rupture. La vraie incompatibilité du lubrifiant en silicone ne concerne pas le préservatif mais les jouets en silicone.
+
+### Quel lubrifiant choisir pour l'anal ?
+
+Une texture plus épaisse que pour un usage vaginal, et en quantité nettement supérieure : la zone anale ne produit aucune lubrification naturelle. Les gels dédiés à l'usage anal existent précisément pour cela, leur consistance tient plus longtemps et limite les frottements. La base eau reste recommandée dès qu'un jouet en silicone ou un préservatif est utilisé, ce qui est le cas la plupart du temps. Le réflexe à garder : en appliquer plus que nécessaire, et en remettre pendant, pas seulement avant.

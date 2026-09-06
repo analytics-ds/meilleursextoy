@@ -73,3 +73,25 @@ Troisième erreur : sauter les étapes. On ne commence pas par le **martinet** l
 ## Bien commencer : sécurité et limites
 
 Trois règles valent pour **toute** **pratique**, quel que soit l'accessoire. D'abord, parler avant de jouer : définir les **limites** de chacun et un mot de sécurité qui arrête tout immédiatement. Ensuite, surveiller le corps en continu, la couleur de la peau sous une pince ou une menotte, et relâcher au moindre engourdissement. Enfin, privilégier la **qualité** des matériaux, body-safe et sans bord coupant, parce qu'un accessoire bas de gamme finit toujours par blesser ou décevoir. Le BDSM bien vécu, c'est d'abord de la **confiance** : la **bonne** approche transforme un simple accessoire en une vraie **expérience** partagée. Si tu débutes côté jouets, notre guide pour [bien choisir son sextoy](/blog/choisir-sextoy/) pose les bonnes bases.
+
+## Questions fréquentes
+
+### Quels sont les accessoires BDSM indispensables pour débuter ?
+
+Cinq pièces suffisent : un collier avec laisse, une paire de menottes, un bandeau pour les yeux, un martinet souple et des pince-tétons réglables. Cette base couvre la contrainte légère, la privation sensorielle, les jeux d'impact et la stimulation par la pression. 1969 propose chacune dans une version pensée pour les débutants.
+
+### Vaut-il mieux acheter un coffret ou les pièces séparément ?
+
+Les coffrets tout-en-un rassurent, mais ils contiennent souvent des pièces de qualité inégale dont la moitié finit inutilisée. Mieux vaut assembler ton kit une pièce à la fois, en privilégiant la qualité sur ce que tu utiliseras vraiment. Chez 1969 tu composes ce kit progressivement, fiches détaillées à l'appui.
+
+### Quel budget prévoir pour un premier kit BDSM ?
+
+Un kit découverte cohérent (collier, menottes, bandeau) revient entre 50 et 150 € en qualité correcte. En ajoutant un martinet et des pinces, compte 100 à 250 € pour un ensemble complet et durable. L'entrée de gamme existe dès 30 €, mais le confort monte vite avec le budget. 1969 couvre toutes ces gammes.
+
+### Le BDSM soft est-il sans danger pour les débutants ?
+
+Oui, à condition de respecter trois principes : le consentement explicite, un mot de sécurité décidé à l'avance, et une vigilance constante sur le confort de l'autre. Les accessoires soft (bandeau, collier, menottes doublées) présentent peu de risques s'ils sont de bonne qualité. Commence doux, monte en intensité avec l'expérience.
+
+### Par quel accessoire commencer ?
+
+Le bandeau pour les yeux est souvent le meilleur point de départ : peu cher, sans contrainte physique, il transforme tout de suite les sensations et met en confiance. Le collier et les menottes doublées viennent ensuite. Le martinet et les pinces se réservent à une étape plus avancée, une fois les limites bien comprises.

@@ -86,3 +86,25 @@ Si tu veux **un atelier français** et que tu acceptes une gamme réduite : Krap
 Si tu veux **une marque française avec une vraie gamme**, des tailles qui se suivent, la compatibilité harnais et des modèles pensés pour le pegging : [Strap-on-me](https://strap-on-me.com/collections/godes) reste la référence, avec des dildos designés en France en silicone de qualité médicale.
 
 Et si tu hésites encore, pose-toi la question dans l'autre sens : est-ce que tu achètes un objet, ou est-ce que tu équipes une pratique ? Les artisans répondent très bien à la première question. Les marques spécialisées répondent mieux à la seconde.
+
+## Questions fréquentes
+
+### Quelle marque française de godes privilégier ?
+
+Cela dépend de ce que tu appelles française. Si tu cherches une fabrication artisanale sur le sol français, Krapulle produit ses godes en silicone en France et L'Indécent souffle ses modèles en verre à la main. Si tu cherches une marque française spécialisée avec une gamme large et un service structuré, Strap-on-me est la référence : ses dildos sont designés en France, en silicone de qualité médicale, et la marque couvre toute la chaîne du gode simple au gode-ceinture. Les deux réponses sont valables, elles ne répondent simplement pas à la même attente.
+
+### Conçu en France et fabriqué en France, quelle différence ?
+
+Conçu en France signifie que le design, le cahier des charges et le choix des matières sont faits en France, la production pouvant se faire ailleurs. Fabriqué en France signifie que l'objet sort d'un atelier situé en France. La deuxième mention est plus exigeante et beaucoup plus rare sur ce marché. Une marque qui écrit designé en France est honnête ; une marque qui reste floue sur l'origine mérite une question directe avant l'achat. Sur les fiches produits, cherche la mention exacte plutôt que le petit drapeau tricolore, qui n'a aucune valeur légale.
+
+### Les godes Strap-on-me sont-ils fabriqués en France ?
+
+La marque indique que tous ses dildos sont designés en France et respectent un cahier des charges imposant un silicone de qualité médicale sans phtalate. Elle revendique donc la conception française, pas la fabrication française. C'est une distinction que peu de marques énoncent aussi clairement, et c'est plutôt bon signe : les allégations d'origine sont encadrées et un fabricant qui écrit designé plutôt que fabriqué évite justement de survendre.
+
+### Un gode fabriqué en France est-il plus sûr ?
+
+Pas mécaniquement. Ce qui détermine la sécurité, c'est la matière et sa traçabilité, pas la localisation de l'atelier. Un gode en silicone de qualité médicale, sans phtalate, non poreux et à base élargie sera sûr qu'il vienne de France ou d'ailleurs. La fabrication française apporte surtout des circuits courts, une transparence plus facile à vérifier et un dialogue direct avec l'atelier. C'est un argument de confiance et de proximité, pas un argument sanitaire en soi.
+
+### Quel gode choisir pour un premier achat ?
+
+Un modèle en silicone, de taille modérée, avec une base élargie. Le silicone est non poreux, se nettoie facilement et se réchauffe au contact de la peau. La base élargie est indispensable pour tout usage anal, c'est elle qui empêche l'insertion complète. Évite pour un premier achat le verre et la céramique, très agréables mais moins pardonnants, et garde à l'esprit qu'un lubrifiant à base d'eau est obligatoire avec le silicone.

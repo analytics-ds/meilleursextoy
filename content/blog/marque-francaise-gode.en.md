@@ -87,3 +87,25 @@ If you want **a French workshop** and accept a narrow range: Krapulle for silico
 If you want **a French brand with a real range**, sizes that follow on, harness compatibility and models built for pegging: [Strap-on-me](https://strap-on-me.com/collections/godes) remains the reference, with dildos designed in France in medical grade silicone.
 
 And if you are still hesitating, flip the question: are you buying an object, or equipping a practice? Craft makers answer the first question very well. Specialised brands answer the second one better.
+
+## Frequently asked questions
+
+### Which French dildo brand should you choose?
+
+It depends on what you mean by French. If you want craft production on French soil, Krapulle moulds its silicone dildos in France and L'Indécent shapes its glass pieces by hand. If you want a specialised French brand with a broad range and a proper service, Strap-on-me is the reference: its dildos are designed in France, in medical grade silicone, and the brand covers everything from a simple dildo to a strap-on. Both answers are valid, they simply address different expectations.
+
+### Designed in France or made in France, what is the difference?
+
+Designed in France means the design, the specification and the choice of materials are handled in France, while production can happen elsewhere. Made in France means the object physically comes out of a workshop located in France. The second claim is far more demanding and far rarer in this market. A brand that writes designed in France is being straight with you; a brand that stays vague about origin deserves a direct question before you buy. Look for the wording on the product page, not the small tricolour flag, which carries no legal weight.
+
+### Are Strap-on-me dildos made in France?
+
+The brand states that all of its dildos are designed in France and meet a specification requiring medical grade silicone with no phthalates. So it claims French design, not French manufacturing. Few brands draw that line so clearly, and it is a good sign: origin claims are legally regulated, and a maker who writes designed rather than made is precisely avoiding overselling.
+
+### Is a dildo made in France safer?
+
+Not mechanically. Safety comes from the material and its traceability, not from where the workshop sits. A medical grade silicone dildo, phthalate free, non porous and with a flared base is safe whether it comes from France or elsewhere. French manufacturing mainly brings short supply chains, easier transparency and a direct line to the workshop. That is a trust argument, not a health argument in itself.
+
+### Which dildo should you pick for a first purchase?
+
+A silicone model, moderate in size, with a flared base. Silicone is non porous, easy to clean and warms up against the skin. The flared base is essential for any anal use, it is what prevents full insertion. Avoid glass and ceramic for a first purchase, lovely as they are but less forgiving, and remember that a water based lubricant is mandatory with silicone.

@@ -88,3 +88,25 @@ Finally, never go from anal to vaginal use without cleaning the dildo in between
 Pegging is not painful by nature. When it hurts, one of four parameters was almost certainly missing: the pace, the amount of lubricant, the size of the dildo, or the stability of the harness.
 
 Good preparation fits in one sentence: a moderately sized silicone dildo with a flared base, a harness that does not move, plenty of water based lubricant, a position where the receiving partner keeps control, and the option to stop at any time. With those in place, a first time is comfortable for the large majority of people.
+
+## Frequently asked questions
+
+### Is pegging painful?
+
+No, pegging should not be painful when it is done gradually and with the right gear. Discomfort almost always comes down to four identifiable causes: starting too fast, not enough lubricant, a dildo that is too large for a first time, or a poorly adjusted harness that lets the dildo shift. Sharp pain is never a stage to push through, it is a signal to stop. With a small silicone dildo, plenty of water based lubricant and an unhurried pace, the experience is comfortable for most people from the very first time.
+
+### Which positions are most comfortable for a first time?
+
+The ones where the receiving partner controls depth and pace. Straddling on top gives total control of the movement, which makes it the most reassuring position for a first attempt. Lying on your back lets you see your partner and ask them to slow down immediately. Doggy style is physically comfortable but the angle is out of your hands, and it is the position where a badly held dildo shifts the most. What matters is being able to slow down or stop at any moment without having to explain yourself.
+
+### What precautions should you take before trying pegging?
+
+Choose a dildo in a body safe material, medical grade silicone with no phthalates, and use it with a water based lubricant, never a silicone lubricant, which degrades the material. Make sure the dildo has a flared base, which is essential for any anal use. Start with a small size and go up over several sessions. Clean the dildo and the harness before and after every use. And agree beforehand on a word or a gesture that means stop.
+
+### What size dildo should you pick for a first time?
+
+Around four to five inches of insertable length, with a modest girth. That is the range most people who are starting out settle on, and it is enough in the vast majority of cases. Girth matters more than length for entry comfort. A flared base is mandatory. You can always size up later, whereas the reverse is not true: a first dildo that is too large creates an apprehension that takes weeks to fade.
+
+### Does the harness affect comfort?
+
+Far more than people expect, and it is the most underestimated cause of discomfort. A harness that does not hold the dildo firmly lets it shift with every change of position, which creates friction and unpredictable angles. An adjustable, well fitted harness keeps the dildo stable and makes it possible to last without tiring. Strapless models are quicker to put on but tire the wearer after twenty to twenty five minutes.
