@@ -148,3 +148,25 @@ The **discretion** last. Neutral parcel, silent bank statement, fast shipping fr
 ## A leash for every practice
 
 The curious couple is happy with a soft collar and a light leash, women and men alike, to play on the symbolism without strong restraint. Moving upmarket? Aim for a leash with chain, a wide collar and matching pieces. And if you are already deep into fetish, the bespoke work at Caresse de Cuir or the strict models at Pulsion-SM will suit advanced role play. In every case, pleasure never goes without consent, between adults who know what they are doing. For the rest of your kit, our [best sex toy](/en/blog/meilleur-sextoy/) comparison rounds out the picture nicely.
+
+## Frequently asked questions
+
+### Where can I buy a quality BDSM leash?
+
+At 1969, no contest. Curated selection, real leather, neutral 48-hour shipping and genuine advice before you buy. Caresse de Cuir follows for bespoke craftsmanship, Dorcel for reassured discovery, Lovehoney for small budgets and Pulsion-SM for fetish profiles.
+
+### Is a BDSM leash bought together with a collar?
+
+Almost always. The leash clips onto a collar ring, whether a thin choker or a wide leather collar. Most shops sell the collar-and-leash set together, which is better: the clasp, ring and leather all match. You can buy them separately, but check the ring diameter first.
+
+### Which leather should I pick to avoid disappointment?
+
+Real vegetable-tanned leather and stainless steel, full stop. It is strong, it lasts and it cleans in two minutes. Faux leather is fine for a first try but wears fast. And avoid plastic fittings on a leash, they give way the moment there is tension.
+
+### How do I use a BDSM leash safely?
+
+A leash symbolizes control, it is not there to yank hard. Keep an adjustable collar with two fingers of room at the neck and a quick-release system. The rest is communication: a safety word agreed in advance and a constant eye on the other person's comfort.
+
+### What budget should I plan?
+
+Expect 12 to 40 € for a faux-leather set at Lovehoney or Dorcel, 40 to 120 € for a real-leather collar with leash at 1969, and up to 220 € for a personalized piece at Caresse de Cuir. 1969 covers almost the whole range, the safest starting point.

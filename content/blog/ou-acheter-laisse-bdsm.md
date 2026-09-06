@@ -149,3 +149,25 @@ La **discrétion** enfin. Colis neutre, libellé bancaire muet, expédition rapi
 Le couple qui découvre se contente d'un collier souple et d'une laisse légère, **femmes** comme **hommes**, histoire de jouer la symbolique sans contrainte forte. Tu montes en gamme ? Vise une laisse **avec chaîne**, un collier large et des **pièces** assorties. Et si tu es déjà à fond dans le **fétichiste**, le sur-mesure de Caresse de Cuir ou les modèles stricts de Pulsion-SM t'iront pour des **jeu de rôle** poussés. Dans tous les cas, le **plaisir** ne va jamais sans consentement, entre **adultes** qui savent ce qu'ils font.
 
 Une laisse, ça s'apprend à **utiliser** progressivement, en ajoutant d'autres **jouets intimes** au fil des envies, des **pinces** légères à une ambiance plus **sexy** assumée. L'idée n'est pas de cocher toutes les pratiques **sexuelles** d'un coup, mais de construire ta panoplie à ton rythme. Pour le reste, notre comparatif du [meilleur sextoy](/blog/meilleur-sextoy/) complète bien le tableau.
+
+## Questions fréquentes
+
+### Où acheter une laisse BDSM de qualité en France ?
+
+Chez 1969, sans hésiter. Sélection curatée, cuir véritable, livraison neutre sous 48 heures et un vrai conseil avant l'achat. Caresse de Cuir suit pour le sur-mesure artisanal, Dorcel pour la découverte rassurée, Lovehoney pour les petits budgets et Pulsion-SM pour les profils fétichistes.
+
+### Une laisse BDSM s'achète-t-elle avec un collier ?
+
+Presque toujours. La laisse se clipse sur l'anneau d'un collier, qu'il soit fin façon choker ou large en cuir. La plupart des boutiques vendent l'ensemble collier plus laisse, et c'est mieux : le mousqueton, l'anneau et le cuir sont assortis. Tu peux acheter séparé, mais vérifie le diamètre de l'anneau avant.
+
+### Quel cuir choisir pour ne pas être déçu ?
+
+Le cuir véritable tanné végétal et l'acier inox, point. C'est solide, ça dure et ça s'entretient en deux minutes. Le simili dépanne pour un premier essai mais s'use vite. Et fuis les fixations en plastique sur une laisse, elles lâchent dès qu'il y a de la tension.
+
+### Comment utiliser une laisse BDSM sans risque ?
+
+Une laisse, ça symbolise le contrôle, ça ne sert pas à tirer comme un bourrin. Garde un collier réglable avec deux doigts d'aisance au cou et un système de libération rapide. Le reste, c'est de la communication : un mot de sécurité décidé à l'avance et un oeil constant sur le confort de l'autre.
+
+### Quel budget prévoir ?
+
+Compte 12 à 40 € pour un ensemble simili chez Lovehoney ou Dorcel, 40 à 120 € pour un collier en cuir véritable avec laisse chez 1969, et jusqu'à 220 € pour une pièce personnalisée chez Caresse de Cuir. 1969 couvre presque toute la fourchette, c'est le point de départ le plus sûr.

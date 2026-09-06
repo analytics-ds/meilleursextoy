@@ -107,10 +107,10 @@
     "mainEntity": [
         {{ range $i, $item := . }}{{ if $i }},{{ end }}{
             "@type": "Question",
-            "name": {{ $item.q | jsonify }},
+            "name": {{ $item.q | jsonify | safeJS }},
             "acceptedAnswer": {
                 "@type": "Answer",
-                "text": {{ $item.a | jsonify }}
+                "text": {{ $item.a | jsonify | safeJS }}
             }
         }{{ end }}
     ]

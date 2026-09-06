@@ -87,3 +87,25 @@ Enfin, ne jamais passer d'un usage anal à un usage vaginal sans nettoyer le god
 Le pegging n'est pas une pratique douloureuse par nature. Quand il fait mal, c'est presque toujours qu'un des quatre paramètres n'était pas réuni : le rythme, la quantité de lubrifiant, la taille du gode ou la stabilité du harnais.
 
 La bonne préparation tient en une phrase : un gode en silicone de taille modérée à base élargie, un harnais qui ne bouge pas, beaucoup de lubrifiant à base d'eau, une position où la personne pénétrée garde le contrôle, et la possibilité de s'arrêter à tout moment. Réunis, ces éléments rendent la première fois confortable dans la très grande majorité des cas.
+
+## Questions fréquentes
+
+### Le pegging est-il douloureux ?
+
+Non, le pegging ne devrait pas être douloureux s'il est pratiqué progressivement et avec le bon matériel. L'inconfort vient presque toujours de quatre causes identifiables : un démarrage trop rapide, un manque de lubrifiant, un gode trop imposant pour commencer, ou un harnais mal ajusté qui fait bouger le gode. Une douleur vive n'est jamais un passage obligé : c'est un signal d'arrêt. En allant à son rythme, avec un gode de petite taille en silicone et beaucoup de lubrifiant à base d'eau, l'expérience est généralement confortable dès la première fois.
+
+### Quelles positions sont les plus confortables pour débuter le pegging ?
+
+Les positions où la personne pénétrée garde le contrôle de la profondeur et du rythme. À califourchon, au-dessus, le contrôle du mouvement est total, c'est la position la plus rassurante pour une première fois. Allongé sur le dos, on voit son partenaire et on peut demander de ralentir immédiatement. La levrette est confortable mais l'angle est subi, et c'est la position où un gode mal maintenu se désaxe le plus. L'essentiel est de pouvoir ralentir ou s'arrêter à tout moment sans avoir à s'expliquer.
+
+### Quelles précautions prendre avant d'essayer le pegging ?
+
+Choisir un gode dans un matériau sûr pour le corps, du silicone de qualité médicale sans phtalate, et l'utiliser avec un lubrifiant à base d'eau, jamais un lubrifiant en silicone qui abîme la matière. Vérifier que le gode a une base élargie, indispensable pour tout usage anal. Commencer par une petite taille et augmenter au fil des expériences. Nettoyer le gode et le harnais avant et après chaque usage. Et convenir à l'avance d'un mot ou d'un geste pour arrêter.
+
+### Quelle taille de gode choisir pour un premier pegging ?
+
+Autour de 10 à 13 centimètres insérables, avec un diamètre modeste. C'est la fourchette qui revient le plus souvent chez les personnes qui débutent, et elle suffit dans la grande majorité des cas. Le diamètre compte davantage que la longueur pour le confort d'entrée. Une base élargie est obligatoire. Il sera toujours temps de monter en taille ensuite, l'inverse n'est pas vrai : un premier gode trop gros crée une appréhension qui met des semaines à s'effacer.
+
+### Le harnais change-t-il quelque chose au confort ?
+
+Beaucoup plus qu'on ne l'imagine, et c'est la cause d'inconfort la plus sous-estimée. Un harnais qui ne plaque pas correctement le gode le laisse se désaxer à chaque changement de position, ce qui provoque des frottements et des angles imprévus. Un harnais réglable et bien ajusté garde le gode stable et permet de tenir la durée sans fatiguer. Les modèles sans harnais, à retenir en interne, sont plus simples à mettre en place mais fatiguent la personne qui le porte au bout de vingt à vingt-cinq minutes.

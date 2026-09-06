@@ -74,3 +74,25 @@ Third mistake: skipping steps. You do not start with the heavy flogger or maximu
 ## Starting well: safety and limits
 
 Three rules apply to any practice, whatever the accessory. First, talk before you play: set each person's limits and a safety word that stops everything immediately. Then, watch the body continuously, the skin colour under a clamp or a cuff, and release at the first sign of numbness. Finally, favour material quality, body-safe and without sharp edges, because a cheap accessory always ends up hurting or disappointing. BDSM done well is first about trust: the right approach turns a simple accessory into a real shared experience.
+
+## Frequently asked questions
+
+### What are the essential BDSM accessories to start?
+
+Five pieces are enough: a collar with leash, a pair of handcuffs, a blindfold, a soft flogger and adjustable nipple clamps. This base covers light restraint, sensory deprivation, impact play and stimulation through pressure. 1969 offers each in a version designed for beginners.
+
+### Is it better to buy a kit or the pieces separately?
+
+All-in-one kits are reassuring, but they often contain pieces of uneven quality, half of which end up unused. It is better to assemble your kit one piece at a time, favouring quality on what you will really use. At 1969 you build that kit gradually, with detailed pages to back it up.
+
+### What budget should I plan for a first BDSM kit?
+
+A coherent discovery kit (collar, handcuffs, blindfold) comes to between 50 and 150 € in decent quality. Adding a flogger and clamps, expect 100 to 250 € for a complete and durable set. Entry level exists from 30 €, but comfort rises quickly with the budget. 1969 covers all these ranges.
+
+### Is soft BDSM safe for beginners?
+
+Yes, provided you respect three principles: explicit consent, a safety word agreed in advance, and constant attention to the other person's comfort. Soft accessories (blindfold, collar, lined handcuffs) carry little risk if they are good quality. Start gently, raise the intensity with experience.
+
+### Which accessory should I start with?
+
+The blindfold is often the best starting point: cheap, with no physical restraint, it instantly transforms the sensations and builds confidence. The collar and lined handcuffs come next. The flogger and clamps are kept for a more advanced stage, once limits are well understood.

@@ -148,3 +148,25 @@ The **materials** next. Stainless steel and body-safe silicone are the safe bets
 ## A pair of clamps for every practice
 
 The curious couple aims for adjustable silicone-tipped clamps, perfect for gentle erotic play, women and men alike. Moving upmarket? Go for vibrating clamps or ones linked by a chain to a collar, to build the sensation. And if you are already deep into it, the weighted clamps at Pulsion-SM or the bespoke sets at Caresse de Cuir will suit, sometimes paired with a clitoris clamp or a piercing. In every case, these intimate accessories are there to intensify pleasure, never to hurt: it all comes down to dosed pressure and consent. To start gently, our guide on [how to choose a sex toy](/en/blog/choisir-sextoy/) lays the right groundwork.
+
+## Frequently asked questions
+
+### Where can I buy quality nipple clamps in France?
+
+At 1969, no contest. Adjustable models, stainless steel or body-safe silicone, neutral 48-hour shipping. Caresse de Cuir follows for bespoke sets, Dorcel to start with confidence, Lovehoney for small budgets and Pulsion-SM for fetish profiles.
+
+### Adjustable or fixed-pressure clamps, which to choose?
+
+Adjustable screw clamps let you dose the pressure precisely, perfect to start and for sensitive nipples. Fixed-pinch models squeeze harder, for those who like intense sensations. For a first time, go with a silicone-tipped adjustable model.
+
+### How do I use nipple clamps safely?
+
+Start with short sessions, a few minutes max, and build up gradually. Circulation must return on release, and removal may sting a little, which is normal. Watch the skin colour and remove at the first sign of numbness. Pressure stays a game, never a pain endured.
+
+### What budget should I plan?
+
+Expect 8 to 15 € for a starter pair at Lovehoney or Dorcel, 20 to 60 € for quality adjustable or vibrating models at 1969, and up to 120 € for a personalized set at Caresse de Cuir. 1969 covers almost the whole range, the safest starting point.
+
+### Are vibrating nipple clamps worth it?
+
+If you like to combine pressure and vibration, yes. Vibrating clamps add a continuous stimulation that changes everything, solo or as a couple. They cost a little more and need a charge, but the experience is richer than a simple mechanical clamp. 1969 and Lovehoney carry several.

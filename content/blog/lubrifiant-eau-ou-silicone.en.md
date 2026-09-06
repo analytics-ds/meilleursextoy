@@ -109,3 +109,25 @@ There is no better base in the abstract, there is a base that is compatible with
 And the one complaint made about water-based lube, drying out, is nearly always solved by changing texture rather than family, or simply by adding a few drops of water instead of more product.
 
 Once the lubricant is settled, there is still upkeep, which drives both hygiene and how long your toys last: our guide on [how to clean a sex toy](/en/blog/nettoyer-sextoy/) covers what changes from one material to another.
+
+## Frequently asked questions
+
+### Water-based or silicone lube: which one should you choose?
+
+If you use silicone sex toys, the answer is water-based lubricant, without hesitation: a silicone lubricant attacks the surface of the toy and makes it tacky, then porous. If you do not use toys at all, or only glass and steel ones, silicone lubricant is worth it for its far longer glide and its resistance to water. In every other situation, water-based is the versatile choice: it is compatible with latex condoms, with every toy material and with every practice, and it rinses off with plain water.
+
+### Which lubricant is safe with silicone sex toys?
+
+A water-based one. It is the only type that damages neither the medical grade silicone of the toy nor the latex of a condom. Silicone lubricants cause a surface reaction that leaves the toy sticky and then porous, and a porous toy traps bacteria and can no longer be cleaned properly. Oils, coconut oil included, are also unsuitable as soon as a condom is involved, because they weaken latex. Whenever a formula leaves you in doubt, water-based is always the safe answer.
+
+### Why does my water-based lube dry out so fast?
+
+Most of the time it is a matter of texture rather than base. Very fluid formulas absorb and evaporate much faster than thick gels, for the same amount of use. The second point is widely overlooked: with a water-based lubricant you often do not need to add more product, a few drops of water are enough to reactivate it. Composition matters too, formulas heavy in glycerin give a warming sensation but also a stickier finish.
+
+### Can you use silicone lube with a condom?
+
+Yes. Unlike oils, silicone lubricant is compatible with latex condoms. It is oil-based products, coconut oil, petroleum jelly, massage oils, that weaken latex and genuinely increase the risk of breakage. The real incompatibility of silicone lubricant is not with condoms, it is with silicone toys.
+
+### Which lubricant is best for anal use?
+
+A thicker texture than for vaginal use, and clearly more of it: the anal area produces no natural lubrication at all. Dedicated anal gels exist precisely for that reason, their consistency lasts longer and limits friction. Water-based remains the recommendation as soon as a silicone toy or a condom is involved, which is most of the time. The habit to build: apply more than you think you need, and reapply during, not only before.

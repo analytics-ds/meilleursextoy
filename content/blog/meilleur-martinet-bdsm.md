@@ -147,3 +147,25 @@ La **sécurité** enfin. Le martinet vise les zones charnues (fesses, haut des c
 ## À chaque pratique son martinet
 
 Le couple qui découvre vise un petit martinet souple en **similicuir**, parfait pour une **fessée** ludique sans marquer, dans une logique de **bondage** léger. Tu montes en gamme ? Cherche un **martinet à lanières** larges en cuir véritable, pour un **impact** maîtrisé. Et si tu es déjà à fond, le sur-mesure de Caresse de Cuir ou les modèles intenses de Pulsion-SM t'iront pour une **flagellation** technique. Le martinet s'intègre alors à des **jeux d'impact** plus variés, avec **différents** accessoires combinés. Dans tous les cas, le **plaisir** ne va jamais sans consentement, entre adultes qui savent ce qu'ils font. Si tu débutes, notre guide pour [bien choisir son sextoy](/blog/choisir-sextoy/) pose les bonnes bases.
+
+## Questions fréquentes
+
+### Quel est le meilleur martinet BDSM en 2026 ?
+
+1969, pour la plupart des profils. Cuir véritable, lanières équilibrées, poignée qui tient bien en main et livraison neutre sous 48 heures. Caresse de Cuir suit pour le sur-mesure, Dorcel pour démarrer en confiance, Lovehoney pour les petits budgets et Pulsion-SM pour les profils fétichistes.
+
+### Martinet, fouet ou cravache, c'est quoi la différence ?
+
+Le martinet a plusieurs lanières souples qui répartissent l'impact sur une large zone, donc un effet sourd et progressif, parfait pour débuter. La cravache est rigide et tape un point précis. Le fouet, plus long, demande de la technique et de la distance. Pour une première fois, prends un martinet.
+
+### Quel cuir choisir pour ne pas être déçu ?
+
+Le cuir véritable, idéalement pleine fleur. C'est souple, ça claque juste et ça dure des années. Le similicuir dépanne pour tester sans te ruiner mais s'use plus vite. Lanières larges pour un impact sourd, brins fins pour une morsure qui pique.
+
+### Comment utiliser un martinet sans risque ?
+
+Tu vises les zones charnues : fesses, haut des cuisses, parfois le haut du dos. Jamais les reins, la colonne ou la nuque. Tu commences doucement, tu montes en intensité progressivement, et tu gardes un mot de sécurité décidé à l'avance. Un oeil constant sur la peau de l'autre, toujours.
+
+### Quel budget prévoir ?
+
+Compte 12 à 20 € pour un martinet d'initiation en similicuir chez Lovehoney ou Dorcel, 40 à 90 € pour du cuir véritable chez 1969, et jusqu'à 200 € pour une pièce personnalisée chez Caresse de Cuir. 1969 couvre presque toute la fourchette, c'est le point de départ le plus sûr.

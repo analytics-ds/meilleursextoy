@@ -97,3 +97,29 @@ If visual realism is part of what you are after, then yes, the category delivers
 The reasoning comes down to two questions asked in this order. Do you own silicone toys? If so, water-based, non-negotiable. Only then compare per 100 ml rather than on the shelf price, because on these products the gap between the small and the large size is considerable.
 
 The rest, the brand, the origin, the name on the bottle, is preference.
+
+## Frequently asked questions
+
+### Is there a lube that imitates cum?
+
+Yes, it is a product category in its own right, sold as fake cum lube, cum effect lube or imitation semen lubricant. These gels reproduce the milky white colour, the opacity and the slightly stringy texture of semen. The most common references sold in Europe are Creamy by Strap-on-me, from 11.90 euros for 70 ml, Milky Lub Bio by Silexd at 14.40 euros for 100 ml, and S8 cum effect at 21.95 euros for 125 ml. The decisive difference between them is not realism, it is the base of the formula: water-based or hybrid.
+
+### Is a fake cum lube safe with silicone sex toys?
+
+That depends entirely on its base, and it is the one thing to check before buying. A water-based fake cum lube, such as Creamy by Strap-on-me or Milky Lub by Silexd, is compatible with every toy material including silicone, and with latex condoms. A hybrid lubricant, such as S8 cum effect, contains a share of silicone: it must not be used with a silicone toy, because it degrades the surface irreversibly. Many product pages display the word hybrid without ever explaining what it implies.
+
+### Does the texture actually hold, or does it turn back into normal lube?
+
+This is the real dividing line between a serious product and a novelty item. Properly thickened formulas keep their opacity and their stringiness for several minutes, while cheap versions thin out into a clear glide almost immediately, which defeats the purpose entirely since the whole point is the appearance. The stated density and customer reviews are the only reliable indicators, the photo on the bottle tells you nothing.
+
+### Is fake cum lube messy?
+
+Less than you would assume, provided it is water-based. These formulas rinse off with plain water and leave no greasy film on the skin. On fabric, however, an opaque gel shows more than a clear lubricant, so a towel is a reasonable precaution. Hybrid and silicone-based formulas do need soap and can stain sheets more durably.
+
+### Can you use it for anal?
+
+Yes, and it is a common use, because these gels are generally thicker than a standard lubricant, which is exactly what the anal area requires since it produces no natural lubrication at all. The usual rule still applies: apply generously, reapply during rather than only before, and stay water-based as soon as a silicone toy or a condom is involved.
+
+### Should you prefer a product made in Europe?
+
+For a product applied to mucous membranes, traceable manufacturing and a stated composition matter more than origin in itself. That said, the European references in this category are also the ones that document their formula best: Creamy is made in France and states 90% ingredients of natural origin, Milky Lub is made in Spain and certified organic. Conversely, a large share of the imported products sold as novelties display no readable composition at all.
