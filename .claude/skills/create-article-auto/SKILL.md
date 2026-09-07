@@ -264,12 +264,26 @@ Injecter l'ID-slug dans le frontmatter (`author: [id]`). Meme ID pour FR et EN.
 
 ## Etape 5 — Image hero auto
 
+> **Cascade des sources d'image, revue le 2026-09-04.** Le script `.claude/scripts/fetch-image.sh`
+> essaie dans cet ordre : **Pexels**, puis **Unsplash**, puis **Openverse**, puis un visuel de
+> charte genere en local par `.claude/scripts/make-placeholder.py`. Il ne rend jamais la main
+> sans visuel. **Openverse n'est plus la source nominale, il est le dernier recours** : mesure
+> sur les 45 heros de journal-marketing, il n'avait produit que 15 photos pertinentes, contre
+> 10 franchement hors sujet, 15 generiques et 5 degrades de secours, et il sert aussi des URLs
+> mortes. Les cles `PEXELS_API_KEY` et `UNSPLASH_ACCESS_KEY` viennent du **prompt de la routine**
+> ou du `.env` local, **jamais du repo** : les repos du reseau sont publics. Sans cle, la cascade
+> demarre a Openverse et l'article sort quand meme. Le script tient un registre
+> `.claude/hero-sources.json` qui **empeche deux articles de porter la meme photo**.
+> **Le controle visuel de l'image reste obligatoire avant publication, quelle que soit la banque.**
+
+
+
 Appeler le script existant :
 ```bash
 bash .claude/scripts/fetch-image.sh "<kw traduit en anglais>" "<slug-fr>" "static/images/blog"
 ```
 
-- La query image est le `kw` traduit en anglais (Openverse est majoritairement indexe en anglais).
+- La query image est le `kw` traduit en anglais (les trois banques sont majoritairement indexees en anglais).
 - Si le script renvoie un code non-zero, retenter **une seule fois** avec une query plus generique (la `category` traduite en anglais).
 - Si 2e echec : **ne pas marquer `failed`**. Continuer la publication sans image hero (champs `image`, `imageAlt`, `imageCredit` omis du frontmatter ou laisses vides). L'absence d'image n'est pas une raison d'avorter : l'article est publie, le site fonctionne sans hero.
 - Recuperer les 3 sorties du script (chemin, alt, credit) pour le frontmatter **uniquement si le script a reussi**.
