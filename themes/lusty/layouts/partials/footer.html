@@ -38,4 +38,17 @@
             <p>{{ i18n "footer_independent" }}</p>
         </div>
     </div>
+<!-- pbn-legal:start -->
+<div class="footer-legal">
+    <ul>
+        {{- $lg := .Site.Language.Lang }}
+        {{- $map := dict "fr" (slice (slice "mentions-legales/" "Mentions légales") (slice "politique-de-confidentialite/" "Politique de confidentialité") (slice "cgu/" "CGU")) "en" (slice (slice "legal-notice/" "Legal notice") (slice "privacy-policy/" "Privacy policy") (slice "terms-of-service/" "Terms of use")) }}
+        {{- $items := index $map $lg }}
+        {{- if not $items }}{{ $items = index $map "fr" }}{{ end }}
+        {{- range $items }}
+        <li><a href="{{ (index . 0) | relLangURL }}">{{ index . 1 }}</a></li>
+        {{- end }}
+    </ul>
+</div>
+<!-- pbn-legal:end -->
 </footer>

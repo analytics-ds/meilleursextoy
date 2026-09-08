@@ -1,47 +1,62 @@
 ---
 title: "Mentions légales"
-description: "Mentions légales et informations sur l'éditeur de Meilleur Sextoy."
-date: 2026-05-27
-lastmod: 2026-05-27
+description: "Mentions légales de Meilleur Sextoy : éditeur, directeur de la publication, hébergement, propriété intellectuelle et droit applicable."
+slug: "mentions-legales"
+translationKey: "legal-notice"
+date: 2026-09-08
+lastmod: 2026-09-08
 ---
-
 ## Éditeur du site
 
-Le site **Meilleur Sextoy** est un site éditorial indépendant publié par une équipe d'auteurs et testeurs spécialisés dans la santé intime.
+Le site Meilleur Sextoy, accessible à l'adresse https://meilleursextoy.com/, est édité par une personne physique exerçant en tant qu'éditeur de contenu indépendant.
 
-**Site** : meilleursextoy.com
-**Responsable de la publication** : Camille Reverdy
-**Contact** : contact [at] meilleursextoy.com
+**Contact éditorial** : contact@meilleursextoy.com
+
+## Directeur de la publication
+
+Le directeur de la publication est le responsable éditorial du site Meilleur Sextoy.
 
 ## Hébergement
 
-Le site est hébergé par **GitHub Pages**, service fourni par :
+Le site est hébergé par GitHub, Inc.
 
-GitHub, Inc.
-88 Colin P. Kelly Jr. Street
-San Francisco, CA 94107
-United States
+**Adresse** : 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis
+**Site** : https://github.com
+
+## Nature du site
+
+Meilleur Sextoy est un site éditorial indépendant. Il publie des contenus d'information, des guides et des comparatifs à visée documentaire. Ces contenus n'ont pas valeur de conseil personnalisé et ne se substituent pas à l'avis d'un professionnel qualifié.
 
 ## Public concerné
 
-Ce site est réservé à un public majeur. Toute personne mineure n'est pas autorisée à le consulter. En accédant au site, l'utilisateur déclare être âgé d'au moins 18 ans.
-
-## Propriété intellectuelle
-
-L'ensemble du contenu éditorial (articles, comparatifs, fiches produits, photographies originales) est protégé par le droit d'auteur. Toute reproduction, même partielle, est interdite sans autorisation écrite.
-
-Les marques citées, logos, images officielles des produits et noms commerciaux restent la propriété de leurs détenteurs respectifs. Leur mention sur ce site relève du droit de citation à but informatif.
+Ce site est réservé à un public majeur. En y accédant, l'utilisateur déclare être âgé de 18 ans au moins. Toute personne mineure n'est pas autorisée à le consulter.
 
 ## Liens et affiliations
 
-À la date de mise à jour, le site **ne contient aucun lien d'affiliation**. Si des liens commerciaux sont ajoutés à l'avenir, ils seront clairement signalés sur chaque page concernée.
+Certains liens sortants peuvent être des liens d'affiliation. Le cas échéant, cela est signalé sur la page concernée. La présence d'un tel lien ne modifie ni le contenu ni les conclusions éditoriales.
 
-## Données personnelles
+## Propriété intellectuelle
 
-Le site ne collecte aucune donnée personnelle de manière automatique. Aucun cookie de tracking publicitaire n'est déposé. Les éventuels formulaires de contact ne stockent aucune donnée et redirigent vers une adresse email.
+L'ensemble des contenus publiés sur Meilleur Sextoy (textes, images, éléments graphiques, structure et mise en page) est protégé par le droit d'auteur. Toute reproduction ou représentation, même partielle, est interdite sans autorisation écrite préalable, en dehors des usages permis par la loi, notamment la courte citation accompagnée de la mention de la source et d'un lien vers la page d'origine.
 
-Si vous souhaitez exercer vos droits RGPD (accès, rectification, suppression), écrivez à contact [at] meilleursextoy.com.
+## Marques et droit de citation
 
-## Avertissement
+Les marques, dénominations commerciales, logos et noms de produits cités restent la propriété de leurs détenteurs respectifs. Leur mention dans les contenus relève du droit de citation, à des fins d'information éditoriale. Elle n'implique aucun lien de partenariat ni aucune approbation de leur part, sauf lorsque cela est explicitement indiqué.
 
-Les contenus publiés sur ce site sont à visée informative et éditoriale. Ils ne constituent pas un avis médical. Pour toute question de santé en lien avec votre vie intime, consultez un professionnel de santé qualifié.
+## Crédits photographiques
+
+Les visuels utilisés proviennent de productions originales ou de banques d'images libres de droits. Le crédit est indiqué à proximité de l'image lorsque la licence l'exige.
+
+## Liens hypertextes
+
+Le site renvoie vers des ressources externes à titre documentaire. L'éditeur n'exerce aucun contrôle sur ces ressources et décline toute responsabilité quant à leur contenu.
+
+La mise en place d'un lien vers Meilleur Sextoy est libre et ne requiert pas d'autorisation préalable, dès lors qu'elle ne porte pas atteinte à l'image du site et n'induit pas de confusion sur l'origine des contenus. L'éditeur se réserve le droit de demander le retrait d'un lien qu'il estime contraire à l'objet du site.
+
+## Signalement
+
+Toute personne estimant qu'un contenu publié porte atteinte à ses droits peut le signaler à contact@meilleursextoy.com, en précisant la page concernée, la nature de l'atteinte invoquée et les éléments qui la justifient. Les signalements fondés sont traités dans les meilleurs délais.
+
+## Droit applicable
+
+Les présentes mentions légales sont régies par le droit français. Tout litige relève de la compétence des tribunaux français.
