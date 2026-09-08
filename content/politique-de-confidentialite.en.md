@@ -3,6 +3,7 @@ title: "Privacy policy"
 description: "Privacy policy for Meilleur Sextoy: data collected, purposes, retention periods, cookies and your GDPR rights."
 slug: "privacy-policy"
 translationKey: "privacy-policy"
+noindex: true
 date: 2026-09-08
 lastmod: 2026-09-08
 ---

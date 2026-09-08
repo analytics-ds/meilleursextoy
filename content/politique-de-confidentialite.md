@@ -3,6 +3,7 @@ title: "Politique de confidentialité"
 description: "Politique de confidentialité de Meilleur Sextoy : données collectées, finalités, durées de conservation, cookies et droits RGPD."
 slug: "politique-de-confidentialite"
 translationKey: "privacy-policy"
+noindex: true
 date: 2026-09-08
 lastmod: 2026-09-08
 ---

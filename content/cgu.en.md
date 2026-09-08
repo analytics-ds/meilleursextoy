@@ -3,6 +3,7 @@ title: "Terms of use"
 description: "Terms of use for Meilleur Sextoy: access to the site, scope of the content, liability and intellectual property."
 slug: "terms-of-service"
 translationKey: "terms-of-service"
+noindex: true
 date: 2026-09-08
 lastmod: 2026-09-08
 ---

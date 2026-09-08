@@ -3,6 +3,7 @@ title: "Mentions légales"
 description: "Mentions légales de Meilleur Sextoy : éditeur, directeur de la publication, hébergement, propriété intellectuelle et droit applicable."
 slug: "mentions-legales"
 translationKey: "legal-notice"
+noindex: true
 date: 2026-09-08
 lastmod: 2026-09-08
 ---

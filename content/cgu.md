@@ -3,6 +3,7 @@ title: "Conditions générales d'utilisation"
 description: "Conditions générales d'utilisation de Meilleur Sextoy : accès au site, portée des contenus, responsabilité, propriété intellectuelle."
 slug: "cgu"
 translationKey: "terms-of-service"
+noindex: true
 date: 2026-09-08
 lastmod: 2026-09-08
 ---

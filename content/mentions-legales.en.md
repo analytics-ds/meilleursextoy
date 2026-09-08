@@ -3,6 +3,7 @@ title: "Legal notice"
 description: "Legal notice for Meilleur Sextoy: publisher, editorial manager, hosting, intellectual property and applicable law."
 slug: "legal-notice"
 translationKey: "legal-notice"
+noindex: true
 date: 2026-09-08
 lastmod: 2026-09-08
 ---
